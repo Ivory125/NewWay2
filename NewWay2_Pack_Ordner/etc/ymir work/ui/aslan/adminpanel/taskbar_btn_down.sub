@@ -1,0 +1,7 @@
+title subImage
+version 2.0
+image "taskbar_button.dds"
+left 0
+top 64
+right 32
+bottom 96

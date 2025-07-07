@@ -1,0 +1,7 @@
+title subImage
+version 1.0
+image "forest_map_atlas.dds"
+left 0
+top 0
+right 512
+bottom 768

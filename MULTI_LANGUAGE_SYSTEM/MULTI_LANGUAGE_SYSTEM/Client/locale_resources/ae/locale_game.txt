@@ -1,0 +1,2541 @@
+ACCE_ABSORB_COST	Ћгд «б«” нЏ«»: %d
+ACCE_ALREADY_REGISTER	 г «” Џг«б е–« «б»дѕ гд ё»б.
+ACCE_DEL_ABSORDITEM	еб  —нѕ «” нЏ«» «б‘нЅ ж»«б «бн  ѕгн—ењ
+ACCE_DEL_SERVEITEM	≈–« г« Ё‘б  Џгбн… «бг“ћ° Ё≈д «бж‘«Ќ 2 ”нѕгш—.
+ACCE_DEL_SERVEITEM2	”нѕгш— «бж‘«Ќ 2 ≈–« г« Ё‘б  Џгбн… «бг“ћ.
+ACCE_INITEM	«”Ќ» «б√‘н«Ѕ дЌж «бд«Ё–….
+ACCE_MAXGRADE	≈д е–« «бж‘«Ќ гхЁ’шб.
+ACCE_MAX_DRAINRATE	ёнг… «б«” нЏ«» «бё’жм
+ACCE_NOTABSORBITEM	б« нгядя «” Џг«б √”бЌ… √ж ѕ—жЏ «” жЏ»  гд ё»б.
+ACCE_NOT_SEALITEM	б« нгядя «” Џг«б »дѕ гх— »Ў »«б—жЌ.
+ACCE_NOT_USINGITEM	б« нгядя г“ћ »хдѕ гх“жшѕ.
+ACCE_NOT_WINDOWOPEN	б« нгядя «” Џг«б «б»дѕ° Ў«бг« √д д«Ё–… «бг“ћ гЁ жЌ….
+ACCE_POSSIBLE_ACCE	б« нгядя «” Џг«б ‘нЅ ¬ќ— џн— «б√ж‘Ќ….
+ACCE_POSSIBLE_ACCEITEM	б« нгядя «” ќ—«ћ «бЏб«ж«  гд √‘н«Ѕ √ќ—м џн— «б√”бЌ… ж«бѕ—жЏ.
+AFF_LOVE_POINT	дё«Ў «бЌ»: %d%%
+ALIGNMENT_NAME	дё«Ў «б — н»:
+ATTACK_ERROR_UNKNOWN	ќЎ√ ећжгн гћежб:  %s
+ATTENDANCE_REWARD_QUESTION	еб  —џ» Ён «бЌ’жб Џбм гя«Ё√ я «б¬дњ
+ATTR_6TH_7TH_ADD_QUESTION1	б« нгядя «” ќѕ«г е–« «б»дѕ √Ћд«Ѕ ≈÷«Ё… Џб«ж….
+ATTR_6TH_7TH_ADD_QUESTION2	еб √д  г √яѕ √дя  —нѕ ≈÷«Ё… «бЏб«ж…њ
+ATTR_6TH_7TH_CHANGE_FAIL	б« нгядя  џнн— «бЏб«ж….
+ATTR_6TH_7TH_DESC1	√. нћ» Џбня ж÷Џ «бгж«ѕ «бб«“г… б≈÷«Ё… «бЏб«ж… 6 ж 7.
+ATTR_6TH_7TH_DESC2	». ” —ЁЏ яб ‘ўн… гЏѕб «бдћ«Ќ »д”»… 2%.
+ATTR_6TH_7TH_DESC3	ћ. ≈” ќѕг ≈÷«Ё«  б“н«ѕ… гЏѕб «бдћ«Ќ.
+ATTR_6TH_7TH_DESC4	ѕ. ” Ќ «ћ Џгбн… ≈÷«Ё… «бЏб«ж… ≈бм 24 ”«Џ…. ”нЌ Ёў б«Џ» «бЌ«”ж» »«б»дѕ «бг—«ѕ ≈÷«Ё… «бЏб«ж… ≈бне. »гћ—ѕ ≈я г«б «бЏгбн…° ”гядя ≈” Џ«ѕ… «б»дѕ гћѕѕ«.
+ATTR_6TH_7TH_POSSIBILITY	нгядя ≈÷«Ё… Џб«ж… ≈÷«Ён….
+ATTR_6TH_7TH_TOTAL_SUCCESS_PERCENT	Ёх—’… «бдћ«Ќ: %.1f%%
+AURA_DRAIN_PER	ёнг… «б«” нЏ«» %.1f%%
+AURA_EVOLUTION_GOLD	[е«б…] бн” бѕня н«дџ я«Ёт бб Ўжн—.
+AURA_IMPOSSIBLE_ABSORBITEM	[е«б…] б« нгяд дёб «бг“нѕ гд «бЏб«ж« .
+AURA_IMPOSSIBLE_EQUIPITEM	[е«б…] б« нгяд дёб «б»дѕ «бгће“.
+AURA_IMPOSSIBLE_EVOLUTION_ITEM	[е«б…] б« нгяд  Ўжн—е.
+AURA_IMPOSSIBLE_EVOLUTION_ITEMCOUNT	[е«б…] Џѕѕ «б»джѕ џн— я«Ё бб Ўжн—.
+AURA_IMPOSSIBLE_GROWTHITEM	[е«б…] б« нгяд  Ќ”нде.
+AURA_IMPOSSIBLE_REFINEITEM	[е«б…] нгядя «” ќѕ«г гб«»” «бе«б…°  —”° ёб«ѕ…° Ќбё ”ж«— ЁёЎ.
+AURA_IMPOSSIBLE_SEALITEM	[е«б…] б« нгядя дёб «б»джѕ «бг—»жЎ… »«б—жЌ.
+AURA_ITEM_NEED_REGISTER	[е«б…] нћ» ≈ѕ—«ћ «б»джѕ.
+AURA_LEVEL_STEP	«бг” жм %d («б— »… %d)
+AURA_MAX_LEVEL	[е«б…] бёѕ ж’б  гб«»” «бе«б… ≈бм «бг” жм «б√ё’м.
+AURA_NOTICE_DEL_ABSORDITEM	[е«б…] бёѕ  г  ѕгн— «б»дѕ «бгдёжб.
+AURA_OPEN_OTHER_WINDOW	б« нгядя «бён«г »–бя ≈д я«д  д«Ё–… «б Ќ”нд √ж «б Ўжн— √ж дёб «б≈Ќ’«∆н«  гЁ жЌ….
+AURA_POSSIBLE_AURAITEM	[е«б…] нгяд ЁёЎ бгб«»” «бе«б….
+AURA_POSSIBLE_REGISTER_AURAITEM	[е«б…] нћ» ≈ѕ—«ћ гб«»” «бе«б… √жб«.
+AURA_TITLE_ABSORB	дёб ёнг «бм гб«»” «бе«б…
+AURA_TITLE_EVOLUTION	 Ўжн— гб«»” «бе«б…
+AURA_TITLE_GROWTH	 Ќ”нд гб«»” «бе«б…
+AURA_TOOLTIP_EXP	ќ»—… (%d%% / 100%%)
+AURA_TOOLTIP_LEVEL	«бг” жм %d («б— »… %d) (ёнг… «б«” нЏ«» %.1f%%)
+AURA_TOOLTIP_NEED_YANG	%s н«дџ
+AURA_TOOLTIP_NEXT	ћѕнѕ
+AURA_TOOLTIP_NOW	Ќ«бн
+AURA_TOOLTIP_RESOURCE	√‘н«Ѕ «” еб«ян…
+AURA_TOOLTIP_RESOURCE_ITEM	%s * %d
+AUTO_TOOLTIP_LINE1	ге«—« : «ќ — ≈Ќѕм «бге«—«  ж÷Џе« Ён «бЁ Ќ«  «бгхќ’’… б–бя. (Ќ”«» гг «“)
+AUTO_TOOLTIP_LINE2	 д»не: нгядя  Џѕнб «бгѕ… «б“гдн… (»«бЋж«дн) бяб ге«—… гд «бге«—« .
+AUTO_TOOLTIP_LINE3	ћ—Џ« : «ќ — ≈Ќѕм «бћ—Џ«  ж÷Џе« Ён «бЁ Ќ«  «бгхќ’’… б–бя. (Ќ”«» гг «“)
+AUTO_TOOLTIP_LINE4	 д»не: ”н г  ЁЏнб ћ—Џ«  «бЌн«… ж«б√”бж» »гхћ—ѕ е»жЎ ёнг е«  Ќ  «бёнг… «бг∆жн… «бгхѕ—ћ….
+AUTO_TOOLTIP_LINE5	 д»не: нх‘«— бгѕ… ’б«Ќн… «бћ—Џ«  «б√ќ—м »«бЋж«дн.
+AUTO_TOOLTIP_TITLE	г”«Џѕ… «б’нѕ «б бё«∆н
+BATTLE_POINT	дё«Ў «бгЏ—я…
+BEAD	«бдћг «б—жЌн
+BEAD_TIME_REMAINING_TO_GET	”н г ‘Ќд «бдћг «б—жЌн Ён ќб«б: %d ѕёнё…/ѕё«∆ё.
+BNW_COIN	Џгб… «бЏ—«Ё
+BUY_LIMIT_LEVEL	Ќѕ «б‘—«Ѕ: %s
+CANNOT_ATTACK_DEST_IN_SAFE	≈д «бќ’г »Џнѕ ћѕ«р.
+CANNOT_ATTACK_SELF_IN_SAFE	б« «” ЎнЏ ге«ћг… «бќ’г гд ед«.
+CANNOT_DOING_PRIVATE_SHOP_OPEN	б« нгядя «бён«г »√н √г— ¬ќ— Ў«бг«  ёжг »Ё Ќ г ћ— ќ«’.
+CANNOT_EQUIP_IN_EXCHANGE	б« нгядя «” »ѕ«б «бѕ—Џ √Ћд«Ѕ «бг «ћ—….
+CANNOT_EQUIP_IN_SHOP	б« нгядя «” »ѕ«б «бѕ—Џ √Ћд«Ѕ «бг «ћ—….
+CANNOT_OPEN_PRIVATE_SHOP_IN_SAFE_AREA	б« нгядя Ё Ќ г ћ— ќ«’ »я Ён гя«д Џ«г.
+CANNOT_SHOOT_DEST_IN_SAFE	≈д «бќ’г »Џнѕ ћѕ«р.
+CANNOT_SHOOT_EMPTY_ARROW	≈ддн »Ќ«ћ… ≈бм ”ег.
+CANNOT_SHOOT_SELF_IN_SAFE	б« нгяддн ге«ћг… «бќ’г гд ед«.
+CANNOT_SKILL_APPROACH	√д« г √яѕ »√ддн бд «ё —» где.
+CANNOT_SKILL_ATTACK	б« нгяддн ге«ћг я.
+CANNOT_SKILL_BLUE	б« нгядя «” Џг«б —жЌ «б–∆» «бдшнбн ≈–« я«д  —жЌ «б–∆» «бя—“н гхЁЏшб….
+CANNOT_SKILL_DEST_IN_SAFE	≈д «бќ’г »Џнѕ ћѕ«р.
+CANNOT_SKILL_EQUIP_FISHING_ROD	ѕжд ≈” ќѕ«г ’д«—… ’нѕ гће“… б« нгядя ’нѕ «б”гя.
+CANNOT_SKILL_HAVE_TO_RIDE	≈ддн »Ќ«ћ… ≈бм Ќ’«д б«” Џг«бе.
+CANNOT_SKILL_NEED_EMPTY_BOTTLE	≈ддн б« √гбя ё«—ж—… Ё«—џ….
+CANNOT_SKILL_NEED_POISON_BOTTLE	≈ддн б« √гбя ё«—ж—… ”г.
+CANNOT_SKILL_NEED_TARGET	гдц «беѕЁњ
+CANNOT_SKILL_NOT_ENOUGH_HP	≈ддн б« √гбя г« няЁн гд дё«Ў «бЌн«…!
+CANNOT_SKILL_NOT_ENOUGH_SP	≈ддн б« √гбя дё«Ў √”бж» я«Ён…!
+CANNOT_SKILL_NOT_HORSE_SKILL	б« √” ЎнЏ «” Џг«бе √Ћд«Ѕ —яж»н «бЌ’«д.
+CANNOT_SKILL_NOT_MATCHABLE_WEAPON	б« «” ЎнЏ «” Џг«б е–е «бге«—… »е–« «б”б«Ќ.
+CANNOT_SKILL_NOT_YET_LEARN	≈ддн бг √ Џбг е–е «бге«—… »Џѕ.
+CANNOT_SKILL_ONLY_FOR_ALLIANCE	е–« нƒЋ— ЁёЎ Џбм √Џ÷«Ѕ «бЁ—нё.
+CANNOT_SKILL_ONLY_FOR_CORPSE	≈д е–« нƒЋ— ЁёЎ Џбм «бгж м.
+CANNOT_SKILL_RED	б« нгядя «” Џг«б —жЌ «б–∆» «бя—“н ≈–« я«д  —жЌ «б–∆» «бдшнбн гхЁЏшб….
+CANNOT_SKILL_REMOVE_FISHING_ROD	б« нгяддн «” Џг«б е–е «бге«—… гЏ ’д«—… ’нѕ.
+CANNOT_SKILL_SELF_IN_SAFE	б« «” ЎнЏ «бге«ћг… гд ед«.
+CANNOT_SKILL_USE_SELF	б« нгяддн «” Џг«бе Џбм дЁ”н.
+CANNOT_SKILL_WAIT_COOLTIME	б« нгяддн «” Џг«б е–е «бге«—… »Џѕ.
+CANNOT_USE	б« нгядя «” Џг«бе.
+CANNOT_WHISPER_DEST_REFUSE	√џбё %s «бег” »«бя«гб.	SA
+CANNOT_WHISPER_NOT_LOGON	≈д %s џн— гх ’б	SA
+CANNOT_WHISPER_SELF_REFUSE	б« нгядя «бег” б√Ќѕ ≈–« √џбё  «бег” »«бя«гб.	SNA
+CATEGORY_ARMOR_ARMOR_BODY	ѕ—жЏ
+CATEGORY_ARMOR_ARMOR_HEAD	ќж–
+CATEGORY_ARMOR_ARMOR_SHIELD	ѕ—жЏ
+CATEGORY_COSTUMES	√“н«Ѕ
+CATEGORY_COSTUMES_COSTUME_BODY	√“н«Ѕ
+CATEGORY_COSTUMES_COSTUME_HAIR	 ”—нЌ« 
+CATEGORY_COSTUMES_COSTUME_WEAPON	Ў—«“ «б√”бЌ…
+CATEGORY_COSTUMES_ETC	џн—е
+CATEGORY_COSTUMES_SASH	√ж‘Ќ…
+CATEGORY_DRAGON_STONE	янгн«Ѕ Ќћ— «б днд
+CATEGORY_DRAGON_STONE_DRAGON_DIAMOND	г«”
+CATEGORY_DRAGON_STONE_DRAGON_GARNET	Џёнё
+CATEGORY_DRAGON_STONE_DRAGON_JADE	н‘г
+CATEGORY_DRAGON_STONE_DRAGON_ONYX	ћ“Џ
+CATEGORY_DRAGON_STONE_DRAGON_RUBY	н«ёж 
+CATEGORY_DRAGON_STONE_DRAGON_SAPPHIRE	н«ёж  √“—ё
+CATEGORY_DRAGON_STONE_ETC	џн—е
+CATEGORY_EQUIPMENT_ARMOR	ѕ—жЏ жЏ «ѕ
+CATEGORY_EQUIPMENT_JEWELRY	Ќбн
+CATEGORY_EQUIPMENT_WEAPON	√”бЌ…
+CATEGORY_ETC	џн—е
+CATEGORY_ETC_ETC	џн—е
+CATEGORY_ETC_EVENT	»джѕ «б«Ќ Ё«бн…
+CATEGORY_ETC_GIFTBOX	’д«ѕнё | Џб»
+CATEGORY_ETC_MATRIMORY	Џх—”
+CATEGORY_ETC_PARTI	я » Ёджд «бЌ—»
+CATEGORY_ETC_POLYMORPH	я—… «б Ќжб
+CATEGORY_ETC_RECIPE	ќбЎ «бћ—Џ« 
+CATEGORY_ETC_SEAL	«б—»Ў »«б—жЌ
+CATEGORY_FISHING_PICK	’нѕ «б”гя | «” џб«б «бгд«ћг
+CATEGORY_FISHING_PICK_EQUIPMENT_PICK	гд«ян‘
+CATEGORY_FISHING_PICK_ETC	џн—е
+CATEGORY_FISHING_PICK_FISHING_POLE	’д«—… «б’нѕ
+CATEGORY_FISHING_PICK_FOOD	”гя
+CATEGORY_FISHING_PICK_PICK_BOOK	я » «б Џѕнд
+CATEGORY_FISHING_PICK_STONE	гЏ«ѕд
+CATEGORY_JEWELRY_ARMOR_EAR	Ќбё
+CATEGORY_JEWELRY_ARMOR_FOOTS	√Ќ–н…
+CATEGORY_JEWELRY_ARMOR_NECK	ёб«∆ѕ
+CATEGORY_JEWELRY_ARMOR_PENDANT	 Џжн–…
+CATEGORY_JEWELRY_ARMOR_WRIST	√”«ж—
+CATEGORY_JEWELRY_ITEM_BELT	√Ќ“г…
+CATEGORY_MOUNT_PET	ѕж«» | —Ё«ё
+CATEGORY_MOUNT_PET_CHARGED_PET	—Ё«ё
+CATEGORY_MOUNT_PET_EGG	»н÷ «б—шЁ«ё
+CATEGORY_MOUNT_PET_FREE_PET	—Ё«ё нгяд  Ўжн—е«
+CATEGORY_MOUNT_PET_MOUNT	ѕж«»
+CATEGORY_POTION	ћ—Џ« 
+CATEGORY_POTION_ABILITY	гж«ѕ «” еб«ян…
+CATEGORY_POTION_ETC	џн—е
+CATEGORY_POTION_HAIRDYE	’»«џ… ‘Џ—
+CATEGORY_SKILL	ге«—« 
+CATEGORY_SKILL_BOOK_OF_OBLIVION	ях » «бд”н«д
+CATEGORY_SKILL_ETC	џн—е
+CATEGORY_SKILL_PAHAE	’ѕ | ѕЁЏ
+CATEGORY_SKILL_SKILL_BOOK	ях » «бге«—« 
+CATEGORY_TUNING	 Ќ”нд« 
+CATEGORY_TUNING_ETC	џн—е
+CATEGORY_TUNING_RESOURCE	гж«ѕ
+CATEGORY_TUNING_STONE	Ќћ— ‘»Ќн
+CATEGORY_UNIQUE	»джѕ ќ«’…
+CATEGORY_UNIQUE_ABILITY	гж«ѕ «” еб«ян…
+CATEGORY_UNIQUE_ETC	џн—е
+CATEGORY_WEAPON_WEAPON_ARROW	√”ег
+CATEGORY_WEAPON_WEAPON_BELL	√ћ—«”
+CATEGORY_WEAPON_WEAPON_BOW	√ёж«”
+CATEGORY_WEAPON_WEAPON_CLAW	гќ«б»
+CATEGORY_WEAPON_WEAPON_DAGGER	ќд«ћ—
+CATEGORY_WEAPON_WEAPON_FAN	г—«жЌ
+CATEGORY_WEAPON_WEAPON_MOUNT_SPEAR	—г«Ќ
+CATEGORY_WEAPON_WEAPON_QUIVER	ћЏ»… «б”е«г
+CATEGORY_WEAPON_WEAPON_SWORD	√”бЌ… нѕ ж«Ќѕ…
+CATEGORY_WEAPON_WEAPON_TWO_HANDED	√”бЌ… нѕнд
+CHANGE_ALREADY_REGISTER	[ ‘янб]  г «” Џг«б е–« «б‘∆ гд ё»б.
+CHANGE_LOOK_CHANGE_ITEM	еб  —нѕ  ‘янб «б‘∆њ
+CHANGE_LOOK_CHECK_OUT_REGISTER_ITEM	[ ‘янб] н—ћм √жб«р ≈“«б… «б‘∆ «б–н  жѕ  ‘янбе.
+CHANGE_LOOK_COST	Ћгд «б ‘янб: %s н«дџ
+CHANGE_LOOK_DEL_ITEM	”н г  ѕгн— е–« «б‘нЅ
+CHANGE_LOOK_DO_NOT_CHANGE_LOOK_ITEM	[ ‘янб] б« нгяд Џгб  ‘янб бе–« «б‘∆.
+CHANGE_LOOK_DO_NOT_EQUIP_ITEM	[ ‘янб] б« нгядя Џгб  ‘янб бе–« «б‘∆ √Ћд«Ѕ  ћен“е.
+CHANGE_LOOK_DO_NOT_REGISTER_ITEM	[ ‘янб] б« нгяд  ”ћнб е–« «б‘∆.
+CHANGE_LOOK_DO_NOT_SEAL_ITEM	[ ‘янб] е–« «б‘∆ г—»жЎ »«б—жЌ.
+CHANGE_LOOK_INSERT_CHANGE_LOOK_ITEM	[ ‘янб] н—ћм  ”ћнб «б‘∆ «б–н  —нѕ Џгб  ‘янб бе.
+CHANGE_LOOK_INSERT_ITEM	[ ‘янб] Џбня  ”ћнб «б‘∆ √жбр«
+CHANGE_LOOK_NEED_MONEY	бн” бѕня н«дџ я«Ён √ж бн” бѕня г« няЁн гд «б»джѕ.
+CHANGE_LOOK_OPEN_OTHER_WINDOW	[ ‘янб] б« н г ≈ «Ќ… е–е «бЏгбн… Џдѕ Ё Ќ д«Ё–… " ‘янб".
+CHANGE_LOOK_TITLE	 ‘янб
+CHANGE_LOOK_TITLE2	 Ќжнб-«бѕж«»
+CHANGE_PET_PLEASE_APPEND_FIRST	нћ» «” ѕЏ«Ѕ «б—Ёнё √жб«.
+CHANGE_TOOLTIP2_LINE1	÷Џ «б»дѕ «беѕЁ Џбм «бн”«— ж«бгж«ѕ «бб«“г… Џбм «бнгнд.
+CHANGE_TOOLTIP2_LINE2	√дё— Џб«г… «б≈ќ н«— б≈” ќѕ«г «бн«дџ √ж Џб«г… «б Ќжнб б џнн— ‘яб «бѕ«»….
+CHANGE_TOOLTIP2_LINE3	Џб«г… «б Ќжнб  ёжг » џнн— ‘яб «бѕ«»… »ѕжд «” еб«я «бн«дџ. (бёѕ  г  ѕгн— «бЏб«г…)
+CHANGE_TOOLTIP2_LINE4	≈–«  г  џнн— ‘яб «бѕ«»… »гѕ… ’б«Ќн…° Ё” ” г— гѕ… «б’б«Ќн… «б√’бн….
+CHANGE_TOOLTIP2_LINE5	Ён Ќ«б я«д  «бѕ«»… «беѕЁ ѕ«∆г… ж«бѕ«»… «бг” ќѕг…  Ќгб гѕ… ’б«Ќн…° ” яжд гѕ… ’б«Ќн… «б џнн— г”«жн… бгѕ… ’б«Ќн… «бѕ«»… «бг” ќѕг….
+CHANGE_TOOLTIP_LINE1	÷Џ «б‘∆ «б–н нд»џн ≈ћ—«Ѕ «б ‘янб Џбне ≈бм «бн”«—.
+CHANGE_TOOLTIP_LINE2	÷Џ «б‘∆ «б¬ќ— ≈бм «бнгнд.
+CHANGE_TOOLTIP_LINE3	”н џн— ‘яб «б‘∆ «бгжћжѕ ≈бм «бн”«—° Џдѕг«
+CHANGE_TOOLTIP_LINE4	 ёжг » √янѕ «б ‘янб жн г ”Ќ» н«дџ гд —’нѕя.
+CHANGE_TOOLTIP_LINE5	Џдѕ «” ќѕ«гя бе–« «б‘нЅ°
+CHANGE_TOOLTIP_LINE6	нгядя  ‘янб »джѕя »ѕжд ≈” ќѕ«г «бн«дџ.
+CHANGE_TOOLTIP_TITLE	 ‘янб
+CHANNEL	ёд«…
+CHANNELING_CANNOT_LOGOUT	б« нгядя «бЏжѕ… ≈бм д«Ё–… «б ”ћнб.
+CHANNEL_EMPTY_SERVER	б« жћжѕ бќ«ѕг
+CHANNEL_NORMAL	ёд«… %d
+CHANNEL_NOTIFY_FULL	≈д е–е «бёд«… гг б∆…! «б—ћ«Ѕ «ќ н«— ёд«… √ќ—м.
+CHANNEL_NOT_FIND_INFO	б«  жћѕ ед«я гЏбжг«  Џд е–е «бёд«….
+CHANNEL_PVP	г»«—“… Ќ—…
+CHANNEL_SELECT_CHANNEL	«ќ — «бёд«…
+CHANNEL_SELECT_REGION	«ќ — гя«д ж÷Џ «бЁ« ж—…
+CHANNEL_SELECT_SERVER	«ќ н«— «бќ«ѕг
+CHANNEL_STATUS_BUSY	г‘џжб
+CHANNEL_STATUS_FULL	ггбжЅ
+CHANNEL_STATUS_OFFLINE	џн— гЏ—жЁ
+CHANNEL_STATUS_RECOMMENDED	дж’н »№е
+CHANNEL_STATUS_VACANT	ќЁнЁ
+CHANNEL_TEST_SERVER	 ћ—н» «бќ«ѕг
+CHANNEL_TEST_SERVER_ADDR	«ќ »«— %s:%d
+CHARACTER_CREATE_MODE	≈д‘«Ѕ ‘ќ’н…
+CHARACTER_NAME	«”г
+CHARACTER_SELECT_MODE	«ќ н«— ‘ќ’н…
+CHARGE_BEAD_QUESTION	 Ќ «ћ ≈бм: %d дћг —жЌн. еб  —џ» Ён «бг «»Џ…њ
+CHAT_ALL	«бћгнЏ
+CHAT_BLOCK	Ќў—
+CHAT_DICE_INFO	—гн…
+CHAT_GUILD	—«»Ў…
+CHAT_INFORMATION	гЏбжг…
+CHAT_INSULT_STRING	«бћгб…  Ќ жн Џбм ябг«  гхќб… »«б√ѕ».
+CHAT_LOG	≈ўе«— «б—”«∆б «бёѕнг… [L]
+CHAT_LOG_TITLE	”цћбшх «бѕ—ѕ‘…
+CHAT_NORMAL	Џ«ѕн
+CHAT_NOTICE	ќ«ѕг
+CHAT_PARTY	гћгжЏ…
+CHAT_SEND_CHAT	≈—”«б «бѕ—ѕ‘…
+CHAT_SEND_MEMO	≈—”«б ег” [Shift+Enter]
+CHAT_SHOUT	дѕ«Ѕ
+CHAT_SHOUT_LIMIT	нхгядя «бдѕ«Ѕ яб 15 Ћ«дн… ЁёЎ
+CHAT_WHISPER	ег”
+CHEQUE_SYSTEM_DO_NOT_DROP_MONEY	б« нгядя ≈”ё«Ў «бг«б.
+CHEQUE_SYSTEM_PICK_WON	бёѕ Ќ’б  Џбм %d жжд.
+CHEQUE_SYSTEM_SELL_PRICE	[Ћгд «б»нЏ]
+CHEQUE_SYSTEM_UNIT_WON	жжд
+CHEQUE_SYSTEM_UNIT_YANG	н«дџ
+CHEQUE_SYSTEM_WON	%s жжд
+CHEQUE_SYSTEM_YANG	%s н«дџ
+CLEAR_FLOOR	«бг” жм
+CLEAR_TIME	«бжё 
+ClosePetChangeWndButton	√џбё
+COMB_ACCE_IS_CONTINUE_PROCESS	еб  —џ» Ён «бг «»Џ…њ
+COMB_ACCE_WARNING_MESSAGE	«бдћ«Ќ √ж «бдћ«Ќ «бћ“∆н нƒѕн «бм  ѕгн— «б√’б. нгяд бЏгбн… «бдёб √д  Ё‘б. Ён Ќ«б «бЁ‘б √ж «бдћ«Ќ «бћ“∆н ” дќЁ÷ ёнг… «б«” нЏ«» Ён «беѕЁ.
+COMB_ACCE_WARNING_MESSAGE1	«бдћ«Ќ √ж «бдћ«Ќ «бћ“∆н нƒѕн «бм  ѕгн— «б√’б.
+COMB_ACCE_WARNING_MESSAGE2	нгяд бЏгбн… «бдёб √д  Ё‘б.
+COMB_ACCE_WARNING_MESSAGE3	Ён Ќ«б «бЁ‘б √ж «бдћ«Ќ «бћ“∆н ” дќЁ÷ ёнг… «б«” нЏ«» Ён «беѕЁ.
+COMB_ACCE_WILL_REMOVE_MATERIAL	«бдћ«Ќ √ж «бдћ«Ќ «бћ“∆н нƒѕн «бм  ѕгн— «б√’б.
+COMB_ALREADY_APPEND	 г «ќ н«— е–« «б»дѕ гд ё»б.
+COMB_CANT_APPEND_ITEM	б« нгядя «” Џг«б е–« «б»дѕ.
+COMB_CANT_APPEND_SEALED_ITEM	б« нгядя «” Џг«б »дѕ гх— »Ў »«б—жЌ.
+COMB_CANT_BASE_ITEM	б« нгяд бж‘«Ќ нЌ жн Џб«ж«  √д няжд еѕЁ«.
+COMB_CANT_MATCH_DRAINRATE	ббён«г »Џгбн… дёб «бЏб«ж«  Џбм ёнг… «б√” нЏ«» √д  яжд г Ў«»ё… Ён «бЎ—Ёнд.
+COMB_CANT_MATCH_GRADE	ббён«г »Џгбн… дёб «бЏб«ж«  Џбм «бг” жм √д няжд г Ў«»ё« Ён «бЎ—Ёнд.
+COMB_CANT_MATERIAL_ITEM	Џбм «бж‘«Ќ «б√’бн √д нЌ жн Џбм Џб«ж… Џбм «б√ёб.
+COMB_COST	«б”Џ—: %s
+COMB_IS_CONTINUE_PROCESS	еб  —џ» Ён «бг «»Џ…њ
+COMB_NOTICE	б« нгядя «Ё  «Ќ г ћ— ќ«’° Ў«г« √дя »’ѕѕ «” »ѕ«б «бя ».
+COMB_NOTICE_NOT_OPEN	б« нгядя «” »ѕ«б √н… ях » ≈–« «Ё Ќ  г ћ—я «бќ«’.
+COMB_NOT_ALL_SLOT_APPEND_ITEM	” Ќ «ћ ≈бм «б√’б° «беѕЁ ж»дѕ «бдёб бдёб «бЏб«ж« .
+COMB_NOT_FULL_BOOK	б«° џн— ггяд. ≈ддн жяг« ”»ё «б–я— бд «” »ѕб гЏя ≈б«ш ≈–« √Ќ÷—  бн 10 я ».
+COMB_NOT_ITEM_IN_INVENTORY	б« нгядя «” Џг«б »джѕ гх“жшѕ….
+COMB_NOT_MEDIUM_ITEM	б« нгядя «” Џг«б е–« «б»дѕ.
+COMB_WILL_REMOVE_MATERIAL	”н г  ѕгн— «б√’б Џдѕ дћ«Ќ «бЏгбн….
+CREATE_ERROR_GM_NAME	б« н”гЌ »«” ќѕ«г Ќ—жЁ ТТGMТТ (”нѕ «ббЏ»…) Ён «”г «бб«Џ».
+CREATE_ERROR_INSULT_NAME	«б«”г џн— ’«бЌ.	
+CREATE_ERROR_LIMIT_LEVEL	нћ» √д б« нёб г” жм ‘ќ’н я Џд 80.
+CREATE_ERROR_TIME_LIMIT	б« нгядя ≈д‘«Ѕ ‘ќ’н… ≈÷«Ён… ≈бш« »Џѕ 30 Ћ«дн….
+CREATE_ERROR_WRONG_STRING	ггджЏ «” ќѕ«г «”г «б‘ќ’н… е–«.
+CREATE_EXIST_SAME_NAME	ед«я ‘ќ’н… √ќ—м  Ќгб е–« «б«”г.	
+CREATE_FAILURE	б« нгядя ≈д‘«Ѕ е–е «б‘ќ’н….
+CREATE_FULL	б« нгядя ≈д‘«Ѕ ‘ќ’н… ≈÷«Ён….
+CREATE_GM_NAME	г‘—Ё «ббЏ»…
+CREATE_INPUT_NAME	÷Џ «”гя.
+CREATE_PLUS_STAT	г«  “«б дё«Ў «бж÷Џ гх «Ќ….
+CUBE_CATEGORY_ACCESSORY	Ќбн
+CUBE_CATEGORY_ARMOR	ѕ—жЏ
+CUBE_CATEGORY_BELT	√Ќ“г…
+CUBE_CATEGORY_ETC	«бќ.
+CUBE_CATEGORY_EVENT	«Ќ Ё«бн…
+CUBE_CATEGORY_PET	—Ёнё
+CUBE_CATEGORY_SETADD_ARMOR	≈д‘«Ѕ Ўёг «бѕ—Џ
+CUBE_CATEGORY_SETADD_HELMET	≈д‘«Ѕ Ўёг «бќж–…
+CUBE_CATEGORY_SETADD_WEAPON	≈д‘«Ѕ Ўёг «б”б«Ќ
+CUBE_CATEGORY_WEAPON	”б«Ќ
+CUBE_LIST_TEXT_ITEM_INFO	%sЌ (%d%%)
+CUBE_LIST_TEXT_MAKE_QUANTITY	[%d]
+CUBE_MAKE_CONFIRM_QUESTION_1	ед«я »дѕ ж«Ќѕ г” ќѕг Џбм «б√ёб –ж ёнг… г— ЁЏ… (нЌ жн Џбм √яЋ— гд %d Џб«ж…).
+CUBE_MAKE_CONFIRM_QUESTION_2	еб  —нѕ –бя ЁЏб«рњ
+CUBE_NOT_ENOUGH_GEM	бн” бѕня г«няЁн гд «бџ«н«.
+CUBE_NOT_ENOUGH_GOLD	б«  г бя г« няЁн гд н«дџ.
+CUBE_NOT_ENOUGH_MATERIAL	б«  г бя г« няЁн гд гж«ѕ.
+CUBE_PLEASE_SELECT	бг н г «ќ н«— √н »джѕ.
+CZ_REWARD_QUESTION_COMPLETE	еб  жѕ  Ќжнбењ
+CZ_REWARD_TOOLTIP_10GAN	ж”«г “жѕн«я
+CZ_REWARD_TOOLTIP_10GAN_COUNT	«бЏѕѕ Ён ё«∆г… «бћ—ѕ
+CZ_REWARD_TOOLTIP_10GAN_NEED_COUNT	«бЏѕѕ «бгЎбж»
+CZ_REWARD_TOOLTIP_12ZI	ж”«г «бЌ«—”
+CZ_REWARD_TOOLTIP_12ZI_COUNT	«бЏѕѕ Ён ё«∆г… «бћ—ѕ
+CZ_REWARD_TOOLTIP_12ZI_NEED_COUNT	«бЏѕѕ «бгЎбж»
+CZ_REWARD_TOOLTIP_ALL_BOX	яд“ дћгн
+CZ_REWARD_TOOLTIP_CAN_GET_ALL_BOX	«дё— ед« б Ќ’б Џбм «бяд“ «бдћгн ягя«Ё∆….
+CZ_REWARD_TOOLTIP_CAN_GET_GREEN_BOX	«дё— ед« б Ќ’б Џбм яд“ «Ёнд ж—нд ягя«Ё∆….
+CZ_REWARD_TOOLTIP_CAN_GET_YELLOW_BOX	«дё— ед« б Ќ’б Џбм яд“ √ж—нхжбнд ягя«Ё∆….
+CZ_REWARD_TOOLTIP_COMPLETABLE	 Ќжнб
+CZ_REWARD_TOOLTIP_GREEN_BOX	яд“ «Ёнд ж—нд
+CZ_REWARD_TOOLTIP_GREEN_BOX_COMP_CNT	Ќ’б  Џбм: %d яд“ √ж—нхжбнд
+CZ_REWARD_TOOLTIP_WEEKLY	нжг
+CZ_REWARD_TOOLTIP_WEEKLY_FRI	«бћгЏ…
+CZ_REWARD_TOOLTIP_WEEKLY_MON	«б«Ћднд
+CZ_REWARD_TOOLTIP_WEEKLY_SAT	«б”» 
+CZ_REWARD_TOOLTIP_WEEKLY_SAT_SUN	«б”» /«б√Ќѕ
+CZ_REWARD_TOOLTIP_WEEKLY_THU	«бќгн”
+CZ_REWARD_TOOLTIP_WEEKLY_TUE	«бЋб«Ћ«Ѕ
+CZ_REWARD_TOOLTIP_WEEKLY_WED	«б√—»Џ«Ѕ
+CZ_REWARD_TOOLTIP_YELLOW_BOX	яд“ √ж—нхжбнд
+CZ_REWARD_TOOLTIP_YELLOW_BOX_COMP_CNT	Ќ’б  Џбм: %d яд“ √ж—нхжбнд
+DAY	н
+DETAILS_0	ёжн ÷ѕ «бг« нд
+DETAILS_1	ёжн ÷ѕ д’Ё «б»‘—
+DETAILS_10	ёжн ÷ѕ жЌж‘ «б’Ќ—«Ѕ
+DETAILS_11	ёжн ÷ѕ «бЌ‘—« 
+DETAILS_12	ёнг… «бећжг
+DETAILS_13	ёнг… «бѕЁ«Џ
+DETAILS_14	гЏѕб «б÷——
+DETAILS_15	гё«жг… гЏѕб «б÷——
+DETAILS_16	√÷—«— «бге«—…
+DETAILS_17	гё«жг… «бге«—….
+DETAILS_18	ећжг ”Ќ—н/ћ”ѕн
+DETAILS_19	ећжг ”Ќ—н
+DETAILS_2	гё«жг… д’Ё «б»‘—
+DETAILS_20	Ё—’… «б÷—»… «бЌ—ћ…
+DETAILS_21	÷—»… ќ«—ё…
+DETAILS_22	г. «б÷—»«  «бЌ—ћ…
+DETAILS_23	г. «б÷—»«  «бќ«—ё…
+DETAILS_24	гё«жг… «б»—ё
+DETAILS_25	гё«жг… «бЋбћ
+DETAILS_26	гё«жг… «бўб«г
+DETAILS_27	гё«жг… «бд«—
+DETAILS_28	гё«жг… «б—н«Ќ
+DETAILS_29	гё«жг… «б√—÷
+DETAILS_3	ёжн ÷ѕ «бџнб«д
+DETAILS_30	ёж… «б»—ё
+DETAILS_31	ёж… «бћбнѕ
+DETAILS_32	ёж… «бўб«г
+DETAILS_33	ёж… «бд«—
+DETAILS_34	ёж… «б—н«Ќ
+DETAILS_35	ёж… «б√—÷
+DETAILS_36	ёжн ÷ѕ «бгЌ«—»
+DETAILS_37	ёжн ÷ѕ «бдндћ«
+DETAILS_38	ёжн ÷ѕ «б”ж—«
+DETAILS_39	ёжн ÷ѕ «б‘«г«д
+DETAILS_4	ёжн ÷ѕ «б“жг»н
+DETAILS_40	ёжн ÷ѕ «ббня«д—
+DETAILS_41	ѕЁ«Џ ÷ѕ «бгЌ«—»
+DETAILS_42	ѕЁ«Џ ÷ѕ «бдндћ«
+DETAILS_43	ѕЁ«Џ ÷ѕ «б”ж—«
+DETAILS_44	ѕЁ«Џ ÷ѕ «б‘«г«д
+DETAILS_45	ѕЁ«Џ ÷ѕ «ббня«д—
+DETAILS_46	«бѕЁ«Џ «б”нЁн
+DETAILS_47	ѕЁ«Џ ”нЁ «бнѕнд
+DETAILS_48	ѕЁ«Џ ќдћ—н
+DETAILS_49	ѕЁ«Џ гќб»н
+DETAILS_5	ёжн ÷ѕ «бжЌж‘
+DETAILS_50	ѕЁ«Џ ћ—”н
+DETAILS_51	ѕЁ«Џ г—жЌн
+DETAILS_52	гё«жг… «б”ег
+DETAILS_53	Ёх—’ «б≈џг«Ѕ
+DETAILS_54	Ё—’ «б »ЎнЅ
+DETAILS_55	Ё—’… «б ”гг
+DETAILS_56	гё«жг… «б”гжг
+DETAILS_57	ећжг гхд“Ё
+DETAILS_58	г. «бећжг «бгхд“Ё
+DETAILS_59	”—ё… дё«Ў «бЌн«…
+DETAILS_6	ёжн ÷ѕ жЌж‘ “жѕн«я
+DETAILS_60	”—ё… дё«Ў «б√”бж»
+DETAILS_61	≈” Џ«ѕ… дё«Ў «бЌн«…
+DETAILS_62	≈” Џ«ѕ… дё«Ў «б√”бж»
+DETAILS_63	’ѕ «бећжг «бћ”ѕн
+DETAILS_64	 Ё«ѕн «бећжг «б”егн
+DETAILS_65	Џя” «бећжг «бћ”ѕн
+DETAILS_66	≈.д.Ќ Џдѕ «бё б
+DETAILS_67	≈.д.√ Џдѕ «бё б
+DETAILS_68	г÷«ЏЁ… «бќ»—… EXP
+DETAILS_69	г÷«ЏЁ… «бн«дџ
+DETAILS_7	ёжн ÷ѕ «бЌнж«д« 
+DETAILS_70	Ё—’… «б≈”ё«Ў
+DETAILS_71	ёнг… «бећжг
+DETAILS_72	ѕЁ«Џ
+DETAILS_73	ќ»—… EXP
+DETAILS_74	Ё—’… «б≈”ё«Ў
+DETAILS_75	г÷«ЏЁ… «бн«дџ
+DETAILS_76	гё«жг… «б”Ќ—
+DETAILS_77	я”— «б”шЌ—
+DETAILS_8	ё.÷. «бЎ«∆Ё… «б”—н…
+DETAILS_9	ёжн ÷ѕ «б‘нЎ«д
+DETAILS_ATTBONUS_BELL	я”— «бћ—”
+DETAILS_ATTBONUS_BOW	я”— «б”ег
+DETAILS_ATTBONUS_CLAW	я”— «бгќб»
+DETAILS_ATTBONUS_DAGGER	я”— «бќдћ—
+DETAILS_ATTBONUS_FAN	я”— «бг—жЌ…
+DETAILS_ATTBONUS_SWORD	я”— «б”нЁ
+DETAILS_ATTBONUS_TWOHAND	я”— ”нЁ «бнѕнд
+DETAILS_CATE_1	÷——/ѕЁ«Џ
+DETAILS_CATE_2	Џб«ж«  «бЏд«’—
+DETAILS_CATE_3	Џб«ж«  «бЎ»ё« 
+DETAILS_CATE_4	Џб«ж«  «б”б«Ќ
+DETAILS_CATE_5	Џб«ж«  √ќ—м
+DETAILS_CATE_6	Џб«ж«  ќ«’…
+DETAILS_RESIST_MOUNT_FALL	гё«жг… «б”ёжЎ
+DETAILS_TITLE	«б Ё«’нб
+DETAILS_TOOLTIP_0	ёжн ÷ѕ √Ќћ«— «бг« нд: н”»» ÷——« «я»— Џбм √Ќћ«— «бг« нд.
+DETAILS_TOOLTIP_1	ёжн ÷ѕ д’Ё «б»‘—:  бЌё ÷—— √я»— »д’Ё «б»‘—.
+DETAILS_TOOLTIP_10	ёжн ÷ѕ жЌж‘ «б’Ќ—«Ѕ: н”»» ÷——« √я»— ÷ѕ жЌж‘ «б’Ќ—«Ѕ.
+DETAILS_TOOLTIP_11	ёжн ÷ѕ «бЌ‘—« : н”»» ÷——« √я»— ÷ѕ «бЌ‘—« 
+DETAILS_TOOLTIP_12	н—ЁЏ ёнг… «бећжг «бќ«’… »я.
+DETAILS_TOOLTIP_13	н—ЁЏ гд ёнг… «бѕЁ«Џ «бќ«’… »я.
+DETAILS_TOOLTIP_14	н—ЁЏ гд ёнг… гЏѕб «б÷—— «б–н  ”»»е √Ћд«Ѕ «бећжг.
+DETAILS_TOOLTIP_15	гё«жг… гЏѕб «б÷——: нёбб гд ёнг… гЏѕб «б÷—— «б–н   Џ—÷ бе √Ћд«Ѕ «бећжг.
+DETAILS_TOOLTIP_16	н—ЁЏ гд ёнг… √÷—«— «бге«—….
+DETAILS_TOOLTIP_17	гё«жг… √÷—«— «бге«—…: нёбб гд ёнг… √÷—«— «бге«—… «б н   Џ—÷ бе« Џдѕ «бећжг.
+DETAILS_TOOLTIP_18	н—ЁЏ гд ёнг… «бећжг «бћ”ѕн ж«б”Ќ—н.
+DETAILS_TOOLTIP_19	н—ЁЏ гд ёнг… «б÷—— «б–н  бЌёе бќ’жгя Џдѕ ≈” ќѕ«г ећжг ”Ќ—н.
+DETAILS_TOOLTIP_2	гё«жг… д’Ё «б»‘—: нёбб гд «б÷—— «б–н   Џ—÷ бе Џдѕ ге«ћг я гд д’Ё «б»‘—.
+DETAILS_TOOLTIP_20	н—ЁЏ гд Ё—’  Ќёнё ≈’«»… Ќ—ћ….
+DETAILS_TOOLTIP_21	Ё—’…  Ќёнё ÷—»… ќ«—ё…: н—ЁЏ гд Ё—’  Ќёнё ÷—»… ќ«—ё….
+DETAILS_TOOLTIP_22	гё«жг… «б≈’«»… «бЌ—ћ…: нёбб гд «б÷—— «б–н   Џ—÷ бе Џдѕ  Џ—÷я б≈’«»… Ќ—ћ….
+DETAILS_TOOLTIP_23	гё«жг… «б÷—»… «бќ«—ё…: нёбб гд «б÷—— «б–н   Џ—÷ бе Џдѕ ≈’«» я »÷—»… ќ«—ё….
+DETAILS_TOOLTIP_24	нёбб гд «б÷—— «б–н   ”»» »е жЌж‘ гЏнд….
+DETAILS_TOOLTIP_25	нёбб гд «б÷—— «б–н   ”»» »е жЌж‘ гЏнд….
+DETAILS_TOOLTIP_26	гё«жг… «бўб«г: нёбб гд «б÷—— «б–н   ”»» »е жЌж‘ гЏнд….
+DETAILS_TOOLTIP_27	нёбб гд «б÷—— «б–н   ”»» »е жЌж‘ гЏнд….
+DETAILS_TOOLTIP_28	нёбб гд «б÷—— «б–н   ”»» »е жЌж‘ гЏнд….
+DETAILS_TOOLTIP_29	нёбб гд «б÷—— «б–н   ”»» »е жЌж‘ гЏнд….
+DETAILS_TOOLTIP_3	ёжн ÷ѕ «бџнб«д: н—ЁЏ гд ёнг… «б÷— ÷ѕ «бџнб«д.
+DETAILS_TOOLTIP_30	н—ЁЏ гд «б÷—— «б–н  ”»»е »ёж… «б÷жЅ.
+DETAILS_TOOLTIP_31	н—ЁЏ гд «б÷—— «б–н  ”»»е »ёж… «бћбнѕ.
+DETAILS_TOOLTIP_32	н—ЁЏ гд «б÷—— «б–н  ”»»е »ёж… «бўб«г.
+DETAILS_TOOLTIP_33	н—ЁЏ гд «б÷—— «б–н  ”»»е »ёж… «бд«—.
+DETAILS_TOOLTIP_34	н—ЁЏ гд «б÷—— «б–н  ”»»е »ёж… «б—н«Ќ.
+DETAILS_TOOLTIP_35	н—ЁЏ гд «б÷—— «б–н  ”»»е »ёж… «б√—÷.
+DETAILS_TOOLTIP_36	ёжн ÷ѕ «бгЌ«—»: н—ЁЏ гд ёнг… «б÷— ÷ѕ «бгЌ«—»нд.
+DETAILS_TOOLTIP_37	ёжн ÷ѕ «бдндћ«: н—ЁЏ гд ёнг… «б÷— ÷ѕ «бдндћ«.
+DETAILS_TOOLTIP_38	ёжн ÷ѕ «б”ж—«: н—ЁЏ гд ёнг… «б÷— ÷ѕ «б”ж—«.
+DETAILS_TOOLTIP_39	ёжн ÷ѕ «б‘«г«д: н—ЁЏ гд ёнг… «б÷— ÷ѕ «б‘«г«д.
+DETAILS_TOOLTIP_4	ёжн ÷ѕ «б“жг»н: н—ЁЏ гд ёнг… «б÷— ÷ѕ «б“жг»н.
+DETAILS_TOOLTIP_40	ёжн ÷ѕ «ббня«д—: н—ЁЏ гд ёнг… «б÷— ÷ѕ «ббня«д—.
+DETAILS_TOOLTIP_41	гё«жг… ећг«  «бгЌ«—»: нёбб гд «б÷—— «б–н н”»»е ећжг «бгЌ«—».
+DETAILS_TOOLTIP_42	гё«жг… ећг«  дндћ«: нёбб гд «б÷—— «б–н н”»»е ећжг «бдндћ«.
+DETAILS_TOOLTIP_43	гё«жг… ећг«  «б”ж—«: нёбб гд «б÷—— «б–н н”»»е ећжг «б”ж—«.
+DETAILS_TOOLTIP_44	гё«жг… ећг«  «б‘«г«д: нёбб гд «б÷—— «б–н н”»»е ећжг «б‘«г«д.
+DETAILS_TOOLTIP_45	гё«жг… ећг«  «ббня«д—: нёбб гд «б÷—— «б–н н”»»е ећжг «ббня«д—.
+DETAILS_TOOLTIP_46	нёбб гд «б÷—— «б–н н”»»е «б”нЁ.
+DETAILS_TOOLTIP_47	нёбб гд «б÷—— «б–н н”»»е ”нЁ «бнѕнд.
+DETAILS_TOOLTIP_48	нёбб гд «б÷—— «б–н н”»»е «бќдћ—.
+DETAILS_TOOLTIP_49	нёбб гд «б÷—— «б–н н”»»е «бгќб».
+DETAILS_TOOLTIP_5	ёжн ÷ѕ «бжЌж‘: н—ЁЏ гд ёнг… «б÷— ÷ѕ «бжЌж‘.
+DETAILS_TOOLTIP_50	нёбб гд «б÷—— «б–н н”»»е «бћ—”.
+DETAILS_TOOLTIP_51	нёбб гд «б÷—— «б–н  ”»»е «бг—жЌ….
+DETAILS_TOOLTIP_52	нёбб гд «б÷—— «б–н н”»»е «бёж”.
+DETAILS_TOOLTIP_53	н—ЁЏ гд Ё—’ «б ”»» »≈џг«Ѕ ббќ’г.
+DETAILS_TOOLTIP_54	н—ЁЏ гд Ё—’ «б ”»» »≈»Ў«Ѕ ббќ’г.
+DETAILS_TOOLTIP_55	н—ЁЏ гд Ё—’ «б ”»» » ”гг ббќ’г.
+DETAILS_TOOLTIP_56	нёбб гд «б÷—— «б–н н”»»е «б”г.
+DETAILS_TOOLTIP_57	н—ЁЏ гд Ё—’  Ќёнё ећжг гхд“Ё.
+DETAILS_TOOLTIP_58	гё«жг… «бећжг «бгд“Ё: нёбб гд «б÷—— «б–н н”»»е «бећжг «бгд“Ё.
+DETAILS_TOOLTIP_59	”—ё… дё«Ў «бЌн«… гд ќ’гя Џдѕ ён«гя »÷—»е.
+DETAILS_TOOLTIP_6	ёжн ÷ѕ жЌж‘ “жѕн«я: н—ЁЏ гд «б÷—— «бг ”»» ÷ѕ жЌж‘ “жѕн«я
+DETAILS_TOOLTIP_60	”—ё… дё«Ў «б√”бж» гд ќ’гя Џдѕ ён«гя »÷—»е.
+DETAILS_TOOLTIP_61	н—ЁЏ гд ”—Џ… ≈” Џ«ѕ… дё«Ў «бЌн«….
+DETAILS_TOOLTIP_62	н—ЁЏ гд ”—Џ… ≈” Џ«ѕ… дё«Ў «б√”бж».
+DETAILS_TOOLTIP_63	Ё—’… ’уѕ «бећжг Џд ё—»:  —ЁЏ гд Ё—’… ’ѕ «бећжг Џд ё—».
+DETAILS_TOOLTIP_64	Ё—’  Ё«ѕн «бећжг »«б”е«г:  —ЁЏ гд Ё—’  Ё«ѕн ећжг »«б”е«г гд «бжЌж‘.
+DETAILS_TOOLTIP_65	Ё—’х Џя” ÷—»«  «бећг«  Џд ё—»:  —ЁЏ гд Ё—’ Џя” ÷—»«  «бећг«  Џд ё—» ≈бм «бќ’г.
+DETAILS_TOOLTIP_66	≈” Џ«ѕ… дё«Ў «бЌн«… √Ћд«Ѕ «бё «б: Џдѕ ён«гя »ё б «бќ’г° Ё≈д дё«Ў Ќн« я  “ѕ«ѕ.
+DETAILS_TOOLTIP_67	≈” Џ«ѕ… дё«Ў «б√”бж» √Ћд«Ѕ «бё «б: Џдѕ ён«гя »ё б «бќ’г° Ё≈д дё«Ў √”бж»я  “ѕ«ѕ.
+DETAILS_TOOLTIP_68	Ё—’… г÷«ЏЁ… «бќ»—… EXP:  —ЁЏ гд Ё—’… «бЌ’жб Џбм Џб«ж… ќ»—… г÷«ЏЁ… Џдѕ ён«гя »ё б «бќ’г.
+DETAILS_TOOLTIP_69	Ё—’… ≈”ё«Ў ÷ЏЁ ягн… «бн«дџ:  —ЁЏ гд Ё—’… «бЌ’жб Џбм ÷ЏЁ ягн… «бн«дџ Џдѕ ён«гя »ё б «бќ’г.
+DETAILS_TOOLTIP_7	ёжн ÷ѕ «бЌнж«д« : н—ЁЏ гд ёнг… «б÷— ÷ѕ «бЌнж«д« .
+DETAILS_TOOLTIP_70	Ё—’… ≈”ё«Ў «б√ѕж« :  —ЁЏ гд Ё—’… «бЌ’жб Џбм √ѕж«  г÷«ЏЁ… Џдѕ ён«гя »ё б «бќ’г.
+DETAILS_TOOLTIP_71	н—ЁЏ ёнг… «бећжг «бќ«’… »я.
+DETAILS_TOOLTIP_72	н—ЁЏ гд ёнг… «бѕЁ«Џ «бќ«’… »я.
+DETAILS_TOOLTIP_73	н—ЁЏ гд ћгЏ дё«Ў «бќ»—….
+DETAILS_TOOLTIP_74	Ё—’ ≈”ё«Ў «б√‘н«Ѕ:  —ЁЏ гд Ё—’ ”б» «б√‘н«Ѕ.
+DETAILS_TOOLTIP_75	Ё—’ ≈”ё«Ў «бн«дџ:  —ЁЏ гд Ё—’ «бЌ’жб Џбм н«дџ г÷«ЏЁ.
+DETAILS_TOOLTIP_76	нёбб гд «б÷—— «б–н нбЌёе «бќ’г Џдѕ  Џ—÷я бећжг ”Ќ—н.
+DETAILS_TOOLTIP_77	нёбб гд гё«жг… «б”Ќ— бѕм ќ’жгя.
+DETAILS_TOOLTIP_8	ёжн ÷ѕ «бЎ«∆Ё… «б”—н…: н—ЁЏ гд ёнг… «б÷— ÷ѕ «бЎ«∆Ё… «б”—н….
+DETAILS_TOOLTIP_9	ёжн ÷ѕ «б‘нЎ«д: н—ЁЏ гд ёнг… «б÷— ÷ѕ «б‘н«Ўнд.
+DETAILS_TOOLTIP_ATTBONUS_BELL	я”— ѕЁ«Џ «бћ—”: нёбб гд «бѕЁ«Џ «бћ—”н бѕм ќ’гя.
+DETAILS_TOOLTIP_ATTBONUS_BOW	я”— ѕЁ«Џ «б”ег: нёбб гд гё«жг… «б”е«г бѕм ќ’гя
+DETAILS_TOOLTIP_ATTBONUS_CLAW	я”— ѕЁ«Џ «бгќб»: нёбб гд «бѕЁ«Џ «бгќб»н бѕм ќ’гя.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	я”— ѕЁ«Џ «бќдћ—: нёбб гд «бѕЁ«Џ «бќдћ—н бѕм ќ’гя.
+DETAILS_TOOLTIP_ATTBONUS_FAN	я”— ѕЁ«Џ «бг—жЌ…: нёбб гд «бѕЁ«Џ «бг—жЌн бѕм ќ’гя.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	я”— ѕЁ«Џ «б”нЁ: нёбб гд «бѕЁ«Џ «б”нЁн бѕм ќ’гя.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	я”— ѕЁ«Џ ”нЁ «бнѕнд: нёбб гд ѕЁ«Џ ”нЁ «бнѕнд бѕм ќ’гя.
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	гё«жг… «б”ёжЎ:  ёбб гд Ё—’ ”ёжЎя гд Џбм ўе— ѕ«» я.
+DONT_USE_ITEM_WHEN_SHOW_CONFIRM	б« нгядя √Ћд«Ѕ «б«” Ё”«—  Ќ—ня «б»джѕ.
+DO_NOT_INSERT_UPBRINGING_PET	б« нгяд «ќ н«— «б—Ёнё «бгЁЏб.
+DO_YOU_BUY_ITEM1	еб  —џ» Ён ‘—«Ѕ %s гё«»б %s н«дџњ
+DO_YOU_BUY_ITEM2	еб  —џ» Ён ‘—«Ѕ %s (%s ёЎЏ…) гё«»б %s н«дџњ
+DO_YOU_BUY_ITEM3	еб  —џ» Ён ‘—«Ѕ %s гё«»б %s жжд ж %s н«дџњ
+DO_YOU_BUY_ITEM4	еб  —џ» Ён ‘—«Ѕ %s (%s ё”нг…) гё«»б %s жжд ж %s н«дџњ
+DO_YOU_DROP_MONEY	еб  —нѕ ≈”ё«Ў %d н«дџњ
+DO_YOU_SELL_ITEM1	еб  —џ» Ён »нЏ %s гё«»б %s н«дџњ
+DO_YOU_SELL_ITEM2	еб  —џ» Ён »нЏ %s (%s ёЎЏ…) гё«»б %s н«дџњ
+DRAGON_SOUL_CANNOT_REFINE	б« нгядя ’ёб Ќћ— «б днд е–«.
+DRAGON_SOUL_CANNOT_REFINE_MORE	бёѕ ж’б Ќћ— «б днд е–« √Џбм г” жм нхгяд ж’жбе.
+DRAGON_SOUL_EQUIP_WARNING1	≈д Ќ–Ё Ќћ— «б днд гд ћѕнѕ Ён џ«н… «б’Џж»….
+DRAGON_SOUL_EQUIP_WARNING2	еб  —џ» —џг –бя Ён «б«” г—«—њ
+DRAGON_SOUL_EXPIRED	Ќћ—  днд гхд ен «б’б«Ќн…
+DRAGON_SOUL_INVALID_DRAGON_SOUL	≈де бн” Ќћ— «б днд «бЌёнён.
+DRAGON_SOUL_IS_NOT_DRAGON_SOUL	≈де бн” »Ќћ—  днд.
+DRAGON_SOUL_NOT_DRAGON_SOUL_REFINE_STONE	≈д е–« бн” еж Ќћ— «б днд «бЌёнён.
+DRAGON_SOUL_NOT_ENOUGH_MATERIAL	≈дя б«  гбя г« няЁн гд «бгж«ѕ б дЁн– Џгбн… «б’ёб.
+DRAGON_SOUL_NOT_ENOUGH_MATERIAL2	гд √ћб %s\n ” Ќ «ћ ≈бм: %s %dx
+DRAGON_SOUL_NOT_ENOUGH_MONEY	√д  б«  г бя г« няЁн гд «бн«дџ б Ќжнб «бЏб«ж….
+DRAGON_SOUL_NOT_MATCHED_SLOT	≈д Ќћ— «б днд б« нхд«”» е–е «бЁ Ќ….
+DRAGON_SOUL_STEP_LEVEL1	’Ё«Ѕ: б«г”°
+DRAGON_SOUL_STEP_LEVEL2	’Ё«Ѕ: ќ«б’°
+DRAGON_SOUL_STEP_LEVEL3	’Ё«Ѕ: д«’Џ°
+DRAGON_SOUL_STEP_LEVEL4	’Ё«Ѕ: б«гЏ°
+DRAGON_SOUL_STEP_LEVEL5	’Ё«Ѕ: гг «“°
+DRAGON_SOUL_STRENGTH	«бг” жм: +%d	SA
+DRAGON_SOUL_UNEQUIP_WARNING1	ёѕ нхѕгш— Ќћ— «б днд √Ћд«Ѕе«.
+DRAGON_SOUL_UNEQUIP_WARNING2	еб  —џ» —џг –бя Ён «б«” г—«—њ
+DRAGON_SOUL_UNMATCHED_SLOT	≈де« бн”  «бЁ Ќ… «б’ЌнЌ….
+DRAGON_SOUL_UNQUALIFIED	б« нгядя «” Џг«б янгн«Ѕ Ќћ— «б днд »Џѕ.
+DROP_ITEM_FAILURE_EQUIP_ITEM	б«  ” ЎнЏ ≈”ё«Ў «б√‘н«Ѕ «бгће“….
+DROP_ITEM_FAILURE_PRIVATE_SHOP	б« нгядя ≈”ё«Ў √н ‘нЅ° Ў«бг« √дя  гбя г ћ—«р ‘ќ’н«р.
+DROP_MONEY_FAILURE_1000_OVER	б« нгядя ≈”ё«Ў √яЋ— гд 999 н«дџ.
+DS_SYSTEM_MSG_1	«д  »Ќ«ћ… ≈бм %s %d г—« .
+DUTCH_AUCTION_CLOSE_OTHER_WINDOW	н—ћм «џб«ё ћгнЏ «бдж«Ё– ё»б Ё Ќ д«Ё–… «бг“«ѕ «б”—нЏ.
+EMOTION_ALCOHOL	”ќнЁ!
+EMOTION_ANGRY	гхџ÷»
+EMOTION_ATTRACTIVE	≈џ—«Ѕ
+EMOTION_BANTER	е«“∆
+EMOTION_BUSY	≈д‘џ«б
+EMOTION_CALL	гя«бг… е« Ён…
+EMOTION_CELEBRATION	«Ќ Ё«б
+EMOTION_CHARGING	≈Џ«ѕ… ‘Ќд
+EMOTION_CHEERS_1	 ебнб 1 	
+EMOTION_CHEERS_2	 ебнб 2
+EMOTION_CHEERUP	 ебнб
+EMOTION_CHOOSE_ONE	«ќ — еѕЁ«р г«.
+EMOTION_CLAP	 ’Ёнё
+EMOTION_CLAP_KISS	ё»б…
+EMOTION_CONGRATULATION	«бё»жб
+EMOTION_DANCE_1	—ё’… 1
+EMOTION_DANCE_2	«б—ё’… 2
+EMOTION_DANCE_3	—ё’… 3
+EMOTION_DANCE_4	«б—ё’… 4
+EMOTION_DANCE_5	«б—ё’… 5
+EMOTION_DANCE_6	Gumsan Style
+EMOTION_DANCE_7	”«г»«
+EMOTION_DOZE	дЏ«”
+EMOTION_EXERCISE	 г—нд
+EMOTION_FORGIVE	«б”г«Ќ
+EMOTION_FRENCH_KISS	ё»б… Ќ«—…
+EMOTION_HUNGRY	ћ«∆Џ
+EMOTION_JOY	Ё—Ќ
+EMOTION_LETTER	—”«б… Ќ»
+EMOTION_NOSAY	Џ«ћ“ Џд «бяб«г
+EMOTION_PUSH_UP	 г—нд —ЁЏ
+EMOTION_SAD	Ќ“нд
+EMOTION_SELFIE	”нбЁн
+EMOTION_SHY	—Ё÷
+EMOTION_SIREN	≈д–«—
+EMOTION_SLAP	÷—»…
+EMOTION_WEATHER_1	‘г”
+EMOTION_WEATHER_2	ёж” ё“Ќ
+EMOTION_WEATHER_3	ёг—
+EMOTION_WHIRL	г— »я
+EMPIRE_A	«г»—«Ўж—н… «б‘нд”ж
+EMPIRE_B	«г»—«Ўж—н… «б‘ждћж
+EMPIRE_C	«г»—«Ўж—н… «бћндж
+EMPIRE_SELECT_MODE	«ќ н«— ≈г»—«Ўж—н…
+EXCHANGE_CANNOT_GIVE	б« нгяд «бг «ћ—… »е–« «б‘нЅ.
+EXCHANGE_CANT_EDIT_MONEY	б« нгядя  џн— «бг»бџ «б¬д.
+EXCHANGE_FAILURE_EQUIP_ITEM	б« нхгядя «” »ѕ«б «бгЏѕ«  «бгѕћћ….
+EXCHANGE_MONEY	г»бџ
+EXCHANGE_TITLE	 «ћц—ъ гЏ %s (%d)
+EXINVEN_USE_ITEM_FAIL_FALL_SHORT	б« “б  »Ќ«ћ… ≈бм %d »дѕ гд »джѕ  ж”нЏ ё«∆г… «бћ—ѕ.
+EXINVEN_USE_ITEM_FAIL_FOURTH_PAGE_STAGE_MAX	«” дЁ–  ё«∆г… «бћ—ѕ «бќ«’… »я Џѕѕ »джѕ «б ж”нЏ «бггяд «б«” Ё«ѕ… где« б ж”нЏе«.
+EXINVEN_USE_ITEM_QUESTION	еб  —џ» Ён “н«ѕ… ”Џ… ё«∆г… «бћ—ѕ «бќ«’… »я »№«” Џг«б %d гд »джѕ  ж”нЏ ё«∆г… «бћ—ѕњ
+FINDM_BUTTON_01	«Ќ’б Џбм
+FINDM_BUTTON_02	 Ќ”нд
+FINDM_POPUP_01	б«  г бя ћгнЏ «б»джѕ «бб«“г… б »ѕ√ «ббЏ»… «бг’џ—….
+FINDM_POPUP_02	бн” бѕня г«няЁн гд %s.
+FINDM_POPUP_03	б« нгядя ≈” Џг«б е–« «б‘нЅ »Џѕ «б¬д.
+FINDM_POPUP_04	е–е »«бЁЏб ен √Ё÷б гя«Ё∆….
+FINDM_POPUP_05	бн” бѕня н«дџ я«Ён ббЏ»… «бг’џ—….
+FINDM_POPUP_06	”н г я‘Ё «б»Ў«ё«  «бЋб«Ћ »‘яб  бё«∆н Ён Ќ«б бг  ёг »я‘Ёег ќб«б %d Ћж«дн.
+FINDM_QUESTION_01	”нќ’г %d н«дџ жн” ебя %s.\nеб  —џ» Ён «б«” г—«—њ
+FINDM_QUESTION_02	еб  жѕ ≈Џ«ѕ… «бгЌ«жб… ж«” ќѕ«г %s гд %dњ
+FINDM_QUESTION_03	гя«Ё√…: %s
+FINDM_QUESTION_04	гЌ«жб… ћѕнѕ…њ ≈–« Ё‘б «б Ќ”нд ° Ё”н г «бЌЁ«ў Џбм «бгя«Ё√… «бЌ«бн….
+FINDM_QUESTION_05	≈де«Ѕ «ббЏ»… ж«бЌ’жб Џбм «бгя«Ё√…њ
+FINDM_TOOLTIP_01	≈–« бг  Ќ«жб Ён «бжё  «бгЌѕѕ ° Ё”н г «бя‘Ё Џд Ћб«Ћ »Ў«ё«   бё«∆нр«.
+FISHING_FAILURE	бёѕ √÷Џ  «бЎшхЏг.
+FISHING_NOTIFY1	н»ѕж √д %s Џбцё Ён «бЎшхЏг.
+FISHING_NOTIFY2	н»ѕж √д %s ”хћд.
+FISHING_RENEWAL_CANNOT_EMOTION	б« нгядя ≈” ќѕ«г «бЏ«ЎЁ… √Ћд«Ѕ «б’нѕ.
+FISHING_RENEWAL_CANNOT_OPEN_1	б« нгядя Ё Ќе √Ћд«Ѕ «б’нѕ.
+FISHING_RENEWAL_CANNOT_OPEN_2	б« нгядя «бён«г »е–« «б√г— Ў«бг«  ёжг »«б’нѕ.
+FISHING_RENEWAL_QUESTION	бёѕ √г”я  «б”гя… »«бЎЏг. еб  —нѕ «б≈г”«я »е«њ
+FISHING_RENEWAL_TIMEOUT	 —ѕѕ  яЋн—«. бёѕ е—»  «б”гя….
+FISHING_SUCCESS1	бёѕ дћЌ  Ён √”— %s!
+FISHING_SUCCESS2	бёѕ ”Ќ»  %s гд «бг«Ѕ!
+FISHING_UNKNOWN	н»ѕж √д ‘н∆«р г« Џ÷ш «б”д«—…° бядн √ћеб г«ен е.
+FISHING_WRONG_PLACE	б« нгядя «б’нѕ ед«.
+FLOWER_EVENT_USE_ITEM_TEXT1	еб  жѕ «” »ѕ«б «б √Ћн— «бЁЏ«бњ
+FLOWER_EVENT_USE_ITEM_TEXT2	нгяд ббЏгбн… √д  Ё‘б г”»»… –»жб «б“е—….
+FOR_FEMALE	бб≈д«Ћ
+FOR_MALE	бб–яж—
+FRAGMENT_COMB_COST	 я«бнЁ «бѕгћ: %s
+GAME_CANNOT_MINING	б« нгядя «” ќ—«ћ «бгЏѕд «бќ«г √Ћд«Ѕ —яж» «бќнб.
+GAME_CANNOT_PICK_ITEM	б«  ” ЎнЏ «бЌ’жб Џбм е–« «б‘нЅ б√д б«Џ»«р ¬ќ— џдге.
+GAME_GUILDWAR_NOW_JOIN	еб  —џ» Ён «б«д÷г«г ≈бм Ќ—» «б—ж«»Ўњ
+GAME_INIT_ERROR_CURSOR	 Џ–— —”г гƒ‘— «бг«ж”.
+GAME_INIT_ERROR_DIRECTX	нћ»  Ћ»н  DirectX 8.1 б ‘џнб «ббЏ»….\n »шцЋ DirectX 8.1 √ж √Џбм.
+GAME_INIT_ERROR_GRAPHICS_BAD_PERFORMANCE	 Џ–— «бЏЋж— Џбм »Ў«ё… ’ж— б ‘џнб «ббЏ»…. \n«б—ћ«Ѕ «б √яѕ гд √д »Ў«ё… «б’ж— Ён Ќ«”ж»я  ‘ џб »‘яб ’ЌнЌ VGA CARD.
+GAME_INIT_ERROR_GRAPHICS_NOT_EXIST	бёѕ  Џ–— «бЏЋж— Џбм »Ў«ё… «б’ж—. \n Ќёё ≈–« бѕня VGA-Card. \n нгядя »ѕб« Џд –бя «” Џг«б г”—Џ «б√ће“…. \n(÷Џ г”—Џ «б√ће“… Ён ”—Џ е« «бё’жм \nбжЌ… «б Ќяг -> Џ—÷> «бќн«—«  > г Ўж—> »Ў«ё… «б ”ћнб «” я‘«Ё «б√ќЎ«Ѕ ж≈’б«Ќе)
+GAME_INIT_ERROR_GRAPHICS_NOT_SUPPORT_32BIT	б«  ѕЏг »Ў«ё… «б—”жг«  ббяг»нж — дў«г «бд«Ё–… Ён гжѕ 32 bit.\n«ќ — гжѕ 16 bit √ж «” Џгб дў«г «б‘«‘… «бя«гб….
+GAME_INIT_ERROR_ITEM_PROTO	б«  жћѕ ед«я гЏбжг«  Џд е–« «б‘нЅ.\n«б—ћ«Ѕ ≈Џ«ѕ…  Ћ»н  «ббЏ»….
+GAME_INIT_ERROR_MAIN_WINDOW	 Џ–— Џ—÷ «бд«Ё–… «б—∆н”н….
+GAME_INIT_ERROR_MOB_PROTO	б«  жћѕ √н гЏбжг«  Џд «бжЌ‘.\n«б—ћ«Ѕ ≈Џ«ѕ…  Ћ»н  «ббЏ»….
+GAME_INIT_ERROR_NETWORK	б« нгяд  ”ћнб »Ў«ё… «б« ’«б.\n«б—ћ«Ѕ «б Ќёё гд «б« ’«б Џ»— «б≈д —д .
+GAME_PICK_MONEY	бёѕ Ќ’б  Џбм %d гд «бн«дџ.
+GEM_SYSTEM_ADD_SLOT	«б»дѕ «бгЎбж»: %s.\nеб  жѕ ≈” ќѕ«г %d «б¬д бЁ Ќ ќ«д… √ќ—мњ
+GEM_SYSTEM_BUY_ITEM	еб  жѕ ‘—«Ѕ е–« «б‘нЅњ
+GEM_SYSTEM_NAME	џ«н«
+GEM_SYSTEM_NOT_ENOUGHT_REFRESHITEM	[џ«н«] бн” бѕня г« няЁн гд "≈Џ«ѕ…  Џннд г ћ— «бџ«н«".
+GEM_SYSTEM_NOT_ENOUGH_HP_GEM	[џ«н«] бн” бѕня г« няЁн гд «бџ«н«.
+GEM_SYSTEM_NO_MORE_ADDSLOT	[џ«н«] б« нгядя Ё Ќ «бг“нѕ гд «бќ«д« .
+GEM_SYSTEM_OPEN_GEMSHOP	[џ«н«] Џбня Ё Ќ г ћ— «бџ«н« √жб«.
+GEM_SYSTEM_PICK_GEM	[џ«н«] Џѕѕ џ«н«: %d
+GEM_SYSTEM_REFRESH_SHOP_ITEMS	еб  —џ» Ён ≈Џ«ѕ… «б Џнндњ
+GIVEUP_QUESTION	еб  —нѕ «б«” ”б«г Ќё«рњ
+GUILDBANK_CLEARBANK	 Ќ–н—: нћ» ≈Ё—«џ г” жѕЏ «б—«»Ў…!
+GUILDBANK_DONT_MONEY_OUT	бн” ед«я н«дџ Ён »дя «б—«»Ў…!
+GUILDBANK_GOLD_IN	≈нѕ«Џ
+GUILDBANK_GOLD_OUT	”Ќ»
+GUILDBANK_ITEM_IN	≈ѕќ«б
+GUILDBANK_ITEM_OUT	≈ќ—«ћ
+GUILDBANK_MONEYIN	≈нѕ«Џ н«дџ
+GUILDBANK_MONEYOUT	”Ќ» н«дџ
+GUILDBANK_NOTUSE	б«  гбя «бЌёжё «бб«“г….
+GUILDBANK_NOT_ENOUGH_MONEY	б«  гбя г« няЁн гд «бн«дџ б≈нѕ«Џе.
+GUILDBANK_OVER_INCOME	ж’б  «бЌѕ «б√ё’м бЌ”«»я.
+GUILDBANK_OVER_MONEY	Ќ”«» «б—«»Ў… гг б∆ Џд ¬ќ—е.
+GUILDLAND_ABANDON	 Ёжн  √—÷ «б—«»Ў…
+GUILDLAND_ABANDON_VOTE	 Ёжн  √—÷ —«»Ў я [%s].
+GUILDLAND_ABANDON_VOTE_RESULT1	 г  Ёжн  √—÷ «б—«»Ў… [%s].
+GUILDLAND_ABANDON_VOTE_RESULT2	 г  Ёжн  √—÷ «б—«»Ў….
+GUILDLAND_ABANDON_VOTE_RESULT3	д нћ… «б«” Ўб«Џ:
+GUILDLAND_ABANDON_VOTE_RESULT4	«б«” Ўб«Џ џн— ’«бЌ.
+GUILDLAND_ABANDON_VOTE_TEXT	еб  —нѕ Ќёш« »ѕЅ «б«” Ўб«Џњ
+GUILDLAND_ABANDON_VOTE_TEXT1	еб  —нѕ «б ’жн  »дЏг Џбм  Ёжн  √—÷ «б—«»Ў…њ
+GUILDLAND_ACCEPT	дЏг
+GUILDLAND_DEAL	»нЏ √—÷ «б—«»Ў…
+GUILDLAND_DEAL_TEXT1	 —џ» «б—«»Ў… [%s] Ён »нЏ
+GUILDLAND_DEAL_TEXT2	√—÷ —«»Ў е« гё«»б [%s] н«дџ.
+GUILDLAND_DEAL_TEXT3	еб  ё»б е–« «бЏ—÷њ
+GUILDLAND_DELA_VOTE	 —џ» «б—«»Ў… [%s] Ён ‘—«Ѕ √—÷ —«»Ў д«.
+GUILDLAND_DELA_VOTE_RESULT1	»нЏ √—÷ «б—«»Ў… бб—«»Ў… [%s]
+GUILDLAND_DELA_VOTE_RESULT2	«д ем «б«” Ўб«Џ.
+GUILDLAND_DELA_VOTE_RESULT3	д «∆ћ «” Ўб«Џ »нЏ √—÷ «б—«»Ў…:
+GUILDLAND_DELA_VOTE_RESULT4	«б«” Ўб«Џ џн— ’«бЌ.
+GUILDLAND_DELA_VOTE_TEXT	б√н —«»Ў…  —нѕ »нЏ √—÷ —«»Ў яњ
+GUILDLAND_DELA_VOTE_TEXT1	еб  ’жш  »дЏг Џбм »нЏ √—÷ «б—«»Ў…њ
+GUILDLAND_DONTHAVE_LAND	≈дя б«  гбя √н √—÷ —«»Ў….
+GUILDLAND_NOT	ябш«
+GUILDLAND_VOTE_TEXT	еб  —нѕ гдЌ «б√—÷ б№ [%s]њ
+GUILDLIST_APPLICANT	еб  —џ» Ён  ёѕнг Ўб» «б«д÷г«г бб—«»Ў…њ
+GUILDMARK_UPLOADER_ERROR_128_HEIGHT	д”»… «бЏбж бн”  128 »я”б
+GUILDMARK_UPLOADER_ERROR_12_HEIGHT	«бЏбж бн” 12 »я”б
+GUILDMARK_UPLOADER_ERROR_16_WIDTH	«бЏ—÷  бн” 16 »я”б
+GUILDMARK_UPLOADER_ERROR_64_WIDTH	≈д «бЏ—÷ √ёб гд 64 »ня”б
+GUILDMARK_UPLOADER_ERROR_FILE_FORMAT	≈д е–е «ббЏ»… б«  ѕЏг е–е «б’ж—….
+GUILDMARK_UPLOADER_ERROR_PATH	«б—ћ«Ѕ дёб «бгЏЎн«  ≈бм «бгбЁ Ён metin2/upload.
+GUILDMARK_UPLOADER_ERROR_SELECT	бг н г «ќ н«— √н гбЁ бб’ж—….
+GUILDVOTE_CHANGEMASTER	 џнн— ё«∆ѕ «б—«»Ў…
+GUILDVOTE_CHANGEMASTER_RESULT1	 г »дћ«Ќ дёб «б—«»Ў….
+GUILDVOTE_CHANGEMASTER_RESULT2	бёѕ Ќ’б  Џбм ён«ѕ… «б—«»Ў… [%s]!
+GUILDVOTE_CHANGEMASTER_RESULT3	 Ёжн  «б—«»Ў… ≈бм «бЏ÷ж [%s]
+GUILDVOTE_CHANGEMASTER_RESULT4	«б«” Ўб«Џ џн— ’«бЌ.
+GUILDVOTE_CHANGEMASTER_RESULT5	ё«∆ѕ ћѕнѕ бб—«»Ў…: %s
+GUILDVOTE_CHANGEMASTER_TEXT1	еб  —џ» Ён  Ёжн  «б—«»Ў… ≈бм [%s]њ
+GUILDVOTE_CHANGEMASTER_TEXT2	
+GUILDVOTE_CHANGEMASTER_TEXT3	еб  —нѕ Ќё«р «б”г«Ќ Ён ён«ѕ… «б—«»Ў…њ
+GUILDVOTE_CHANGEMASTER_TEXT4	
+GUILDVOTE_CHANGEMASTER_VOTETEXT1	 Ёжн  «б—«»Ў… ≈бм «бЏ÷ж [%s]
+GUILDVOTE_CHANGEMASTER_VOTETEXT2	еб  ж«Ёё Џбм  Ёжн  «б—«»Ў…њ
+GUILDVOTE_MEMBEROUT	Ќ–Ё Џ÷ж
+GUILDVOTE_MEMBEROUT_AUTH	б«  гбя «бЌёжё «бб«“г….
+GUILDVOTE_MEMBEROUT_NOMAL	еб  —нѕ Ќё«р Ќ–Ё е–« «бЏ÷жњ
+GUILDVOTE_MEMBEROUT_RESULT1	Ќ–Ё «бЏ÷ж: [%s]
+GUILDVOTE_MEMBEROUT_RESULT2	д «∆ћ «б«” Ўб«Џ
+GUILDVOTE_MEMBEROUT_RESULT3	 г Ќ–Ёя гд «б—«»Ў… [%s].
+GUILDVOTE_MEMBEROUT_RESULT4	д «∆ћ «б«” Ўб«Џ
+GUILDVOTE_MEMBEROUT_RESULT5	«б«” Ўб«Џ џн— ’«бЌ.
+GUILDVOTE_MEMBEROUT_TEXT1	еб  —нѕ Ќёш« »ѕЅ «” Ўб«Џ «б—√н ÷ѕ [%s]њ
+GUILDVOTE_MEMBEROUT_TEXT2	«” Ўб«Џ: Ќ–Ё Џ÷ж гд «б—«»Ў…њ
+GUILDVOTE_MEMBEROUT_VOTETEXT1	«” Ўб«Џ: еб нћ» Ќ–Ё [%s] гд «б—«»Ў…њ
+GUILDVOTE_MEMBEROUT_VOTETEXT2	
+GUILDVOTE_NO	÷ѕ «бЌ–Ё
+GUILDVOTE_OK	гЏ «бЌ–Ё
+GUILDVOTE_RESULT_AGGRE_MEMBER	гЏ «бЌ–Ё: %d
+GUILDVOTE_RESULT_ALL_MEMBER	«бг‘«—яжд: %d
+GUILDVOTE_RESULT_OPPESE_MEMBER	÷ѕ «бЌ–Ё: %d
+GUILDVOTE_RESULT_TIME	%d нжг %d ”«Џ… %d ѕёнё… %d Ћ«дн…
+GUILDVOTE_SELECT_ONE	«б—ћ«Ѕ «ќ н«— ‘ќ’н….
+GUILDWAR_ALL	гЏ«—я (гЏя.)
+GUILDWAR_CTF_TITLE	ё «б «б√Џб«г
+GUILDWAR_DRAW	 Џ«ѕб«  ( Џ.)
+GUILDWAR_GAINSCORE_FIFTY	50 дёЎ…
+GUILDWAR_GAINSCORE_HUNDRED	100 дёЎ…
+GUILDWAR_GAINSCORE_THIRTY	30 дёЎ…
+GUILDWAR_GAMETIME_SIXTY	60 ѕёнё…
+GUILDWAR_GAMETIME_TEN	10 ѕё«∆ё
+GUILDWAR_GAMETIME_THIRTY	30 ѕёнё…
+GUILDWAR_INPUT_OTHERGUILD	«б—ћ«Ѕ ≈ѕќ«б «б—«»Ў… «бќ’г.
+GUILDWAR_LADDER	дё«Ў «б — н»
+GUILDWAR_LIMIT_MEMBER_FIVE	√ѕдм Џѕѕ гд «бг‘«—янд г”гжЌ »е еж 5.
+GUILDWAR_LOSE	е“«∆г (е“.)
+GUILDWAR_NORMAL_TITLE	гнѕ«д «бё «б
+GUILDWAR_OVER_MEMBERCOUNT	ж’б  «бЌѕ «б√ё’м «бг”гжЌ »е гд «б√Џ÷«Ѕ.
+GUILDWAR_QUESTION_LINE_1	√Џбд  «б—«»Ў… %s «бЌ—» Џбм —«»Ў я.
+GUILDWAR_QUESTION_LINE_2	еб  ё»бњ (%s)
+GUILDWAR_RANKING	— »…
+GUILDWAR_RECODE_ALL	%d гЏя.° %d «д .° %d е“.° %d  Џ.
+GUILDWAR_SELECT_MEMBER_COUNT	«ќ — Џѕѕ «бг‘«—янд.
+GUILDWAR_TYPE_DEFENSE	ё «б «бѕ—жЏ
+GUILDWAR_TYPE_TIGER	гЏ—я… «б≈»«ѕ…
+GUILDWAR_TYPE_TIME	ећжг “гдн
+GUILDWAR_UNKNOWN_TITLE	...
+GUILDWAR_WARP_TITLE	”«Ќ… «бЌ—»
+GUILDWAR_WIN	«д ’«—«  («д .)
+GUILDWAR_WIN_FIVE	ќг” ћжб« 
+GUILDWAR_WIN_ONE	ћжб…
+GUILDWAR_WIN_THREE	Ћб«Ћ ћжб« 
+GUILDWINDOW_BUTTON_BANKGOLDINFO	”ћб г” жѕЏ «б—«»Ў…
+GUILDWINDOW_BUTTON_BASEABANDON	 Ёжн  √—÷ «б—«»Ў…
+GUILDWINDOW_BUTTON_BASEDEAL	»нЏ √—÷ «б—«»Ў…
+GUILDWINDOW_BUTTON_BASEDEALVOTE	«” Ўб«Џ
+GUILDWINDOW_BUTTON_BOARD	г–я—«  ќ«’… »«б—«»Ў…
+GUILDWINDOW_BUTTON_CHANGEMASTER	 џнн— ё«∆ѕ «б—«»Ў…
+GUILDWINDOW_BUTTON_DECLARE	≈Џб«д «бЌ—»
+GUILDWINDOW_BUTTON_DONATE	«б »—Џ
+GUILDWINDOW_BUTTON_GOLDIN	≈нѕ«Џ
+GUILDWINDOW_BUTTON_GOLDOUT	”Ќ»
+GUILDWINDOW_BUTTON_GRADE	≈ѕ«—… «бЌёжё
+GUILDWINDOW_BUTTON_GUILDLIST	б«∆Ќ… «б—«»Ў…
+GUILDWINDOW_BUTTON_HEALGSP	«” —ћ«Џ ёж… «б днд
+GUILDWINDOW_BUTTON_INFO	гЏбжг«  Џд «б—«»Ў…
+GUILDWINDOW_BUTTON_LANDINFO	гЏбжг«  Џд «б√—÷
+GUILDWINDOW_BUTTON_MARK	 Ќгнб Џб«г… «б—«»Ў…
+GUILDWINDOW_BUTTON_MEMBER	«б√Џ÷«Ѕ
+GUILDWINDOW_BUTTON_OFFER	 »—Џ »«бќ»—… EXP
+GUILDWINDOW_BUTTON_OUTMEMBER	Ќ–Ё Џ÷ж
+GUILDWINDOW_BUTTON_SKILL	ге«—«  «б—ж«»Ў
+GUILDWINDOW_BUTTON_SYMBOL	 Ќгнб Џб«г… «б—«»Ў…
+GUILDWINDOW_BUTTON_VOTECHECK	г—«ћЏ… «б«” Ўб«Џ
+GUILDWINDOW_BUY_GUILD_LAND	‘—«Ѕ √—÷
+GUILDWINDOW_CHANGE_BLACKSMITH	 џнн— «б ќ’’
+GUILDWINDOW_CHANGE_OBJECT	 ћѕнѕ
+GUILDWINDOW_CHANGE_SMELTER	≈Џ«ѕ… »д«Ѕ «бЁ—д
+GUILDWINDOW_CREATE_OBJECT	»д«Ѕ г»дм
+GUILDWINDOW_DEAL_GUILD_LAND	»нЏ «б√—÷
+GUILDWINDOW_GRADE_BANK	нгяде «” ќѕ«г »дя «б—«»Ў… жг” жѕЏ «б—«»Ў…
+GUILDWINDOW_GRADE_DRIVEOUTAUTHORITY	нгяде Ќ–Ё Џ÷ж гд √Џ÷«Ѕ «б—«»Ў…њ
+GUILDWINDOW_GRADE_GRADENAME	«”г «б— »…
+GUILDWINDOW_GRADE_GRADENUMBER	—ёг «б— »…
+GUILDWINDOW_GRADE_GUILDWAR	нгяде «ќ н«— «б√Џ÷«Ѕ «бг”гжЌ бег «бг‘«—я… Ён «бё «б.
+GUILDWINDOW_GRADE_INVITEAUTHORITY	нгяде ÷г б«Џ»нд ¬ќ—нд ≈бм «б—«»Ў…
+GUILDWINDOW_GRADE_NOTICEAUTHORITY	нгяде ≈б’«ё «бг–я—«  «бќ«’… »«б—«»Ў…
+GUILDWINDOW_GRADE_SKILLAUTHORITY	нгяде «” Џг«б ге«—«  «б—ж«»Ў
+GUILDWINDOW_INFO_LEVEL10	н—ЁЏ «бЏѕѕ «б√ё’м бб√Џ÷«Ѕ
+GUILDWINDOW_INFO_LEVEL15	 ќЁн÷ Џбм «б”Џ—: ёж… «б днд
+GUILDWINDOW_INFO_LEVEL20	»дя: ≈ЏЁ«Ѕ ÷—«∆»н
+GUILDWINDOW_INFO_LEVEL5	+5% EXP Џбм  »—Џ «б—«»Ў…
+GUILDWINDOW_LIST_ALL	ћгнЏ «б≈г»—«Ўж—н« 
+GUILDWINDOW_LIST_ALREADY_REGISTER	[—«»Ў…] бёѕ ёѕшг  Ўб» «б«д÷г«г гд ё»б.
+GUILDWINDOW_LIST_APPLICANT_LIST	ё«∆г… «бг—‘Ќнд
+GUILDWINDOW_LIST_CHRACTER_JOB	Ў»ё…
+GUILDWINDOW_LIST_CHRACTER_LV	г” жм
+GUILDWINDOW_LIST_CHRACTER_NAME	«”г «б‘ќ’н…
+GUILDWINDOW_LIST_CHRACTER_SUB_JOB	 ѕ—н»
+GUILDWINDOW_LIST_EMPIRE_A	‘нд”ж
+GUILDWINDOW_LIST_EMPIRE_B	‘ждћж
+GUILDWINDOW_LIST_EMPIRE_C	ћндж
+GUILDWINDOW_LIST_GUILDMEMBER	«б√Џ÷«Ѕ
+GUILDWINDOW_LIST_GUILD_LIST	б«∆Ќ… «б—«»Ў…
+GUILDWINDOW_LIST_GUILD_LV	г” жм
+GUILDWINDOW_LIST_GUILD_NAME	—«»Ў…
+GUILDWINDOW_LIST_INPUT_GUILDNAME	[—«»Ў…] «б—ћ«Ѕ ≈ѕќ«б «”г «б—«»Ў….
+GUILDWINDOW_LIST_LADDER	дё«Ў «б — н»
+GUILDWINDOW_LIST_NOTPROMOTEGUILD	[—«»Ў…] бг  д‘— е–е «б—«»Ў… √н… ≈Џб«д.
+GUILDWINDOW_LIST_PROMOTE_GUILD	Ўб» «д÷г«г
+GUILDWINDOW_LIST_PROMOTE_GUILD_LIST	б«∆Ќ… «б—«»Ў…
+GUILDWINDOW_LIST_RANKING	«б— »…
+GUILDWINDOW_LIST_RANKING_COUNT	«б— »…
+GUILDWINDOW_LIST_REGISTER	«д÷г
+GUILDWINDOW_LIST_REGISTER_GUILD	Ўб» «д÷г«г бб—«»Ў…
+GUILDWINDOW_LIST_SEARCH	»ЌЋ
+GUILDWINDOW_LIST_SELECT_GUILD	[—«»Ў…] «б—ћ«Ѕ «ќ н«— —«»Ў… б ёѕнг Ўб» «б«д÷г«г.
+GUILDWINDOW_PROMOTE_REFRESH	≈‘е«—
+GUILDWINDOW_PROMOTE_REGISTER	≈‘е«—
+GUILDWINDOW_SP_RECOVER	ёж… «б шднд «б«”Ўж—н
+GUILDWINDOW_UPGRADE_ALTEROFPOWER	 ж”нЏ «бг–»Ќ
+GUILDWINDOW_UPGRADE_GUILDBANK	 ж”нЏ «б»дя
+GUILD_ATTENDANCE_FAIL_ALREADY	бёѕ ‘«—я  »«бЁЏб «бнжг.
+GUILD_ATTENDANCE_FAIL_JOIN_TIME	б« нгядя «бг‘«—я… «б¬д.   г ≈Џ«ѕ…  Џннд «бг‘«—я… ѕ«∆гр« Ён «б”«Џ… 5:00.
+GUILD_BANKINFO_CLOSE	√џбё
+GUILD_BANKINFO_NAME	Џ÷ж
+GUILD_BANKINFO_TYPE	√‘н«Ѕ/Џгб…
+GUILD_BANKINFO_USETYPE	Џгбн…
+GUILD_BANK_CLOSE	√џбё
+GUILD_BANK_INFO	”ћб г” жѕЏ «б—«»Ў…
+GUILD_BOARD_ID	Џ÷ж
+GUILD_BOARD_TEXT	—”«б…
+GUILD_BUILDING_FIX_CHANGE	еб  —нѕ Ќё«  џнн— «бгжёЏњ
+GUILD_BUILDING_FIX_CHANGE_GOLD	«б”Џ—: 1.000.000 н«дџ!
+GUILD_BUILDING_FIX_DELETE	еб  —нѕ Ќё« Ќ–Ё е–« «б‘нЅњ
+GUILD_BUILDING_FIX_NEED_BUILDING	б« жћжѕ бг»«дн.
+GUILD_BUILDING_GRADE	— »…
+GUILD_BUILDING_NAME	«”г «бг»дм
+GUILD_CANNOT_HEAL_GSP_ANYMORE	«г б√  Ў«ё… ‘»Ќ «б днд ≈бм ¬ќ—е«.
+GUILD_COMMENT	«я »
+GUILD_CREATE_ERROR_INSULT_NAME	«”г «б—«»Ў… џн— г”гжЌ »е.
+GUILD_DEFAULT_GRADE	√Џ÷«Ѕ «б—«»Ў…
+GUILD_DELETE	«Ќ–Ё
+GUILD_DEPOSIT	жѕ«∆Џ	
+GUILD_DONATE_FAIL_NOT_ENOUGH_HIGH_ITEM	бн” бѕня  »—Џ«  я«Ён….
+GUILD_DONATE_FAIL_NOT_ENOUGH_INVENTORY	ё«∆г… «бћ—ѕ «бќ«’… »я гг б∆…. б« нгядя «б »—Џ.
+GUILD_DONATE_FAIL_NOT_ENOUGH_LEVEL	нћ» √д  яжд ёѕ »бџ  «бг” жм 30 Џбм «б√ёб бб »—Џ.
+GUILD_DONATE_FAIL_NOT_ENOUGH_MIDDLE_ITEM	бн” бѕня г« няЁн гд г–я—«  «б »—Џ «бг ж”Ў…!
+GUILD_DONATE_FAIL_NOT_ENOUGH_YANG	бн” бѕня н«дџ я«Ёт.
+GUILD_DONATE_FAIL_TIME	б« нгядя «б »—Џ ќб«б 24 ”«Џ… гд ѕќжбя бб—«»Ў….
+GUILD_DONATE_QUESTION_HIGH	еб  —џ» Ён  ёѕнг  »—Џ я»н—њ
+GUILD_DONATE_QUESTION_MIDDLE	еб  —џ» Ён  ёѕнг  »—Џ г ж”Ўњ
+GUILD_DONATE_QUESTION_NORMAL	еб  —џ» Ён  ёѕнг  »—Џ ’џн—њ
+GUILD_DO_YOU_HEAL_GSP	еб  —џ» гё«»б %d гд «бн«дџ Ён «” —ћ«Џ %d гд ‘»Ќ «б дндњ
+GUILD_DO_YOU_JOIN	 ё«г  »ѕЏж я. еб  —џ» Ён «б«д÷г«г ≈бм «б—«»Ў…њ
+GUILD_DRAGONLAIR_MIN	ѕёнё…
+GUILD_DRAGONLAIR_PARTY_ALL	б«∆Ќ… «бг ’ѕ—нд «бЏ«г…
+GUILD_DRAGONLAIR_PARTY_LINE_FOUR	«» ѕ«Ѕ гд «бг— »… 11: 100 џ«н«
+GUILD_DRAGONLAIR_PARTY_LINE_HELP	г”«Џѕ…
+GUILD_DRAGONLAIR_PARTY_LINE_ONE	«бг— »… 1: 400 џ«н«
+GUILD_DRAGONLAIR_PARTY_LINE_THREE	«бг— »… 4 ≈бм 10: 200 џ«н«
+GUILD_DRAGONLAIR_PARTY_LINE_TWO	«бг— »… 2 ≈бм 3: 300 џ«н«
+GUILD_DRAGONLAIR_PARTY_MEMBER	«б√Џ÷«Ѕ
+GUILD_DRAGONLAIR_PARTY_NOW	б«∆Ќ… «бг ’ѕ—нд «б√”»жЏн…
+GUILD_DRAGONLAIR_PARTY_PAST	б«∆Ќ… «бг ’ѕ—нд «б”«»ё…
+GUILD_DRAGONLAIR_PARTY_TIME	«бжё 
+GUILD_DRAGONLAIR_PARTY_TOOLTIP_TITLE	гя«Ё√…
+GUILD_DRAGONLAIR_RANKING_FAIL	Ё‘б г!
+GUILD_DRAGONLAIR_RANKING_NONE	ћѕнѕ
+GUILD_DRAGONLAIR_RANKING_SUCCESS	дћЌ г!
+GUILD_DRAGONLAIR_SECOND	Ћ«дн…
+GUILD_EMPTY_AREA	√—÷ ќ«бн…
+GUILD_ENEMY_GUILD_NAME	«”г «б—«»Ў… «бќ’г
+GUILD_FACILITY	г»дм ћ«д»н
+GUILD_GEM	Ќћ— я—нг
+GUILD_HEADQUARTER	«бг»дм «б—∆н”н
+GUILD_HEAL_GSP	≈Џ«ѕ… ‘»Ќ «б днд
+GUILD_INFO_ENEMY_GUILD_EMPTY	б« нжћѕ
+GUILD_MARK_NOT_ENOUGH_LEVEL	√ѕдм г” жм гЎбж» 3
+GUILD_MARK_UPLOAD_NOTICE	√—ћжя «д ў— бЌў… Ќ м   гяд гд  ”ћнб ‘Џ«— «б—«»Ў….
+GUILD_MEMBER_JOB	Ў»ё…
+GUILD_MEMBER_KNIGHT	гё« б
+GUILD_MEMBER_LEVEL	г” жм
+GUILD_MEMBER_NAME	Џ÷ж
+GUILD_MEMBER_RANK	— »…
+GUILD_MEMBER_SPECIFIC_GRAVITY	дё«Ў «бќ»—… EXP «бгх »—шЏ »е«
+GUILD_NAME	«”г «б—«»Ў…
+GUILD_NOT_ENOUGH_MATERIAL	б«  гбя гж«ѕ »д«Ѕ я«Ён… бе–« «бг»дм.
+GUILD_NOT_ENOUGH_MONEY	б«  гбя н«дџ я«Ёт б»д«Ѕ е–« «бг»дм.
+GUILD_NO_NOTICE_PERMISSION	≈дя џн— гхƒеб б ёѕнг ≈Џб«дт г«.
+GUILD_OBJECT	√‘н«Ѕ
+GUILD_OFFER_EXP	«” Ћг«— «бќ»—…
+GUILD_SHORT_EXP	Џѕѕ дё«Ў «бќ»—… џн— я«Ёт.
+GUILD_TILE_BASEINFO	гЏбжг«  Џд «б√—÷
+GUILD_TILE_BOARD	г–я—«  ќ«’… »«б—«»Ў…
+GUILD_TILE_GRADE	≈ѕ«—… «бЌёжё
+GUILD_TILE_INFO	гЏбжг«  «б—«»Ў…
+GUILD_TILE_MEMBER	«б√Џ÷«Ѕ
+GUILD_TILE_SKILL	ге«—«  «б—ж«»Ў
+GUILD_USE_MASTER_ONLY	≈д е–« «бЌё еж гд гбя ё«∆ѕ «б—«»Ў… ЁёЎ.
+GUILD_VILLAGE_01	гн—н«дџ
+GUILD_VILLAGE_02	”ждџ»«
+GUILD_VILLAGE_03	ѕ«н«гн
+GUILD_WAR1	гдЎё… Ќ—» «б—«»Ў…
+GUILD_WAR2	гдЎё… Ќ—» «б—«»Ў…
+GUILD_WAR3	гдЎё… Ќ—» «б—«»Ў…
+GUILD_WAR4	гдЎё… Ќ—» «б—«»Ў…
+GUILD_WAR_GAINSCORE_FIFTY	50 дёЎ…
+GUILD_WAR_GAINSCORE_HUNDRED	100 дёЎ…
+GUILD_WAR_GAINSCORE_THIRTY	30 дёЎ…
+GUILD_WAR_GAMETIME_SIXTY	60 ѕёнё…
+GUILD_WAR_GAMETIME_TEN	10 ѕё«∆ё
+GUILD_WAR_GAMETIME_THIRTY	30 ѕёнё…
+GUILD_WAR_LIMIT_30MIN	«бжё : 30 ѕёнё…
+GUILD_WAR_REWARD_POTION	гя«Ё√…: ”нЌ’б «бЁ«∆“ Џбм ћ—Џ
+GUILD_WAR_SELECT_WAR	«ќ н«— джЏн… «бё «б
+GUILD_WAR_TYPE_DEFENSE	ё «б «бѕ—жЏ
+GUILD_WAR_TYPE_DIE	”«Ќ… «бЌ—»
+GUILD_WAR_TYPE_FLAG	ё «б «б√Џб«г
+GUILD_WAR_TYPE_NORMAL	гнѕ«д «бё «б
+GUILD_WAR_TYPE_TIGER	гЏ—я… «б≈»«ѕ…
+GUILD_WAR_TYPE_TIME	ећжг “гдн
+GUILD_WAR_USE_BATTLE_MAP	«бгя«д: ”«Ќ… «бЌ—» бб—«»Ў…
+GUILD_WAR_USE_NORMAL_MAP	гя«д: ќ—нЎ… Џ«ѕн…
+GUILD_WAR_WIN_CHECK_SCORE	” Ёж“ «б—«»Ў… «б н Ќ’б  Џбм √я»— Џѕѕ гд «б«д ’«—«  »«бЌ—».
+GUILD_WAR_WIN_FIVE	ќг” ћжб« 
+GUILD_WAR_WIN_ONE	ћжб…
+GUILD_WAR_WIN_TAKE_AWAY_FLAG1	«” жбн Џбм Џбг «бќ’г
+GUILD_WAR_WIN_TAKE_AWAY_FLAG2	жќ–е ≈бм гё—я.
+GUILD_WAR_WIN_THREE	Ћб«Ћ ћжб« 
+GUILD_WAR_WIN_WIPE_OUT_GUILD	Џбня «бё÷«Ѕ Џбм ћгнЏ «бќ’жг бян  Ёж“.
+GUILD_WITHDRAW	«д”Ќ«»
+GUILD_YOU_DO_NOT_JOIN	≈дя б«  д гн ≈бм √н —«»Ў….
+HORSE_HEALTH0	гн 
+HORSE_HEALTH1	нгж  ћжЏ«р
+HORSE_HEALTH2	ћ«∆Џ
+HORSE_HEALTH3	ггбжЅ
+HORSE_LEVEL1	Ќ’«д Џ«ѕн
+HORSE_LEVEL2	Ќ’«д гѕ—Џ
+HORSE_LEVEL3	Ќ’«д «бћн‘
+HOUR	”
+HOW_MANY_ITEM_DO_YOU_DROP1	еб  —џ» Ён ≈”ё«Ў  %sњ
+HOW_MANY_ITEM_DO_YOU_DROP2	еб  —џ» Ён ≈”ё«Ў %s б№%dњ
+INPUT_MATRIX_CARD_NUMBER	√ѕќб —ёг »Ў«ё… «бг« —ня”
+INPUT_MATRIX_CARD_TITLE	»Ў«ё… «бг« —ня”
+INPUT_PRIVATE_CODE_DIALOG_DESCRIPTION	√ѕќб ‘Ё—… «бЌ–Ё гд ќн«— ≈ѕ«—… «бЌ”«».
+INPUT_PRIVATE_CODE_DIALOG_TITLE	Ќ–Ё «б‘ќ’н…
+INVENTORY_DO_NOT_PACK_WARP_SCROLL	б« нгяд ѕгћ «ббЁ«∆Ё.
+INVENTORY_REALLY_USE_ITEM	еб  —џ» Ён  ЁЏнб е–« «б»дѕ Џбм е–« «б‘нЅњ
+INVENTORY_REALLY_USE_ITEM2	еб  —нѕ «” Џг«б е–« «б»дѕњ
+INVENTORY_REALLY_USE_PET_BAG_ITEM	еб  —џ» Ќёш« Ён ж÷Џ «б—Ёнё Ён ёЁ’ «бдёбњ
+INVENTORY_REALLY_USE_PET_BAG_TAKE_OUT	еб  —џ» Ён Ё Ќ ёЁ’ «бдёбњ
+INVENTORY_REALLY_USE_PET_FEEDSTUFF_ITEM	еб  —џ» Ён ≈ЎЏ«г %s »№№ %sњ
+IS_NOT_PET_CHANGE_ITEM	е–« бн” »дѕ ”Ќ— «б—Ёнё.
+IS_NOT_PET_ITEM	е–« бн” —Ёнё.
+JOB_ASSASSIN	дндћ«
+JOB_ASSASSIN0	б« ‘нЅ
+JOB_ASSASSIN1	дндћ« «бё «б Џд ё—»
+JOB_ASSASSIN2	дндћ« «бё «б Џд »Џѕ
+JOB_SHAMAN	‘«г«д
+JOB_SHAMAN0	б« ‘нЅ
+JOB_SHAMAN1	‘«г«д «б днд
+JOB_SHAMAN2	‘«г«д «б‘Ё«Ѕ
+JOB_SURA	”ж—«
+JOB_SURA0	б« ‘нЅ
+JOB_SURA1	”ж—« «бё «б «б”Ќ—н
+JOB_SURA2	”ж—« «б”шЌ— «б√”жѕ
+JOB_WARRIOR	гЌ«—»
+JOB_WARRIOR0	б« ‘нЅ
+JOB_WARRIOR1	г’«—Џ
+JOB_WARRIOR2	гё« б –едн
+JOB_WOLFMAN	бня«д—
+JOB_WOLFMAN0	бня«д— е«жн
+JOB_WOLFMAN1	џ—н“…
+JOB_WOLFMAN2	џн— г «Ќ
+KEYCHANGE_DONT_SAVE_EXIT	≈џб«ё »ѕжд ЌЁўњ
+KEYCHANGE_IMPOSSIBLE_CHANGE	б« н”гЌ ед« »«” Џг«б [CTRL]° [ALT]° ж [SHIFT]!
+KEYCHANGE_SAVE_EXIT	«ЌЁў ж«џбёњ
+KEY_0	0
+KEY_0_LALT	ALT + 0
+KEY_0_LCONTROL	CTRL + 0
+KEY_0_LSHIFT	SHIFT + 0
+KEY_1	1
+KEY_1_LALT	ALT + 1
+KEY_1_LCONTROL	CTRL + 1
+KEY_1_LSHIFT	SHIFT + 1
+KEY_2	2
+KEY_2_LALT	ALT + 2
+KEY_2_LCONTROL	CTRL + 2
+KEY_2_LSHIFT	SHIFT + 2
+KEY_3	3
+KEY_3_LALT	ALT + 3
+KEY_3_LCONTROL	CTRL + 3
+KEY_3_LSHIFT	SHIFT + 3
+KEY_4	4
+KEY_4_LALT	ALT + 4
+KEY_4_LCONTROL	CTRL + 4
+KEY_4_LSHIFT	SHIFT + 4
+KEY_5	5
+KEY_5_LALT	ALT + 5
+KEY_5_LCONTROL	CTRL + 5
+KEY_5_LSHIFT	SHIFT + 5
+KEY_6	6
+KEY_6_LALT	ALT + 6
+KEY_6_LCONTROL	CTRL + 6
+KEY_6_LSHIFT	SHIFT + 6
+KEY_7	7
+KEY_7_LALT	ALT + 7
+KEY_7_LCONTROL	CTRL + 7
+KEY_7_LSHIFT	SHIFT + 7
+KEY_8	8
+KEY_8_LALT	ALT + 8
+KEY_8_LCONTROL	CTRL + 8
+KEY_8_LSHIFT	SHIFT + 8
+KEY_9	9
+KEY_9_LALT	ALT + 9
+KEY_9_LCONTROL	CTRL + 9
+KEY_9_LSHIFT	SHIFT + 9
+KEY_A	A
+KEY_ADD	+
+KEY_A_LALT	ALT + A
+KEY_A_LCONTROL	CTRL + A
+KEY_A_LSHIFT	SHIFT + A
+KEY_B	B
+KEY_B_LALT	ALT + B
+KEY_B_LCONTROL	CTRL + B
+KEY_B_LSHIFT	SHIFT + B
+KEY_C	C
+KEY_COMMA	,
+KEY_COMMA_LALT	ALT + ,
+KEY_COMMA_LCONTROL	CTRL + ,
+KEY_COMMA_LSHIFT	SHIFT + ,
+KEY_C_LALT	ALT + C
+KEY_C_LCONTROL	CTRL + C
+KEY_C_LSHIFT	SHIFT + C
+KEY_D	D
+KEY_DOWN	≈бм «б√”Ёб
+KEY_D_LALT	ALT + D
+KEY_D_LCONTROL	CTRL + D
+KEY_D_LSHIFT	SHIFT + D
+KEY_E	E
+KEY_E_LALT	ALT + E
+KEY_E_LCONTROL	CTRL + E
+KEY_E_LSHIFT	SHIFT + E
+KEY_F	F
+KEY_F1	F1
+KEY_F10	F10
+KEY_F10_LALT	ALT + F10
+KEY_F10_LCONTROL	CTRL + F10
+KEY_F10_LSHIFT	SHIFT + F10
+KEY_F1_LALT	ALT + F1
+KEY_F1_LCONTROL	CTRL + F1
+KEY_F1_LSHIFT	SHIFT + F1
+KEY_F2	F2
+KEY_F2_LALT	ALT + F2
+KEY_F2_LCONTROL	CTRL + F2
+KEY_F2_LSHIFT	SHIFT + F2
+KEY_F3	F3
+KEY_F3_LALT	ALT + F3
+KEY_F3_LCONTROL	F3
+KEY_F3_LSHIFT	SHIFT + F3
+KEY_F4	F4
+KEY_F4_LALT	ALT + F4
+KEY_F4_LCONTROL	CTRL + F4
+KEY_F4_LSHIFT	SHIFT + F4
+KEY_F5	F5
+KEY_F5_LALT	ALT + F5
+KEY_F5_LCONTROL	CTRL + F5
+KEY_F5_LSHIFT	SHIFT + F5
+KEY_F6	F6
+KEY_F6_LALT	ALT + F6
+KEY_F6_LCONTROL	CTRL + F6
+KEY_F6_LSHIFT	SHIFT + F6
+KEY_F7	F7
+KEY_F7_LALT	ALT + F7
+KEY_F7_LCONTROL	CTRL + F7
+KEY_F7_LSHIFT	SHIFT + F7
+KEY_F8	F8
+KEY_F8_LALT	ALT + F8
+KEY_F8_LCONTROL	CTRL + F8
+KEY_F8_LSHIFT	SHIFT + F8
+KEY_F9	F9
+KEY_F9_LALT	ALT + F9
+KEY_F9_LCONTROL	CTRL + F9
+KEY_F9_LSHIFT	SHIFT + F9
+KEY_F_LALT	ALT + F
+KEY_F_LCONTROL	CTRL + F
+KEY_F_LSHIFT	SHIFT + F
+KEY_G	G
+KEY_GRAVE	~
+KEY_GRAVE_LALT	ALT + ~
+KEY_GRAVE_LCONTROL	CTRL + ~
+KEY_GRAVE_LSHIFT	SHIFT + ~
+KEY_G_LALT	ALT + G
+KEY_G_LCONTROL	CTRL + G
+KEY_G_LSHIFT	SHIFT + G
+KEY_H	H
+KEY_H_LALT	ALT + H
+KEY_H_LCONTROL	CTRL + H
+KEY_H_LSHIFT	SHIFT + H
+KEY_I	I
+KEY_I_LALT	ALT + I
+KEY_I_LCONTROL	CTRL + I
+KEY_I_LSHIFT	SHIFT + I
+KEY_J	J
+KEY_J_LALT	ALT + J
+KEY_J_LCONTROL	CTRL + J
+KEY_J_LSHIFT	SHIFT + J
+KEY_K	K
+KEY_K_LALT	ALT + K
+KEY_K_LCONTROL	CTRL + K
+KEY_K_LSHIFT	SHIFT + K
+KEY_L	L
+KEY_LALT	ALT
+KEY_LCONTROL	CTRL
+KEY_LEFT	≈бм «бн”«—
+KEY_LSHIFT	SHIFT
+KEY_L_LALT	ALT + L
+KEY_L_LCONTROL	CTRL + L
+KEY_L_LSHIFT	SHIFT + L
+KEY_M	M
+KEY_M_LALT	ALT + M
+KEY_M_LCONTROL	CTRL + M
+KEY_M_LSHIFT	SHIFT + M
+KEY_N	N
+KEY_NUMLOCK	NUMLOCK
+KEY_NUMPAD0	NUMPAD 0
+KEY_NUMPAD1	NUMPAD 1
+KEY_NUMPAD2	NUMPAD 2
+KEY_NUMPAD3	NUMPAD 3
+KEY_NUMPAD4	NUMPAD 4
+KEY_NUMPAD5	NUMPAD 5
+KEY_NUMPAD6	NUMPAD 6
+KEY_NUMPAD7	NUMPAD 7
+KEY_NUMPAD8	NUMPAD 8
+KEY_NUMPAD9	NUMPAD 9
+KEY_N_LALT	ALT + N
+KEY_N_LCONTROL	CTRL + N
+KEY_N_LSHIFT	SHIFT + N
+KEY_O	O
+KEY_O_LALT	ALT + O
+KEY_O_LCONTROL	CTRL + O
+KEY_O_LSHIFT	SHIFT + O
+KEY_P	P
+KEY_PERIOD	.
+KEY_PERIOD_LALT	ALT + .
+KEY_PERIOD_LCONTROL	CTRL + .
+KEY_PERIOD_LSHIFT	SHIFT + .
+KEY_PGDN	PAGE DOWN
+KEY_PGUP	PAGE UP
+KEY_P_LALT	ALT + P
+KEY_P_LCONTROL	CTRL + P
+KEY_P_LSHIFT	SHIFT + P
+KEY_Q	Q
+KEY_Q_LALT	ALT + Q
+KEY_Q_LCONTROL	CTRL + Q
+KEY_Q_LSHIFT	SHIFT + Q
+KEY_R	R
+KEY_RIGHT	≈бм «бнгнд
+KEY_R_LALT	ALT + R
+KEY_R_LCONTROL	CTRL + R
+KEY_R_LSHIFT	SHIFT + R
+KEY_S	S
+KEY_SPACE	г”«Ќ…
+KEY_SUBTRACT	-
+KEY_SYSRQ	PRT SCN
+KEY_S_LALT	ALT + S
+KEY_S_LCONTROL	CTRL + S
+KEY_S_LSHIFT	SHIFT + S
+KEY_T	T
+KEY_TAB	TAB
+KEY_T_LALT	ALT + T
+KEY_T_LCONTROL	CTRL + T
+KEY_T_LSHIFT	SHIFT + T
+KEY_U	U
+KEY_UP	≈бм «б√Џбм
+KEY_U_LALT	ALT + U
+KEY_U_LCONTROL	CTRL + U
+KEY_U_LSHIFT	SHIFT + U
+KEY_V	V
+KEY_V_LALT	ALT + V
+KEY_V_LCONTROL	CTRL + V
+KEY_V_LSHIFT	SHIFT + V
+KEY_W	W
+KEY_W_LALT	ALT + W
+KEY_W_LCONTROL	CTRL + W
+KEY_W_LSHIFT	SHIFT + W
+KEY_X	X
+KEY_X_LALT	ALT + X
+KEY_X_LCONTROL	CTRL + X
+KEY_X_LSHIFT	SHIFT + X
+KEY_Y	Y
+KEY_Y_LALT	ALT + Y
+KEY_Y_LCONTROL	CTRL + Y
+KEY_Y_LSHIFT	SHIFT + Y
+KEY_Z	Z
+KEY_Z_LALT	ALT + Z
+KEY_Z_LCONTROL	CTRL + Z
+KEY_Z_LSHIFT	SHIFT + Z
+LEADER_NAME	≈”г «бё«∆ѕ
+LEFT_TIME	«бжё  «бг »ён	
+LIMIT_LEVEL_GUILD	г” жм «б—«»Ў…: %d
+LOGIN_CONNECT_FAILURE	Ќ’б ќЎ√ Џдѕ «б« ’«б »«бќ«ѕг.
+LOGIN_CONNECT_SUCCESS	 г —»Ў «б« ’«б »«бќ«ѕг.
+LOGIN_CONNETING	«д ў— гд Ё÷бя. ”н г —»Ў «б« ’«б »«бќ«ѕг.
+LOGIN_FAILURE_ALREAY	Ќ”«»я г ’б »«бЁЏб.
+LOGIN_FAILURE_BACKEND_ERR	Ќ’б ќЎ√. н—ћм «б« ’«б »Ё—нё «бѕЏг.
+LOGIN_FAILURE_BE_SAME_KEY	ќЎ√ Ён «б ”ћнб
+LOGIN_FAILURE_BLOCK_ID	 г Ќў— е–« «бЌ”«».
+LOGIN_FAILURE_BLOCK_LOGIN	ќ«ѕг гџбё: «б—ћ«Ѕ «ќ н«— ќ«ѕг ¬ќ—!
+LOGIN_FAILURE_COUNTRY_ERR	—г“ «бѕжб… џн— ’ЌнЌ.\nн—ћм «б« ’«б »Ё—нё «бѕЏг.
+LOGIN_FAILURE_INTEGRTING	е–« «бЌ”«» н г ѕгће Ќ«бнр«. «б—ћ«Ѕ ≈Џ«ѕ… «бгЌ«жб… б«Ќёр«.
+LOGIN_FAILURE_IOVATION_ERR	бёѕ Ќ’б бб√”Ё ќЎ√ г«. «б—ћ«Ѕ «б« ’«б »Ё—нё «бѕЏг жЎб» «бг”«Џѕ….
+LOGIN_FAILURE_NOBILL	бг нх”ћб Ён е–« «бЌ”«» жё х бЏ» »Џѕ.
+LOGIN_FAILURE_NOT_AVAIL	е–« «бЌ”«» бн” г «Ќр«.
+LOGIN_FAILURE_NOT_EXIST_ID	ќЎ√ Ён «”г «бЌ”«» √ж Ён ябг… «б”—.
+LOGIN_FAILURE_NOT_MAIL_CONFIRM	нћ» Џбня  √янѕ Ќ”«»я Џ»— «б»—нѕ «б≈бя —ждн.
+LOGIN_FAILURE_REPAIR_ID	”н г ≈—ћ«Џ «бгЏѕ«  бе–« «бЌ”«».
+LOGIN_FAILURE_SAMELOGIN	”ћб √Ќѕ «б√‘ќ«’ «бѕќжб »Ќ”«»я.
+LOGIN_FAILURE_SHUTDOWN	«бќ«ѕг џн— г жЁ—.
+LOGIN_FAILURE_STEAM_SESSION	ћб” я «д е ° н—ћм ≈Џ«ѕ…  ‘џнб «бЏгнб.
+LOGIN_FAILURE_TNT_SESSION	бёѕ  Џ–— Ё Ќ «бЏгнб. н—ћм «Џ«ѕ…  ‘џнб «бг‘џб ж ”ћнб «бѕќжб.
+LOGIN_FAILURE_TOO_MANY_USER	бёѕ  Џ–— —»Ў «б« ’«б »”»» «бЏѕѕ «бя»н— бб«Џ»нд.
+LOGIN_FAILURE_UNKNOWN	≈дя бг  дћЌ Ён  ”ћнб «бѕќжб дў—«р б√”»«» гћежб….
+LOGIN_FAILURE_WEB_BLOCK	бёѕ  г Ё—÷ Ќў— Џбня Ён е–е «б’ЁЌ…. «б—ћ«Ѕ г—«ћЏ… ’дѕжё »—нѕя «б≈бя —ждн.
+LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER	≈д «б—ёг «бгхѕ—ћ џн— ’ЌнЌ.
+LOGIN_FAILURE_WRONG_MATRIX_CARD_NUMBER_TRIPLE	бёѕ √ѕќб  Ћб«Ћ г—«  —ёг«р ќ«Ў∆«р. ”н г «б¬д Ё’б «б« ’«б.
+LOGIN_FAILURE_WRONG_PASSWORD	ќЎ√ Ён «”г «бЌ”«» √ж Ён ябг… «б”—.
+LOGIN_INPUT_ID	«б—ћ«Ѕ ≈ѕќ«б «бгхЏ—шцЁ.
+LOGIN_INPUT_PASSWORD	«б—ћ«Ѕ ≈ѕќ«б ябг… «б”ш—.
+LOGIN_PROCESSING	ћ«—н «б ”ћнб...
+LUCKY_BOX_DIALOG_RECV_TEXT	еб  —нѕ ё»жб «б»дѕњ
+LUCKY_BOX_DIALOG_RETRY_TEXT	еб  жѕ  ћ—»… Ќўя гћѕѕ«њ
+MAILBOX_FAIL_USE_TIME_LIMIT	н г  ЌѕнЋ ’дѕжё «б»—нѕ. «б—ћ«Ѕ ≈Џ«ѕ… «бгЌ«жб… б«Ќёр«.
+MAILBOX_POST_ALL_DELETE_FAIL_EMPTY	б« —”«∆б ћѕнѕ…
+MAILBOX_POST_ALL_DELETE_QUESTION1	Ќ–Ё ћгнЏ «б—”«∆бњ
+MAILBOX_POST_ALL_DELETE_QUESTION2	бд н г Ќ–Ё «б—”«∆б «б н  Ќ жн Џбм г—Ёё« .
+MAILBOX_POST_ALL_GET_ITEMS_FAIL_EMPTY	б« нжћѕ бѕня «н —”«∆б  Ќ жн г—Ёё«  Ён ’дѕжё «б»—нѕ «бќ«’ »я.
+MAILBOX_POST_ALL_GET_ITEMS_QUESTION	ё»жб «бг—Ёё« њ (”н г ≈ё Ў«Џ 5% н«дџ я÷—«∆»)
+MAILBOX_POST_DELETE_FAIL_EXIST_ITEMS	б« нгяд Ќ–Ё «б—”«б…. н—ћм ё»жб «бг—Ёё«  √жб«.
+MAILBOX_POST_DELETE_QUESTION	еб  —нѕ »«бЁЏб Ќ–Ё е–е «б—”«б…њ
+MAILBOX_POST_GET_ITEMS_NOT_ENOUGHT_INVENTORY	б« нгяд ё»жб «б»джѕ. ё«∆г… «бћ—ѕ «бќ«’… »я гг б∆….
+MAILBOX_POST_GET_ITEMS_QUESTION	ё»жб «бг—Ёё« њ (”н г ≈ё Ў«Џ 5% н«дџ я÷—«∆»)
+MAILBOX_POST_GET_ITEMS_WON_OVERFLOW	б« нгядя ё»жб «бг“нѕ гд «бжжд.
+MAILBOX_POST_GET_ITEMS_YANG_OVERFLOW	б« нгядя ё»жб «бг“нѕ гд «бн«дџ.
+MAILBOX_POST_GM_ARRIVE	—”«б… г‘—Ё «ббЏ»…
+MAILBOX_POST_NOT_CONFIRM_INFO_1	—”«∆б џн— гё—жЅ…: %d
+MAILBOX_POST_NOT_CONFIRM_INFO_2	»г—Ёё« : %d / »ѕжд г—Ёё« : %d
+MAILBOX_POST_READ_BLOCK	еб √д  г √яѕ »√дя  жѕ Ќў— %sњ
+MAILBOX_POST_WRITE_ALREADY_ITEM	нгядя ЁёЎ «—”«б »дѕ ж«Ќѕ Ён «б—”«б….
+MAILBOX_POST_WRITE_CAN_NOT_SPLIT_ITEM	ёг »Ё’б «б»джѕ «бгћгЏ… Ён ё«∆г… «бћ—ѕ «бќ«’… »я ё»б ≈—”«б «Ќѕе« Ён —”«б….
+MAILBOX_POST_WRITE_CONFIRM_FAIL	«бг бён џн— гЏ—жЁ. б« нгяд ≈—”«б «б—”«б….
+MAILBOX_POST_WRITE_CONFIRM_FULL_MAILBOX	’дѕжё «б»—нѕ «бќ«’ »«бг бён гг бнЅ. б« нгяд ≈—”«б «б—”«б….
+MAILBOX_POST_WRITE_LEVEL_LIMIT	нгядя ≈—”«б «б—”«∆б «» ѕ«Ѕр гд «бг” жм 20.
+MAILBOX_POST_WRITE_MONEY_NOT_ENOUGHT	бн” бѕня г« няЁн гд «бн«дџ б≈—”«б е–е «б—”«б….
+MAILBOX_POST_WRITE_NAME_CHECK	ёг » √янѕ «”г г бён «б—”«б… Џ»— «б÷џЎ Џбм "«б Ќёё гд «бг бён".
+MAILBOX_POST_WRITE_NAME_EMPTY	√ѕќб «”г «бг бён.
+MAILBOX_POST_WRITE_QUESTION1	еб  жѕ «—”«б «б—”«б… ≈бм %s «б¬дњ
+MAILBOX_POST_WRITE_QUESTION2	—”жг «б ж’нб: %d н«дџ
+MAILBOX_POST_WRITE_SEND_FAIL_EMPTY_NAME	√ѕќб «”г «бг бён.
+MAILBOX_POST_WRITE_SEND_FAIL_EMPTY_TITLE	√ѕќб «бЏдж«д.
+MAILBOX_POST_WRITE_SEND_MONEY_TITLE	г»бџ гд «бг«б
+MAILBOX_POST_WRITE_WRONG_ITEM	б« нгядя «—”«б »дѕ гх— »Ў »«б—жЌ.
+MAILBOX_POST_WRITE_WRONG_MESSAGE	«б—”«б…  Ќ жн Џбм ябг«  гхќб… »«б√ѕ».
+MAILBOX_POST_WRITE_WRONG_TITLE	«бЏдж«д нЌ жн Џбм ябг«  гхќб… »«б√ѕ».
+MALL_CANNOT_INSERT	б« нгядя ж÷Џ «б‘нЅ.
+MALL_PASSWORD_TITLE	ябг… «б”ш—
+MAP_A1	гдЎё… нждџ«д
+MAP_A2	ж«ѕн ”жндџ—нждџ
+MAP_A2_1	
+MAP_A3	гдЎё… н«н«дџ
+MAP_AG	ћждџ—«дџ
+MAP_B1	гдЎё… ћж«д
+MAP_B2	ж«ѕн ≈гћн
+MAP_B3	≈ёбнг »жянждџ
+MAP_BATTLE_FIELD	гдЎё… «бгЏ—я…
+MAP_BAY	ќбнћ днЁ—н 
+MAP_BAYBLACKSAND	ќбнћ днЁ—н 
+MAP_BG	ж«—нждџ
+MAP_BOSS_AWAKEN_DAWNMIST	«.Ќ: џ«»… г”Ќж—…
+MAP_BOSS_AWAKEN_FLAME	«.Ќ: ёбЏ… «б днд «б√Ќг—
+MAP_BOSS_AWAKEN_SKIPIA	«.Ќ: яеЁ «ббЏд…
+MAP_BOSS_AWAKEN_SNOW	«.Ќ: »х—ћ «бдгн—
+MAP_BOSS_CRACK_DAWNMIST	Ё.“: џ«»… г”Ќж—…
+MAP_BOSS_CRACK_FLAME	Ё.“: ёбЏ… «б днд «б√Ќг—
+MAP_BOSS_CRACK_SKIPIA	Ё.“: яеЁ «ббЏд…
+MAP_BOSS_CRACK_SNOW	Ё.“: »х—ћ «бдгн—
+MAP_BOSS_LABYRINTH	 б… «б√же«г
+MAP_C1	гдЎё… »нждџгж
+MAP_C2	ж«ѕн »«дџ”«д
+MAP_C3	гдЎё… »«я—«
+MAP_CAPE	—√” д«— «б днд
+MAP_CAPEDRAGONHEAD	—√” д«— «б днд
+MAP_CG	≈ге«
+MAP_CZ_DUNGEON	гЏ»ѕ “жѕн«я
+MAP_DAWN	ћ—Ё џж« «г«
+MAP_DAWNMISTWOOD	ћ—Ё џж« «г«
+MAP_DAWNMIST_DUNGEON_01	џ«»… г”Ќж—…
+MAP_DEFENSE_WAVE	«бѕЁ«Џ Џд «б”Ёнд…
+MAP_DEFENSE_WAVE_PORT	гнд«Ѕ
+MAP_DESERT	’Ќ—«Ѕ нждџ»н
+MAP_DEVILCATACOMB	”—ѕ«» «бгж 
+MAP_DEVILTOWER1	»—ћ «б‘н«Ўнд
+MAP_DUEL	”«Ќ…  ѕ«—н» «бё «б
+MAP_E	гдЎё… «ббня«д—
+MAP_ELEMENTAL_DUNGEON	Џ«бг «бЏд«’—
+MAP_EMPIREWAR01	гЏ—я… «бЌ’д
+MAP_EMPIREWAR02	гЏ—я… «бЌ’д
+MAP_EMPIREWAR03	гЏ—я… «бЌ’д
+MAP_FLAME	ѕжнжгеж«д
+MAP_GUILD_01	ћждџ—«дџ
+MAP_GUILD_02	ж«—нждџ
+MAP_GUILD_03	≈ге«
+MAP_GUILD_PVE	ё’— гбя «б д«днд
+MAP_HOLYPLACE_DESERT	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «б’Ќ—«Ѕ
+MAP_HOLYPLACE_FLAME	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «бд«—
+MAP_HOLYPLACE_ICE	гЏ—я… «б≈г»—«Ўж—н… «б√—÷ «бћбнѕн…
+MAP_MILGYO	гЏ»ѕ еж«дџ
+MAP_MILGYO_A	
+MAP_MINIBOSS_01	«б»—ћ «бгЌ’д «б√“—ё - «бг” жм 40-80
+MAP_MINIBOSS_02	«б»—ћ «бгЌ’д «б√Ќг— Ц «» ѕ«Ѕ гд «бг” жм 81
+MAP_MISTS_OF_ISLAND	ћ“— «б÷»«»
+MAP_MONKEY_DUNGEON	е«”жд ѕждџ
+MAP_MONKEY_DUNGEON2	ћ«дџ”жд ѕждџ
+MAP_MONKEY_DUNGEON3	”«дџ”жд ѕждџ
+MAP_MONKEY_DUNGEON_11	е«”жд ѕждџ
+MAP_MONKEY_DUNGEON_12	е«”жд ѕждџ
+MAP_MONKEY_DUNGEON_13	е«”жд ѕждџ
+MAP_MT_THUNDER	ћ»«б «б—Џѕ
+MAP_MT_TH_DUNGEON_01	гЏ»ѕ «б¬‘«ж
+MAP_NUSLUCK	√—÷ «бЏг«бё…
+MAP_NUSLUCK01	√—÷ «бЏг«бё…
+MAP_N_DESERT_01	’Ќ—«Ѕ нждџ»н
+MAP_N_DESERT_02	
+MAP_N_FLAME_01	√—÷ «бд«—
+MAP_N_FLAME_02	
+MAP_N_FLAME_DRAGON	яеЁ гнбн
+MAP_N_FLAME_DUNGEON_01	ёбЏ… «б днд «б√Ќг—
+MAP_N_SNOWM_01	ћ»б ”же«д
+MAP_N_SNOWM_02	
+MAP_N_SNOW_DUNGEON_01	»х—ћ «бдгн—
+MAP_N_THREEWAY	ж«ѕн ”жндџ—нждџ
+MAP_OXEVENT	г”«»ё… OX
+MAP_PATHWAY_DESERT_01	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «б’Ќ—«Ѕ
+MAP_PATHWAY_DESERT_02	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «б’Ќ—«Ѕ
+MAP_PATHWAY_DESERT_03	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «б’Ќ—«Ѕ
+MAP_PATHWAY_FLAME_01	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «бд«—
+MAP_PATHWAY_FLAME_02	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «бд«—
+MAP_PATHWAY_FLAME_03	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «бд«—
+MAP_PATHWAY_ICE_01	гЏ—я… «б≈г»—«Ўж—н…-«б√—÷ «бћбнѕн…
+MAP_PATHWAY_ICE_02	”«Ќ… «ббЏ»
+MAP_PATHWAY_ICE_03	гЏ—я… «б≈г»—«Ўж—н…-«б√—÷ «бћбнѕн…
+MAP_SKELTOWER	»—ћ џжг”«д
+MAP_SKIPIA_DUNGEON_01	яеЁ «ббЏд…
+MAP_SKIPIA_DUNGEON_011	
+MAP_SKIPIA_DUNGEON_012	
+MAP_SKIPIA_DUNGEON_013	
+MAP_SKIPIA_DUNGEON_02	яеЁ «ббЏд… 2
+MAP_SKIPIA_DUNGEON_021	
+MAP_SKIPIA_DUNGEON_022	
+MAP_SKIPIA_DUNGEON_023	
+MAP_SKIPIA_DUNGEON_BOSS	гЏ»ѕ «б днд
+MAP_SKIPIA_DUNGEON_BOSS_1	»—ћ «бЏд«я» «бгЌ’д 1
+MAP_SKIPIA_DUNGEON_BOSS_2	»—ћ «бЏд«я» «бгЌ’д 2
+MAP_SKIPIA_DUNGEON_BOSS_3	»—ћ «бЏд«я» «бгЌ’д 3
+MAP_SNOW	ћ»б ”же«д
+MAP_SPIDER	яж«ебж ѕждџ
+MAP_SPIDERDUNGEON	»—ћ «бЏд«я» «бгЌ’д 1
+MAP_SPIDERDUNGEON_02	»—ћ «бЏд«я» «бгЌ’д 2
+MAP_SPIDERDUNGEON_02_1	»—ћ «бЏд«я» «бгЌ’д 2
+MAP_SPIDERDUNGEON_03	»—ћ «бЏд«я» «бгЌ’д 3
+MAP_SUNGZI	гЏ—я… «б≈г»—«Ўж—н…
+MAP_SUNGZI_DESERT_01	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «б’Ќ—«Ѕ
+MAP_SUNGZI_DESERT_HILL_01	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «б’Ќ—«Ѕ
+MAP_SUNGZI_DESERT_HILL_02	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «б’Ќ—«Ѕ
+MAP_SUNGZI_DESERT_HILL_03	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «б’Ќ—«Ѕ
+MAP_SUNGZI_FLAME_HILL_01	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «бд«—
+MAP_SUNGZI_FLAME_HILL_02	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «бд«—
+MAP_SUNGZI_FLAME_HILL_03	гЏ—я… «б≈г»—«Ўж—н…-√—÷ «бд«—
+MAP_SUNGZI_SNOW	гЏ—я… «б≈г»—«Ўж—н…-«б√—÷ «бћбнѕн…
+MAP_SUNGZI_SNOW_PASS01	гЏ—я… «б≈г»—«Ўж—н…-«б√—÷ «бћбнѕн…
+MAP_SUNGZI_SNOW_PASS02	гЏ—я… «б≈г»—«Ўж—н…-«б√—÷ «бћбнѕн…
+MAP_SUNGZI_SNOW_PASS03	гЏ—я… «б≈г»—«Ўж—н…-«б√—÷ «бћбнѕн…
+MAP_T1	гдЎё… Ќ—» «б—«»Ў…
+MAP_T2	гдЎё… Ќ—» «б—«»Ў…
+MAP_T3	гдЎё… Ќ—» «б—«»Ў…
+MAP_T4	гдЎё… Ќ—» «б—«»Ў…
+MAP_TEMPLE	гЏ»ѕ еж«дџ
+MAP_THUNDER	ћ»«б «б—Џѕ
+MAP_TREE	бдџ”«г
+MAP_TRENT	џ«»… «б√‘»«Ќ
+MAP_TRENT02	«бџ«»… «бЌг—«Ѕ
+MAP_TRENT02_A	«бџ«»… «бЌг—«Ѕ
+MAP_TRENT_A	
+MAP_WEDDING_01	ќ—нЎ… «б“ж«ћ
+MAP_WL	гнѕ«д «б√Ё«Џн
+MAP_WL_01	гнѕ«д «б√Ё«Џн
+MC_ACCUMULATION_COUNT	Џѕѕ »Ў«ё«  «бжЌж‘ «б н  г ћгЏе«: %d
+MC_ALTER_TEXT	«бгег… %d
+MC_CARD_FALL_SHORT	Џѕѕ «б»Ў«ё«  «бг”ћб… џн— я«Ён.
+MC_CARD_SHUFFLE	еб  —нѕ ≈Џ«ѕ… ќбЎ «б»Ў«ё«  гд ћѕнѕњ
+MC_INIT_ITEM_FALL_SHORT	√д  »Ќ«ћ… ≈бм %d »Ў«ё…(« ) «б»ѕ«н«  «бћѕнѕ….
+MC_MISSION_FAIL_MSG	б«  жћѕ гег… д‘Ў… √ж  г  ќЎн «бЌѕ «бг”гжЌ.
+MC_MISSION_INIT	еб  —нѕ «” Џ«ѕ… гег… «бг” жм 1њ
+MC_MISSION_NO_CLEAR	Џбня √жбр« ≈дћ«“ «бгег….
+MC_MOTION_BUTTON_OVER_MSG	е–« «бќн«— г «Ќ «» ѕ«Ѕр гд «бдћг… 2.
+MC_POLY_BUTTON_OVER_MSG	е–« «бќн«— г «Ќ «» ѕ«Ѕр гд «бдћг… 3.
+MC_POLY_FAIL	б« нгядя «б Ќжб «б¬д.
+MC_POLY_QUESTION	еб  —нѕ  Ќжнб дЁ”я ≈бм е–« «бжЌ‘њ
+MC_PROMOTION_MAX	«б Ќ”нд бг нЏѕ г «Ќр«
+MC_PROMOTION_QUESTION	еб  —нѕ “н«ѕ… «бг” жмњ
+MC_QUESTION_BUTTON_DESC1	«б«” Џ«ѕ… г «Ќ… ЁёЎ 6 г—«  ќб«б яб 24 ”«Џ….
+MC_QUESTION_BUTTON_DESC2	  Ўб» яб «” Џ«ѕ… ћѕнѕ… »Џѕ –бя ≈бм «бг“нѕ гд »Ў«ё«  «б»ѕ«н«  «бћѕнѕ….
+MC_QUESTION_BUTTON_DESC3	«дё— ед« бЏ—÷ «бг »ё гд “гд «б«” —«Ќ… «б≈ћ»«—н….
+MC_REWARD_FAIL	б« нжћѕ гя«д я«Ён Ён ё«∆г… «бћ—ѕ.
+MC_REWARD_MISSION	еб  —нѕ «бЌ’жб Џбм »Ў«ё… «бжЌж‘ «бќ«’… »я «б¬дњ
+MC_SHUFFLE_NO_ITEM	√д  б«  гбя »Ў«ё… ќбЎ «бгег… гд «бћѕнѕ.
+MC_TIME	«” —«Ќ… ≈ћ»«—н…: %s
+MC_TRADE_QUESTION	”н г ќ’г %d »Ў«ё«  гдя. еб  —џ» Ён «бг «»Џ…њ
+MC_USE_ITEM_FAIL	б« нгяд ≈÷«Ё… е–е «б»Ў«ё….
+MC_USE_ITEM_QUESTION	еб  —нѕ ≈÷«Ё… »Ў«ё… «бжЌж‘ е–ењ
+MC_WARP_BUTTON_OVER_MSG	е–« «бќн«— г «Ќ «» ѕ«Ѕр гд «бдћг… 4.
+MC_WARP_FAIL	бг нЏѕ »≈гя«дя √д  дёб дЁ”я.
+MC_WARP_LIMIT_LEVEL	б« н“«б г” ж«я ÷ЏнЁр« бян  дёб дЁ”я.
+MC_WARP_QUESTION	еб  —нѕ √д  д ёб ≈бм гдЎё… е–« «бжЌ‘њ
+MD_POPUP_MSG_1	нгядя «бѕќжб гд ќб«б гЏ»ѕ “жѕн«я ЁёЎ.
+MD_POPUP_MSG_2	≈д Ќ—«” гЏ»ѕ “жѕн«я »Ќ«ћ… б≈Џ«ѕ… »д«Ѕ ёж ег.\n≈гдЌег »Џ÷ «бжё .
+MD_SYSTEM_MSG_1	√д  б”  “жг»н. б« нгядя «бё «б ж√д  гн .
+MEDAL_OF_HONOR	гнѕ«бн… «б‘—Ё
+MEDAL_OF_HONOR_SYSTEM_PICK	√Ќ’б Џбм »дѕ: гнѕ«бн… «б‘—Ё x %d
+MESSENGER_ADD_BLOCK_FRIEND	≈÷«Ё…
+MESSENGER_ADD_FRIEND	≈÷«Ё… ’ѕнё
+MESSENGER_BLOCK	 г «бЌў—
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_1	бёѕ « ќ–я %s ’ѕнё«р бе.
+MESSENGER_DO_YOU_ACCEPT_ADD_FRIEND_2	гж«Ёёњ
+MESSENGER_DO_YOU_DELETE	еб  —нѕ Ќ–Ёењ
+MESSENGER_DO_YOU_DELETE_PHONE_NUMBER	еб  —џ» Ќ–Ё —ёг «бе« Ё «бгЌгжбњ
+MESSENGER_DO_YOU_MOVE	еб  —нѕ «б«” г—«—њ
+MESSENGER_EMPTY_LIST	Ё«—џ
+MESSENGER_FAMILY	Џ«∆б…
+MESSENGER_FRIEND	√’ѕё«Ѕ
+MESSENGER_GUILD	—«»Ў…
+MESSENGER_INPUT_MOBILE_AUTHORITY_DESCRIPTION	√ѕќб —ёг «б‘Ё—… «б–н  ж’б  »е« Џбм е« Ёя «бгЌгжб.
+MESSENGER_INPUT_MOBILE_AUTHORITY_TITLE	√ѕќб —ёг «б‘Ё—…
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_1	«б—ћ«Ѕ ≈ѕќ«б —ёг е« Ёя «бгЌгжб б≈—”«б «б—”«∆б «бё’н—….
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_2	еб  —џ» Ён ≈ѕќ«б «б—ёг «б¬дњ
+MESSENGER_INPUT_MOBILE_PHONE_NUMBER_TITLE	√ѕќб —ёг «бе« Ё «бгЌгжб
+MESSENGER_SEND_MOBILE_MESSAGE_TITLE	≈—”«б «б—”«б…
+METIN_TEST	
+MINIGAMEUI_CALENDAR	 ёжнг «б«Ќ Ё«бн« 
+MINIGAME_FISH_EVENT_ADD_ACCEPT	еб  —џ» »≈÷«Ё… е–« «б‘нЅњ
+MINIGAME_FISH_EVENT_DROP_ACCEPT	еб  —нѕ ≈”ё«Ў е–« «б»дѕњ
+MINIGAME_FISH_EVENT_REWARD_MSG	бёѕ Ќ’б  Џбм %s.
+MINIGAME_FISH_EVENT_USE_ACCEPT	еб  —нѕ ≈” ќѕ«г е–« «б»дѕњ
+MINIMAP	Ё Ќ «бќ—нЎ… «б’џн—…
+MINIMAP_CANNOT_SEE	б« нгяд ≈ўе«— «бќ—нЎ… «б’џн—….
+MINIMAP_CAN_NOT_SHOW_AREAMAP	б« нгяд Џ—÷ «бќ—нЎ… «бя»н—….
+MINIMAP_DEC_SCALE	 ’џн—
+MINIMAP_INC_SCALE	 я»н—
+MINIMAP_OBSERVER_COUNT	гх‘«еѕ %d
+MINIMAP_OPEN_INGAMEEVENT	«Ќ Ё«бн« 
+MINIMAP_SHOW_AREAMAP	Ё Ќ «бќ—нЎ… «бя»н—…
+MINI_GAME_BNW_DONATE_QUESTION1	еб  —нѕ «б »—Џњ
+MINI_GAME_BNW_DONATE_QUESTION2	«б »—Џ «бж«Ќѕ ”н” ебя 15 Џгб… гЏѕдн….
+MINI_GAME_BNW_FONT	Arial:15
+MINI_GAME_BNW_GAME_GIVEUP_MSG1	еб √д  г √яѕ гд √дя  —нѕ ≈бџ«Ѕ «ббЏ»…њ
+MINI_GAME_BNW_GAME_GIVEUP_MSG2	 –я— √дя ” Ќ’б Џбм гя«Ё¬  Џдѕ «бЁж“.
+MINI_GAME_BNW_GAME_RESULT_DRAW	 Џ«ѕб! бёѕ Ќ’б  Џбм %d Џгб… «бЏ—«Ё.
+MINI_GAME_BNW_GAME_RESULT_LOSE	е“нг…! бёѕ Ќ’б  Џбм %d Џгб… «бЏ—«Ё.
+MINI_GAME_BNW_GAME_RESULT_SCORE	«бд нћ… «бде«∆н…: %d
+MINI_GAME_BNW_GAME_RESULT_WIN	≈д ’«—! бёѕ Ќ’б  Џбм %d Џгб… «бЏ—«Ё.
+MINI_GAME_BNW_NOT_ENOUGH_INVEN	б« нжћѕ гя«д я«Ён Ён ё«∆г… «бћ—ѕ.
+MINI_GAME_BNW_NOT_ENOUGH_ITEM	√д  »Ќ«ћ… ≈бм Ўёг ж—ё  «—ж  б бЏ».
+MINI_GAME_BNW_NOT_ENOUGH_YANG	бн” бѕня н«дџ я«Ён б »ѕ√ «ббЏ»….
+MINI_GAME_BNW_RESULT_DRAW1	—ёгя г ‘«»е.
+MINI_GAME_BNW_RESULT_DRAW2	 Џ«ѕб!
+MINI_GAME_BNW_RESULT_LOSE1	—ёгя √’џ—.
+MINI_GAME_BNW_RESULT_LOSE2	е“нг…!
+MINI_GAME_BNW_RESULT_WIN1	—ёгя √я»—.
+MINI_GAME_BNW_RESULT_WIN2	≈д ’«—!
+MINI_GAME_BNW_START_QUESTION	√д  »Ќ«ћ… ≈бм 30000 н«дџ жЎёг ж—ё  «—ж  б бЏ». еб  —џ» Ён «бг‘«—я… Ён «бг”«»ё…њ
+MINI_GAME_CATCHKING_CHALLENGE_TOOLTIP1	≈–« ёг  »«” ќѕ«г √яЋ— гд %s ” Ќ’б Џбм дЁ” «бЏѕѕ гд «б’д«ѕнё яћж«∆“.
+MINI_GAME_CATCHKING_CHALLENGE_TOOLTIP2	«бЌѕ «б√ё’м еж %d √Ўёг бЏ» гбян….
+MINI_GAME_CATCHKING_HELP_MSG1	н« бб√”Ё! ёнг… »Ў«ё я √ёб. бд  Ќ’б Џбм √н дё«Ў.\n нгядя «бг «»Џ… »»Ў«ё… √ќ—м гд Ўёг √ж—«ёя.
+MINI_GAME_CATCHKING_HELP_MSG2	√Ќ”д ! «б»Ў«ё «д г ”«жн «д. бёѕ ≈д е  ћжб я.\n нгядя «бг «»Џ… »»Ў«ё… √ќ—м гд Ўёг √ж—«ёя.
+MINI_GAME_CATCHKING_HELP_MSG3	«” г—! ёнг… »Ў«ё я √Џбм. \nёг »«бя‘Ё Џд »Ў«ё… √ќ—м.
+MINI_GAME_CATCHKING_HELP_MSG4	нжћѕ [5] Ён гѕм «б»Ў«ё… «бгёбж»…. бб√”Ё бд  Ќ’б Џбм √н дё«Ў.\n ≈ќ — «бгбя [K] «б¬д.
+MINI_GAME_CATCHKING_POPUP_CATCH_FAIL	бёѕ  гяд «бгбя гд «бЁ—«—! бёѕ ≈д е  «ббЏ»…. Ён Ќ«б Ќ’жбя\n Џбм 10 дё«Ў Џбм «б√ёб нгядя «б¬д ≈” »ѕ«бе« »ћж«∆“.
+MINI_GAME_CATCHKING_POPUP_REWARD_FAIL	б« нгядя «бЌ’жб Џбм √н ћж«∆“.
+MINI_GAME_CATCHKING_SEARCH_NUMBER5	нжћѕ [5] Ён «бгѕм «бё—н».
+MINI_GAME_CATCHKING_START_QUESTION	нћ» Џбня ѕЁЏ «б «бн ббЏ»: %d н«дџ ж%s:%d ёЎЏ…\nеб  —нѕ «ббЏ» «б¬дњ
+MINI_GAME_CATCHKING_TOOLTIP_CARD1	нгяде« «Ќ ћ«“ «б»Ў«ё… «б «бн…: 1
+MINI_GAME_CATCHKING_TOOLTIP_CARD2	нгяде« «Ќ ћ«“ «б»Ў«ё«  «б «бн…: 1° 2
+MINI_GAME_CATCHKING_TOOLTIP_CARD3	нгяде« «Ќ ћ«“ «б»Ў«ё«  «б «бн…: 1° 2° 3
+MINI_GAME_CATCHKING_TOOLTIP_CARD4	нгяде« «Ќ ћ«“ «б»Ў«ё«  «б «бн…: 1° 2° 3° 4
+MINI_GAME_CATCHKING_TOOLTIP_CARD5	нгяде« «Ќ ћ«“ «б»Ў«ё«  «б «бн…: 1° 2° 3° 4° 5\nЁн Ќ«б жћжѕ [5] √ќ—м Ён «бгѕм «бё—н» бб»Ў«ё… «б н  ёжг »я‘Ёе«°\n” д ен «бћжб… «бќ«’… »я жбд  Ќ’б Џбм √н дё«Ў.
+MINI_GAME_CATCHKING_TOOLTIP_CARD6	нгяде« «Ќ ћ«“ «б»Ў«ё… «б «бн…: K
+MINI_GAME_CATCHKING_TOOLTIP_SCORE1	%s: 550 дёЎ… √ж √яЋ—
+MINI_GAME_CATCHKING_TOOLTIP_SCORE2	%s: 400 - 549 дёЎ…
+MINI_GAME_CATCHKING_TOOLTIP_SCORE3	%s: 10 - 399 дёЎ…
+MINI_GAME_CATCHKING_TOOLTIP_SCORE4	” Ќ’б Џбм 10 дё«Ў ≈÷«Ён… Џдѕ я‘Ёя Џд ћгнЏ «б»Ў«ё«  Ён дЁ” «бћжб….
+MINI_GAME_GIVEUP_QUESTION	еб √д  г √яѕ гд √дя  —нѕ ≈бџ«Ѕ «ббЏ»…њ ”  ќбм Џд гя«Ё∆ я.
+MINI_GAME_NOTICE_1	√дё— "—гн" бгЏ—Ё… «бб«Џ» «б–н ”н»ѕ√.
+MINI_GAME_NOTICE_10	е«! бёѕ  џб»  Џбм «бЌ«”ж».
+MINI_GAME_NOTICE_11	н« б”жЅ «бЌў! бёѕ  џб» Џбня «бЌ«”ж».
+MINI_GAME_NOTICE_12	бёѕ Ќ’б  Џбм нж  √ж гж жнгядя «б—гн гд ћѕнѕ.
+MINI_GAME_NOTICE_13	бёѕ ≈д е  «ббЏ»… √Ќ’б Џбм гя«Ё∆ я.
+MINI_GAME_NOTICE_2	—гн Џ’н нж .
+MINI_GAME_NOTICE_3	бёѕ ё«г «бЌ«”ж» »—гн Џ’н нж  бгЏ—Ё… «бб«Џ» «б–н ”н»ѕ√.
+MINI_GAME_NOTICE_4	бёѕ Ќ’б «бЌ«”ж» Џбм «б—ёг «б√ёб жеж гд ”н»ѕ√.
+MINI_GAME_NOTICE_5	»ёѕ Ќ’б  Џбм «б—ёг «б√ёб ж√д  гд ”н»ѕ√.
+MINI_GAME_NOTICE_6	—гн я: %s.  Ќ—я %d ќ«д…/ќ«д«  ≈бм «б√г«г.
+MINI_GAME_NOTICE_7	—гн я: %s. Џбня «бЏжѕ… ќ«д… ж«Ќѕ….
+MINI_GAME_NOTICE_8	—гн…: %s
+MINI_GAME_NOTICE_9	б«Џ» «бЌ«”ж» н Ќ—я «б¬д.
+MINI_GAME_RUMI_DISCARD_QUESTION	еб  —нѕ Ќёш« Ќ–Ё е–е «бж—ё…њ
+MINI_GAME_RUMI_EXIT_QUESTION	еб  —џ» Ён ≈де«Ѕ ћжб я ж«бЌ’жб Џбм ћ«∆“ яњ\n”н г »–бя  ’Ён— дё«Ўя жг« ≈бџ«Ѕ г«  »ём гд ж—ёя!
+MINI_GAME_RUMI_START_QUESTION	Џбня ббг‘«—я… Ён «ббЏ» ѕЁЏ —”жг »ёнг… %d н«дџ. яг« √дя ” Ќ «ћ б№ %d Ўёг/Ўёжг ж—ё.\nеб  —нѕ »ѕ√ «ббЏ»њ
+MINI_GAME_YUTNORI_COM_WIN	г—ш… нде“г Ёне« «бг—Ѕ жг—ш… нЁж“ «б¬ќ—жд.
+MINI_GAME_YUTNORI_PC_WIN	ж≈бм «бгд ’—  –е» «бџд«∆г.
+MINI_GAME_YUTNORI_PC_WIN_SCORE	«бд нћ…: %d
+MINI_GAME_YUTNORI_RETHROW_BUTTON	—гн
+MINI_GAME_YUTNORI_RETHROW_POPUP	гЌўжў! ≈де ѕж—я гћѕѕ«.
+MINI_GAME_YUTNORI_SCORE_FONT	Tahoma:24b
+MINI_GAME_YUTNORI_START_QUESTION	б »ѕ√ нж дж—н°  Ќ «ћ ≈бм %d н«дџ ж≈бм %d бжЌ… бЏ» нж дж—н. \n «бЏ» «б¬дњ
+MINUTE	ѕ
+MISTS_ISLAND_BUFF_MSG_01	Ў«ё… +2
+MISTS_ISLAND_BUFF_MSG_02	гЏѕб ≈”ё«Ў «б»джѕ +10%
+MISTS_ISLAND_BUFF_MSG_03	ёж…° –я«Ѕ° Ќнжн…° гд«ж—… +3
+MISTS_ISLAND_BUFF_MSG_04	гЏѕб ≈”ё«Ў «бн«дџ +10%
+MISTS_ISLAND_BUFF_MSG_05	“н«ѕ… Џб«ж«  «б√“н«Ѕ »д”»… 3%
+MISTS_ISLAND_INFO_01	г” ж«я г« “«б ÷ЏнЁр«.
+MISTS_ISLAND_INFO_02	бн” бѕня н«дџ я«Ёт.
+MISTS_ISLAND_INFO_03	б«  жћѕ гЏ—я… Ќ«бн….
+MISTS_ISLAND_MSG_01	бёѕ  г  ѕгн— %s »ж«”Ў… %s!
+MISTS_ISLAND_MSG_02	ё«г %s »џ“ж %s!
+MISTS_ISLAND_MSG_03	бёѕ ё«г %s »≈Ќ б«б %s!
+MISTS_ISLAND_MSG_04	бёѕ Ќ’б %s Џбм %s!
+MISTS_ISLAND_MSG_05	бёѕ ё«г %s » Ўжн— %s ≈бм «бг” жм %d »дћ«Ќ!
+MISTS_ISLAND_MSG_06	бёѕ ўе— %s Ён ”«Ќ… «бгЏ—я…!
+MISTS_ISLAND_QUESTION_01	еб  —нѕ √д  џ«ѕ— гЏ—я… «б√÷—Ќ… «бќг”…њ
+MISTS_ISLAND_QUESTION_02	еб  —џ» »«б≈д ё«б Ёж—« ≈бм «б÷—нЌ «б–н  Џ—÷ ббећжг гƒќ—р«њ \n «б”Џ—: %s н«дџ
+MISTS_ISLAND_TOOLTIP_01	[%s]
+MISTS_ISLAND_TOOLTIP_02	≈Ќ б«б «б≈г»—«Ўж—н…: %s
+MISTS_ISLAND_TOOLTIP_03	г” жм «б Ќ”нд: +%d
+MISTS_ISLAND_TOOLTIP_04	Џб«ж… «б≈Ќ б«б: %s
+MISTS_ISLAND_TOOLTIP_05	џ“ж «б√÷—Ќ…
+MISTS_ISLAND_TOOLTIP_06	1. бб”нЎ—… Џбм ÷—нЌ° нћ» √жб« √д н г  ѕгн—е.
+MISTS_ISLAND_TOOLTIP_07	2. «бггбя… «б н бѕне« √я»— Џѕѕ гд «бгё« бнд Ён гя«д ё—н» »Џѕ ѕёнё… ж«Ќѕ…° ” Ќ б «б÷—нЌ.
+MISTS_ISLAND_TOOLTIP_08	3. »Џѕ 3 ѕё«∆ё° нўе— «б÷—нЌ »бжд «б≈г»—«Ўж—н… «б н ё«г  »џ“же.
+MISTS_ISLAND_TOOLTIP_09	4. ябг« “«ѕ  гѕ… ”нЎ—  «б≈г»—«Ўж—н… дЁ”е« Џбм «б÷—нЌ° ябг« я«д гд «б’Џ» Џбм «б÷—нЌ  ѕгн— дЁ”е.
+MONETARY_UNIT0	н«дџ
+MONETARY_UNIT1	Џ‘—… √бЁ
+MONETARY_UNIT2	г∆… гбнжд
+MONEY_INPUT_DIALOG_SELLPRICE	”Џ— «б»нЏ:
+MOVE_CHANNEL_99	CH0
+MOVE_CHANNEL_CANCEL	≈бџ«Ѕ
+MOVE_CHANNEL_NOTICE	√д  г ’бр« »«бёд«… %d.
+MOVE_CHANNEL_NOT_MOVE	б« нгядя  џнн— ёд« я.
+MOVE_CHANNEL_SELECT	гж«Ёё
+MOVE_CHANNEL_TITLE	«ќ н«— «бёд«…
+MOVE_ITEM_FAILURE_PRIVATE_SHOP	б« нгядя  џнн— гя«д √н ‘нЅ° Ў«бг« √дя  гбя г ћ—«р ‘ќ’н«р.
+MUSIC_EMPTY_MUSIC_LIST	»ѕжд гж”нём г—«Ёё….
+MUSIC_METIN2_DEFAULT_THEMA	гж”нём Metin2
+MUSIC_NOT_SELECT_MUSIC	бг н г «ќ н«— гбЁ гж”нён.
+NEEFD_REST	Џбня √жб«р «б«” —«Ќ….
+NOT_YET_SUPPORT	б« н г ѕЏге.
+OPEN_THE_SPECIAL_ACTION_KIT	 г ≈÷«Ё… %s ≈бм «бЏ«ЎЁ….
+OPTION_PVPMODE_CANNOT_SET_GUILD_MODE	б« нгядя  ЁЏнб ќѕг… «б—«»Ў… ≈–« бг  яхд Џ÷ж«р Ёне«.
+OPTION_PVPMODE_NOT_SUPPORT	б« нгядя «” Џг«б ќн«— б«Џ» ÷ѕ б«Џ».
+OPTION_PVPMODE_PROTECT	нћ» √д н’б г” ж«я %d я√ѕдм Ќѕ бян   гяд гд  џнн— дў«г б«Џ» ÷ѕ б«Џ».
+PARTY_ANSWER_TIMEOVER	—хЁ÷  «бѕшЏж….
+PARTY_BONUS_ATTACKER	ёнг… «бећжг: +%d	SA
+PARTY_BONUS_BERSERKER	”—Џ… «бећжг: +%d	SA
+PARTY_BONUS_BUFFER	гѕ… «бге«—…: +%d	SA
+PARTY_BONUS_DEFENDER	«бѕЁ«Џ: +%d	SA
+PARTY_BONUS_EXP	дё«Ў ≈÷«Ён… Ён «бќ»—…: %d%%	SA
+PARTY_BONUS_SKILL_MASTER	√ё’м Ќѕ гд дё«Ў «б√”бж»: +%d	SA
+PARTY_BONUS_TANKER	дё«Ў Ќн«… ё’жм:+%d	SA
+PARTY_BREAK_UP	Ќ–Ё «бгћгжЏ…
+PARTY_DO_YOU_ACCEPT	 н—џ» Ён «б«д÷г«г ≈бм «бгћгжЏ….
+PARTY_DO_YOU_JOIN	° нѕЏжя бб«д÷г«г ≈бм «бгћгжЏ…. еб  —нѕ ё»жб «бѕЏж…њ
+PARTY_EXP_DISTRIBUTION_MODE	 ё”нг дё«Ў «бќ»—…
+PARTY_EXP_DISTRIBUTION_MODE_LEVEL	Ќ”» «бг” жм
+PARTY_EXP_DISTRIBUTION_MODE_LEVEL_TOOLTIP	”нЌ’б √Џ÷«Ѕ «бгћгжЏ… –жн «бг” жн«  «бг— ЁЏ… Џбм дё«Ў ќ»—… ≈÷«Ён….
+PARTY_EXP_DISTRIBUTION_MODE_PARITY	гх ”«ж
+PARTY_EXP_DISTRIBUTION_MODE_PARITY_TOOLTIP	нд«б ћгнЏ √Џ÷«Ѕ «бгћгжЏ… дё«Ў «б√”бж» »«б ”«жн.
+PARTY_HEAL_ALL_MEMBER	«” —ћ«Џ «бж÷Џ «б√жбн ббћгнЏ
+PARTY_INCREASE_AREA_150	«— Ё«Џ гѕм «бгћгжЏ… »Џ«гб 1,5.	SNA
+PARTY_INCREASE_AREA_200	«— Ё«Џ гѕм «бгћгжЏ… »Џ«гб 2	SNA
+PARTY_LEAVE	гџ«ѕ—… «бгћгжЏ…
+PARTY_LONGTIME_BONUS_EXP	Џб«ж… ≈÷«Ён… Џбм дё«Ў «бќ»—… б гѕнѕ гѕ… «ббЏ» «бћг«Џн: +%d%%	SA
+PARTY_MATCH_CANCEL	 г ≈бџ«Ѕ Џгбн… «б»ЌЋ Џд гћгжЏ… б[%s].
+PARTY_MATCH_FAIL_FULL_MEMBER	б« нгяд бгћгжЏ я ≈÷«Ё… Џ÷ж ћѕнѕ.
+PARTY_MATCH_FAIL_IMPOSSIBLE_MAP	б« нгядя «б ”ћнб бе–« «б»—ћ «бгЌ’д.
+PARTY_MATCH_FAIL_LEVEL	г” ж«я г« “«б ÷ЏнЁр«.
+PARTY_MATCH_FAIL_MEMBER_NOT_CONDITION	«бЏ÷ж %s б«   жЁ— Ёне «б‘—жЎ «бб«“г….
+PARTY_MATCH_FAIL_NONE_MAP_INDEX	н—ћм ≈ќ н«— »—ћ гЌ’д √жб«.
+PARTY_MATCH_FAIL_NOT_LEADER	нгяд ЁёЎ бё«∆ѕ «бгћгжЏ… «б ”ћнб.
+PARTY_MATCH_FAIL_NO_ITEM	бн” бѕня г« няЁн гд %s.
+PARTY_MATCH_SEARCHING	»ЌЋ
+PARTY_MATCH_START	бёѕ ёг  » ”ћнб гћгжЏ я бе–« «б»—ћ «бгЌ’д: [%s]!
+PARTY_MEMBER_OFFLINE	[џн— г ’б]
+PARTY_RECALL_MEMBER	«” ѕЏ«Ѕ  √Џ÷«Ѕ «бгћгжЏ….
+PARTY_REGEN_BONUS	дё«Ў Ќн«… ≈÷«Ён…- +  ћѕнѕ дё«Ў «б√”бж»:+%d%%	SA
+PARTY_REQUEST_DENIED	бёѕ —хЁ÷ Ўб»я.
+PARTY_RK_CATEGORY_CZ_CHICKEN	б«∆Ќ… —шх » «бЌ«—” нж
+PARTY_RK_CATEGORY_CZ_COW	б«∆Ќ… —шх » «бЌ«—”  ‘«ж
+PARTY_RK_CATEGORY_CZ_DOG	б«∆Ќ… —шх » «бЌ«—” “ж
+PARTY_RK_CATEGORY_CZ_DRAGON	б«∆Ќ… —шх » «бЌ«—”  ‘д
+PARTY_RK_CATEGORY_CZ_HORSE	б«∆Ќ… —шх » «бЌ«—” жж
+PARTY_RK_CATEGORY_CZ_MONKEY	б«∆Ќ… —шх » «бЌ«—” ‘нд
+PARTY_RK_CATEGORY_CZ_MOUSE	б«∆Ќ… —шх » «бЌ«—”  ”н
+PARTY_RK_CATEGORY_CZ_PIG	б«∆Ќ… —шх » «бЌ«—” е«н
+PARTY_RK_CATEGORY_CZ_RABBIT	б«∆Ќ… —шх » «бЌ«—” г«ж
+PARTY_RK_CATEGORY_CZ_SHEEP	б«∆Ќ… —шх » «бЌ«—” жн
+PARTY_RK_CATEGORY_CZ_SNAKE	б«∆Ќ… —шх » «бЌ«—” ”н
+PARTY_RK_CATEGORY_CZ_TIGER	б«∆Ќ… —шх » «бЌ«—” ннд
+PARTY_SET_ATTACKER	жўшцЁех яге«ћг.
+PARTY_SET_BERSERKER	 Џннде яе«∆ћ.
+PARTY_SET_BUFFER	жўшцЁе ягх ’ѕшцн.
+PARTY_SET_DEFENDER	жўЁе ягѕ«ЁЏ.
+PARTY_SET_NORMAL	≈бџ«Ѕ «б Џѕнб.
+PARTY_SET_SKILL_MASTER	 Џнде »’Ё е ”нѕ «бге«—« .
+PARTY_SET_TANKER	 Џннд ягЌ«—» Ён «бё «б Џд ё—».
+PARTY_SKILL_ATTACKER	ёнг… «бећжг «б√”«”н… ге«ћг +%.0f
+PARTY_SKILL_BERSERKER	”—Џ… ећжг «бе«∆ћ +%.0f
+PARTY_SKILL_BUFFER	гѕ… ге«—… «бг ’ѕн +%.0f
+PARTY_SKILL_DEFENDER	ѕЁ«Џ гхѕ«ЁЏ +%.0f
+PARTY_SKILL_HP_REGEN	 ћѕнѕ дё«Ў «бЌн«… +%.0f%%
+PARTY_SKILL_PARTY_AREA	гѕм «бгћгжЏ… +%d%%
+PARTY_SKILL_SKILL_MASTER	√ё’м Џѕѕ гд дё«Ў √”бж» ”нѕ «бге«—… +%.0f
+PARTY_SKILL_SP_REGEN	 ћѕнѕ дё«Ў «б√”бж» +%.0f%%
+PARTY_SKILL_TANKER	дё«Ў «бЌн«… «бё’жм ббгё« б Џд ё—» +%.0f.
+PARTY_SKILL_WARP	»≈гя«де дѕ«Ѕ √Џ÷«Ѕ «бгћгжЏ….
+PASSWORD_TITLE	ябг… ”— «бг” жѕЏ
+PET_ATTR_CHANGE_DIALOG_TEXT	еб  жѕ  џнн— ”г«  —Ёнёя «б¬дњ\n ”н г «” еб«я »дѕ "”Ќ— «б—Ёнё".\n нгяд ббЏгбн… √д  Ё‘б.
+PET_ATTR_CHANGE_USE	б« нгяд  дЁн– е–« «б√г— «Ћд«Ѕ Џгбн…  Ќжнб ”г«  «б—Ёнё.
+PET_ATTR_DETERMINE_TYPE1	джЏ «б—Ёнё 1: √ќ—ё. бн” ёжн« ћѕ«.\nбяд гЏ г—ж— «бжё  нгядя “н«ѕ… ге«—« е.
+PET_ATTR_DETERMINE_TYPE2	джЏ «б—Ёнё 2: Ё÷жбн. бн” ёжн« ћѕ«.\n—Ёнё жЁн  “ѕ«ѕ ге«—« е гЏ г—ж— «бжё .
+PET_ATTR_DETERMINE_TYPE3	джЏ «б—Ёнё 3: »«”б. ёжн «бм Ќѕ г«.\nгЏ г—ж— «бжё  нгядя “н«ѕ… ге«—« е.
+PET_ATTR_DETERMINE_TYPE4	джЏ «б—Ёнё 4: ‘ћ«Џ. ёжн «бм Ќѕ г«.\n—Ёнё жЁн  “ѕ«ѕ ге«—« е гЏ г—ж— «бжё .
+PET_ATTR_DETERMINE_TYPE5	джЏ «б—Ёнё 5: г еж—. ёжн.\nбяд гЏ г—ж— «бжё  нгядя “н«ѕ… ге«—« е.
+PET_ATTR_DETERMINE_TYPE6	джЏ «б—Ёнё 6: √”Ўж—н. ёжн.\n—Ёнё жЁн  “ѕ«ѕ ге«—« е гЏ г—ж— «бжё .
+PET_ATTR_DETERMINE_TYPE7	джЏ «б—Ёнё 7: ќ—«Ён. ёжн ћѕ«.\n”нўе— ёж«е «бЌёнё… гЏ г—ж— «бжё .
+PET_ATTR_DETERMINE_TYPE8	джЏ «б—Ёнё 8: »—«ё. ёжн ббџ«н….\n—Ёнё жЁн нгядя «б≈Џ г«ѕ Џбне ѕ«∆г«.
+PET_BAG_DESC	%s
+PET_CANNOT_FEED_CUBEOPEN	б« нгядя ≈ЎЏ«г «б—Ёнё √Ћд«Ѕ Ё Ќ д«Ё–… «б’ёб.
+PET_CAN_NOT_ATTRCHANGE_BECUASE_LIFE_TIME_END	б« нгядя  Ќжнб ”г«  —Ёнё гн .
+PET_CAN_NOT_EGG_ITEM_USE	б« нгядя Ё Ќ ёЁ’ «бдёб √Ћд«Ѕ «бг «ћ—…° √ж Џдѕг« няжд гќ“дя √ж г ћ—я гЁ жЌ«д.
+PET_CAN_NOT_FEED_SPLIT_ITEM	б« нгядя ж÷Џ √н ‘нЅ гё”жг Ён е–е «бд«Ё–….
+PET_CAN_NOT_FEED_TYPE	б« нхгядя ≈ЎЏ«г —Ёнёя »е–е «бЎ—нё…. н—ћм «бгЌ«жб… гд ќб«б «” ќѕ«г Џгбн… √ќ—м.
+PET_CAN_NOT_OPEN_EVOL_BUTTON	б ѕ—н» «б—Ёнё ж Ўжн—е ≈бм «бг” жм «б «бн нћ» √д няжд г” ж«е %d.
+PET_CAN_NOT_OPEN_EVOL_BUTTON_EXP_LACK	б ѕ—н» «б—Ёнё ж Ўжн—е ≈бм «бг” жм «б «бн нћ» √д  яжд д”»… ќ»— е 100%.
+PET_CAN_NOT_OPEN_EVOL_BUTTON_LEVEL_MAX	бёѕ ж’б г” жм —Ёнёя √Џбм г” жм гхгяд.
+PET_CAN_NOT_OPEN_SHOP_BECAUSE_SUMMON	б« нгядя Ё Ќ г ћ— ќ«’ ≈–« ёхг  » Ќ÷н— —Ёнёя.
+PET_CAN_NOT_OPEN_SPECIAL_EVOL_BUTTON	б ѕ—н» «б—Ёнё ж Ўжн—е ≈бм «бг” жм «б «бн нћ» √д няжд Џхг—е %d нжгр«.
+PET_CAN_NOT_SUMMON_BECAUSE_LIFE_TIME_END	б« нгядя  Ќ÷н— —Ёнёя° б√д гѕ… «” Џг«бе «д е .
+PET_CAN_NOT_USE_BAG	б« нгядя «” Џг«б ёЁ’ «бдёб б√д гѕ… «” Џг«б —Ёнёя «д е .
+PET_EMPTY_SKILL_SLOT_USE_ITEM	б« нг бя е–« «б—Ёнё √н ге«—«  бн г ≈Џ«ѕ…  Џннде«.
+PET_HATCHING_ACCEPT	еб  —џ» Ён  ”гн… —Ёнёя "%s"њ
+PET_HATCHING_MONEY	«бЋгд: %s
+PET_HATCHING_WINDOW_OPEN_CAN_NOT_USE	б« нгядя «б Ё«Џб гЏ √н я«д Ў«бг« √д ёЁ’ «бдёб гЁ жЌ.
+PET_INFORMATION_STAGE1	»—н
+PET_INFORMATION_STAGE2	»—н жЌ‘н
+PET_INFORMATION_STAGE3	»—шн ёжн
+PET_INFORMATION_STAGE4	»Ўб
+PET_INFO_EXP	«бќ»—… «бЌ«бн…:
+PET_INFO_ITEM_EXP	»дѕ EXP «бЌ«бн
+PET_INFO_NEXT_EXP	«бќ»—… «бг »ёшн…:
+PET_INFO_NEXT_ITEM_EXP	г«  »ём гд »дѕ EXP
+PET_MSG_NOT_ENOUGH_MONEY	≈дя б«  гбя г« няЁн гд «бн«дџ.
+PET_NAME_CHANGE_ACCEPT	еб  —нѕ  џнн— «”г —Ёнёя ≈бм "%s"њ
+PET_NAME_MIN	«б«”г ё’н—.
+PET_REVIVE_FAIL_EMPTY_PET_SLOT	б« нжћѕ —Ёнё б«” —ћ«Џ Ќн« е.
+PET_REVIVE_FAIL_NOT_ENOUGHT_MATERIAL	бн” бѕня гж«ѕ я«Ён….
+PET_REVIVE_UI_MATERIAL_COUNT	%d/%d
+PET_SKILL_DELETE_QUESTION_DLG_MSG	√’»Ќ  «бге«—«  гх «Ќ… «б¬д.
+PET_SKILL_DELETE_QUESTION_DLG_MSG1	≈Џ«ѕ…  ж“нЏ ге«—… —Ёнёя б« —ћЏ… Ёне.
+PET_SKILL_DELETE_QUESTION_DLG_MSG2	еб  —џ» Ён «бг «»Џ…њ
+PET_SKILL_LEARN_FAIL_CONDITIONS	—Ёнёя бн” я»н—« »г« няЁн° «ж бг н’б «бм «бг” жм «бгЎбж» »Џѕ. нгяд ЁёЎ бб—Ё«ё «б√»Ў«б  Џбг «бге«—« .
+PET_SKILL_LEARN_QUESTION_DLG_MSG	еб  —џ» Ён »ѕЅ  ѕ—н» «б√»Ў«б гЏ "%s"њ
+PET_SKILL_TOOLTIP_COOLTIME	«б«” —«Ќ… «б≈ћ»«—н…: %d Ћж«д
+PET_SKILL_TOOLTIP_DURATION	«бгѕ…: %d Ћж«д
+PET_SKILL_TOOLTIP_FEATHER	нёжг е–« «б—Ёнё » ЁЏнб «бг‘н »ќЁ… »Ё—’… %d%% бгѕ… %.1f Ћ«дн….\n ећжг %d - %d	SAAAA
+PET_SKILL_TOOLTIP_HEAL	” Ќ’б Џбм Ё—’… »ёнг… \n %d%% б—ЁЏ дё«Ў «бЌн«… TP »д”»… %d° ж–бя »гћ—ѕ е»жЎе«  Ќ  г” жм 20%%.	SAA
+PET_SKILL_TOOLTIP_INVINVIBILITY	”нх’»Ќ б«Џ»я б« нёе— ж–бя »Ё—’ дћ«Ќ »д”»… %d%% °\n ≈–« г«  ѕдш  дё«Ў Ќн« я  Ќ  10%%. \n гѕ… «бгЁЏжб: %.1f Ћ«дн….	SAA
+PET_SKILL_TOOLTIP_REMOVAL	нх»Џѕ Ёж—р« ћгнЏ «бгƒЋ—«  я«б ”гг° ж«б »ЎнЅ \n √ж «бд“нЁ° ж–бя »д”»… дћ«Ќ  ’б ≈бм %d%%°\n ≈–« я«д  ‘ќ’н я ёѕ √’н» .	SAN
+PET_SKILL_UPGRADE_QUESTION_DLG_MSG1	еб  —џ» Ён —ЁЏ  ѕ—н» «б√»Ў«б ≈бм «бг” жм «б «бнњ
+PET_SKILL_UPGRADE_QUESTION_DLG_MSG2	«б ябЁ…: %s
+PET_TOOLTIP_COSTUME_BONUS	
+PET_TOOLTIP_DEF	ѕЁ«Џ
+PET_TOOLTIP_HP	дё«Ў «бЌн«…
+PET_TOOLTIP_LEVEL	г” жм
+PET_TOOLTIP_LIFETIME_OVER	«д е  «б’б«Ќн…
+PET_TOOLTIP_SKILL_BONUS_VALUE	Ён  ѕ—н» «б√»Ў«б
+PET_TOOLTIP_SKILL_CUR_LEVEL	г” жм: %d
+PET_TOOLTIP_SKILL_NEXT_LEVEL	«бг” жм «б «бн: %d (max. %d)
+PET_TOOLTIP_SP	MP
+PET_TOOLTIP_TRADABLE	ё«»б ббг «ћ—…
+PET_TOOLTUP_SKILL	%s (г” жм %d)
+PICK_ITEM_TITLE	—ёг «б‘нЅ
+PICK_MONEY_TITLE	«бг»бџ
+PRIVATESHOPSEARCH_ABLITY_POTION	дѕм
+PRIVATESHOPSEARCH_ACCESSORY_SOCKET	Ћж» —ЁнЏ
+PRIVATESHOPSEARCH_ARMOR	ѕ—жЏ
+PRIVATESHOPSEARCH_ARROW	”е«г
+PRIVATESHOPSEARCH_BELL	√ћ—«”
+PRIVATESHOPSEARCH_BELT	√Ќ“г…
+PRIVATESHOPSEARCH_BLEND	ћ—Џ« 
+PRIVATESHOPSEARCH_BLOOD_PEARL	бƒбƒ… я—“н…
+PRIVATESHOPSEARCH_BLUE_PEARL	бƒбƒ… “—ё«Ѕ
+PRIVATESHOPSEARCH_BODY	ѕ—жЏ
+PRIVATESHOPSEARCH_BOW	√ёж«”
+PRIVATESHOPSEARCH_BUYTIME	еб  —џ» Ён ‘—«Ѕ е–« «б»дѕ «б–н «ќ — ењ
+PRIVATESHOPSEARCH_CLAW	гќ«б»
+PRIVATESHOPSEARCH_CLEAR_POTION	≈я”н—« 
+PRIVATESHOPSEARCH_COSTUME	√“н«Ѕ
+PRIVATESHOPSEARCH_COSTUMEBODY	“н
+PRIVATESHOPSEARCH_COSTUMEHAIR	 ”—нЌ… ‘Џ—
+PRIVATESHOPSEARCH_COSTUME_ACCE	√ж‘Ќ…
+PRIVATESHOPSEARCH_COSTUME_MOUNT	ѕ«»ш…
+PRIVATESHOPSEARCH_CRYSTAL	»бшхж—
+PRIVATESHOPSEARCH_DAGGER	ќд«ћ—
+PRIVATESHOPSEARCH_DEAD	гнш 
+PRIVATESHOPSEARCH_DETACHMENT	ѕбнб «бЌћ—
+PRIVATESHOPSEARCH_DIAMOND	г«”…
+PRIVATESHOPSEARCH_DS	янгн«Ѕ Ќћ— «б днд
+PRIVATESHOPSEARCH_DS_BLACK	ћ“Џ
+PRIVATESHOPSEARCH_DS_BLUE	н«ёж 
+PRIVATESHOPSEARCH_DS_GREEN	н‘г
+PRIVATESHOPSEARCH_DS_RED	н«ёж 
+PRIVATESHOPSEARCH_DS_WHITE	г«”…
+PRIVATESHOPSEARCH_DS_YELLOW	Џёнё
+PRIVATESHOPSEARCH_EAR	Ќбё
+PRIVATESHOPSEARCH_FAN	г—«жЌ
+PRIVATESHOPSEARCH_FISH	√”г«я
+PRIVATESHOPSEARCH_FOOTS	√Ќ–н…
+PRIVATESHOPSEARCH_GEM	гћже—« 
+PRIVATESHOPSEARCH_GIFTBOX	’д«ѕнё «беѕ«н«
+PRIVATESHOPSEARCH_HEAD	ќж–« 
+PRIVATESHOPSEARCH_LIVE	Ќнш
+PRIVATESHOPSEARCH_MATERIAL	гж«ѕ
+PRIVATESHOPSEARCH_METIN	√Ќћ«— ‘»Ќн…
+PRIVATESHOPSEARCH_NECK	ёб«∆ѕ
+PRIVATESHOPSEARCH_NEED_ITEM_BUY	б« нгядя ‘—«Ѕ √‘н«Ѕ ѕжд «бЌ“г… «б’ЌнЌ….
+PRIVATESHOPSEARCH_NEED_ITEM_FIND	б« нгядя «б»ЌЋ Џд √‘н«Ѕ ѕжд «бЌ“г… «б’ЌнЌ….
+PRIVATESHOPSEARCH_NODELAY_POTION	»джѕ дё«Ў «бЌн«…
+PRIVATESHOPSEARCH_ORE	гЏѕд ќ«г
+PRIVATESHOPSEARCH_PET	дў«г «б—шЁ«ё
+PRIVATESHOPSEARCH_PETAGG	»н÷ «б—шЁ«ё
+PRIVATESHOPSEARCH_PETSKILLBOOK	я «» ге«—«  «б—Ёнё
+PRIVATESHOPSEARCH_PICK	гуд«яцн‘
+PRIVATESHOPSEARCH_POTION	ћ—Џ« 
+PRIVATESHOPSEARCH_QUEST	гег…
+PRIVATESHOPSEARCH_QUIVER	ћЏ»… «б”ше«г
+PRIVATESHOPSEARCH_RESOURCE	 Ќ”нд «б»джѕ
+PRIVATESHOPSEARCH_ROD	’нѕ «б”гя
+PRIVATESHOPSEARCH_SELECTITEM	«ќ н«—я
+PRIVATESHOPSEARCH_SHIELD	√ —«”
+PRIVATESHOPSEARCH_SKILLBOOK	ях » «бге«—« 
+PRIVATESHOPSEARCH_SKILLFORGET	я «» «бд”н«д
+PRIVATESHOPSEARCH_SPECIAL	џн—е
+PRIVATESHOPSEARCH_STONE	‘ў«н« «бЎ«ё…
+PRIVATESHOPSEARCH_SWORD	”нЁ нѕ ж«Ќѕ…
+PRIVATESHOPSEARCH_TREASUREBOX	’д«ѕнё
+PRIVATESHOPSEARCH_TUNING	бЁ«∆Ё
+PRIVATESHOPSEARCH_TWOSWORD	”нЁ «бнѕнд
+PRIVATESHOPSEARCH_UNIQUE	Ё—нѕ гд джЏе
+PRIVATESHOPSEARCH_USEITEM	√‘н«Ѕ «” еб«ян…
+PRIVATESHOPSEARCH_USESPECIAL	џн—е
+PRIVATESHOPSEARCH_WEAPON	√”бЌ…
+PRIVATESHOPSEARCH_WHITE_PEARL	бƒбƒ… »н÷«Ѕ
+PRIVATESHOPSEARCH_WRIST	√”«ж—
+PRIVATE_SHOP_CANNOT_SELL_ITEM	б« нхгядя »нЏ е–« «б‘нЅ Ён г ћ— ќ«’.
+PRIVATE_SHOP_CLOSE_QUESTION	еб  —нѕ ≈џб«ё «бг ћ— «бќ«’њ
+PRIVATE_SHOP_INPUT_NAME_DIALOG_TITLE	«”г «бг ћ— «бќ«’
+PRIVATE_SHOP_INPUT_PRICE_DIALOG_TITLE	”Џ—
+PVP_LEVEL0	Ё«—”н
+PVP_LEVEL1	ду»цнб
+PVP_LEVEL2	ћуншцѕ
+PVP_LEVEL3	бЎнЁ
+PVP_LEVEL4	гЌ«нѕ
+PVP_LEVEL5	Џѕ«∆н
+PVP_LEVEL6	г«я—
+PVP_LEVEL7	ќ»нЋ
+PVP_LEVEL8	ЁуўцнЏ
+PVP_MODE_GUILD	 ЁЏнб «б—«»Ў… - дў«г б«Џ» ÷ѕ б«Џ»
+PVP_MODE_KILL	дў«г б«Џ» ÷ѕ б«Џ» - »ѕжд ёнѕ
+PVP_MODE_NORMAL	дў«г б«Џ» ÷ѕ б«Џ» -  ‘џнб «б”б«г
+PVP_MODE_PROTECT	б«Џ» ÷ѕ б«Џ» -  ЁЏнб «бЌг«н…
+PVP_MODE_REVENGE	б«Џ» ÷ѕ б«Џ» - дў«г Џѕ«∆н
+PVP_OPTION_KILL	»ѕжд ёнѕ
+PVP_OPTION_NORMAL	«б”б«г
+PVP_OPTION_PROTECT	«бЌг«н…
+PVP_OPTION_REVENGE	Џѕ«∆н
+PVP_TOURNAMENT_DO_NOT_AUTO	б« нгядя «” ќѕ«г «бећжг «б бё«∆н ќб«б »Ўжб… «бг»«—“… PvP.
+QUEST_APPEND	 г  ”ћнб √г— ћѕнѕ.
+QUEST_HOUR	”«Џ…/”«Џ« 
+QUEST_MIN	ѕёнё…
+QUEST_SEC	Ћ«дн…
+QUEST_TIMEOVER	«д ем «бжё 
+QUEST_UNLIMITED_TIME	»ѕжд ёнѕт “гдн
+QUEST_ZEROSEC	0 Ћ«дн…
+QUICKSLOT_REGISTER_DISABLE_ITEM	б« нгяд “н«ѕ… е–« «бџ—÷ ≈бм ”«Ќ… «бећжг «б”—нЏ.
+RANKING	— »…
+RANKING_BOARD_MEMBER	«б√Џ÷«Ѕ
+RECEIVE_MESSAGE	%s √—”б бя —”«б….
+REFINE_COST	 я«бнЁ «б Ќ”нд: %d н«дџ
+REFINE_DESTROY_WARNING	ёѕ нƒѕн  Ќ”нд е–« «б‘нЅ ≈бм  ѕгн—е.
+REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_1	еб  —нѕ »«бЁЏб  Ќ”нд е–« «б‘∆њ
+REFINE_DESTROY_WARNING_WITH_BONUS_PERCENT_2	ёѕ н Џ—÷ е–« «б‘нЅ бб ѕгн— Џдѕ «бЁ‘б. еб  —џ» —џг –бя Ён «б«” г—«—њ
+REFINE_DOWN_GRADE_WARNING	ёѕ   ”»» Џгбн… «б Ќ”нд Ён «б ќЁн÷ гд ёнг… е–« «б‘нЅ.
+REFINE_DO_YOU_SEPARATE_METIN	Ќ–Ё ћгнЏ «б√Ќћ«— «б‘ш»Ќн…њ
+REFINE_ELEMENT_CHANGE_TEXT	бёѕ Ќ’б %s Џбм «бЏд’— %s!
+REFINE_ELEMENT_DOWNGRADE_TEXT	 г  ќЁн÷ г” жм ”Ќ— «бЏд«’—.
+REFINE_ELEMENT_EXIST	нЌ жн «б»дѕ »«бЁЏб Џбм Џд’— ¬ќ—.
+REFINE_ELEMENT_GRADE_MAX	 г «бж’жб ≈бм «бЌѕ «б√ё’м бг” жм ”Ќ— «бЏд«’—.
+REFINE_ELEMENT_NOT_ENOUGHT_GRADE	н жЁ— ”Ќ— «бЏд«’— бб√”бЌ… Ён г” жм +7 Ё√Џбм.
+REFINE_ELEMENT_NOT_ENOUGHT_YANG	бн” бѕня н«дџ я«Ёт.
+REFINE_ELEMENT_NOT_EXSIT	б« нгяд «” ќѕ«ге гЏ е–« «б»дѕ.
+REFINE_ELEMENT_TEXT_DARK	ўб«г +%d
+REFINE_ELEMENT_TEXT_EARTH	√—÷ +%d
+REFINE_ELEMENT_TEXT_ELECT	»—ё +%d
+REFINE_ELEMENT_TEXT_FIRE	д«— +%d
+REFINE_ELEMENT_TEXT_ICE	ћбнѕ +%d
+REFINE_ELEMENT_TEXT_WIND	—н«Ќ +%d
+REFINE_ELEMENT_UPGRADE_FAIL_TEXT	бёѕ Ё‘б  ”Ќ— «бЏд«’—.
+REFINE_ELEMENT_UPGRADE_SUCCESS_TEXT	бёѕ дћЌ ”Ќ— «бЏд«’—.
+REFINE_FAILURE	бб√”Ё°бг ддћЌ! бёѕ Ё‘бд«.
+REFINE_FAILURE_CAN_NOT_ATTACH	б« н” ЎнЏ %s ≈÷«Ё… √н ‘нЅ бе–« «б»дѕ.
+REFINE_FAILURE_DEL_ITEM	бёѕ Ё‘б  Џгбн… «б’ёб. бёѕ  г  ѕгн— е–« «б‘нЅ.
+REFINE_FAILURE_EQUIP_ITEM	б« нгядя  Ќ”нд «б√‘н«Ѕ «бгхѕ—Џ….
+REFINE_FAILURE_GRADE_DOWN	бёѕ Ё‘б  Џгбн… «б’ёб. бёѕ  г  ќЁн÷ г” жм е–« «б‘нЅ.
+REFINE_FAILURE_KEEP_GRADE	бёѕ Ё‘б  Џгбн… «б’ёб.\nбЌ”д «бЌў° бёѕ  г «бЌЁ«ў Џбм е–« «б‘нЅ.
+REFINE_FAILURE_METIN_INSEPARABLE_ITEM	б« нгЌдя Ќ–Ё Ќћ— «б‘»Ќ.
+REFINE_FAILURE_NEED_BETTER_SCROLL	≈дя »Ќ«ћ… ≈бм бЁнЁ…  Ќ”нд √Ќ”д гд е–е.
+REFINE_FAILURE_NO_GOLD_SOCKET	б« нжћѕ ед«я гё»” –е»н° б≈÷«Ё… %s.
+REFINE_FAILURE_NO_MORE_SOCKET	б« нхгядя ≈÷«Ё… гё«»” ћѕнѕ….
+REFINE_FAILURE_NO_SOCKET0	б« нжћѕ гё»” Ё«—џ гд √ћб %s.
+REFINE_FAILURE_SOCKET_DISABLE_ITEM	б« нгядя ≈÷«Ё… гё«»” ≈÷«Ён… бе–« «б»дѕ.
+REFINE_FAILURE_UPGRADE_DISABLE_ITEM	б« нгяд  Ќ”нд е–« «б»дѕ.
+REFINE_QUESTION_CONFIRM	еб  —џ» Ён «бг «»Џ…њ
+REFINE_QUESTION_WARNING_DOWN_GRADE_AND_REFIX_REMOVE	≈–« Ё‘б  Џгбн… «б Ќ”нд° ”ндќЁ÷ «бг” жм бѕ—ћ… √ёб гд «бЌѕ «б√ѕдм б √Ћн— «бЎёг° ж”н г «бџ«Ѕ  √Ћн— «бЎёг.
+REFINE_QUESTION_WARNING_PREFIX_REMOVE	≈–« ёг  » Ќ”нд «б»дѕ Ё”н г Ќ–Ё  √Ћн— «бЎёг.
+REFINE_SUCCESS	бёѕ  г  Ќ”нд е–« «б»дѕ »дћ«Ќ.
+REFINE_SUCCESS_PROBALITY	Ё—’ «б Ќ”нд: %d%%
+REFINE_WARNING2	еб  —џ» «бг «»Џ…њ
+RESTART_POPUP_GIVEUP_ELEMENTAL_DUNGEON	бёѕ г . \nЏѕ гд Џ«бг «бЏд«’—!
+RESTART_POPUP_GIVEUP_MIST_ISLAND	бёѕ жёЏ  Ён гЏ—я… «б√÷—Ќ… «бќг”….\n √д  «б¬д  Џжѕ ≈бм «бё—н….
+REVIVE_QUESTION	еб  —џ» Ён ≈Џ«ѕ… ≈Ќн«Ѕ %sњ Џѕѕ гд«‘н— «б≈Ќн«Ѕ: %d ёЎЏ…
+REVIVE_SELF_QUESTION	еб  —џ» Ён ≈Џ«ѕ… ≈Ќн«Ѕ дЁ”яњ Џѕѕ гд«‘н— «б≈Ќн«Ѕ: %d ёЎЏ…
+ROULETTE_REWARD_TEXT	«Ќ’б Џбм »дѕ
+SAFEBOX_ERROR	≈д ябг… «б”— џн— ’ЌнЌ….
+SAFEBOX_NEED_CHANGE_PASSWORD	«д е  ’б«Ќн… ябг… «б”— «бќ«’… »я.\nн—ћм «ќ н«— ябг… ”— ћѕнѕ….
+SAFEBOX_SELL_DISABLE_SAFEITEM	б« нхгядя »нЏ √н гд «б√‘н«Ѕ «бгуЌЁхжў….
+SAFEBOX_UNAVILABLE_PASSWORD_01	б« нгядя «” ќѕ«г ябг… «б”ш— е–е.
+SAFEBOX_UNAVILABLE_PASSWORD_02	нћ» √д  Ќ жн ябг… «б”— Џбм %d √Ќ—Ё Џбм «б√ёб.
+SAFEBOX_UNAVILABLE_PASSWORD_03	бёѕ ёг  »≈ѕќ«б ябг… ”—я «бЌ«бн…. н—ћм «ќ н«— ябг… ”— ћѕнѕ….
+SAFEBOX_UNAVILABLE_PASSWORD_04	б« нгяд бябг… «б”— «бќ«’… »я √д  Ќ жн Џбм —ёг гя—— %d г—«  √ж Џбм √—ё«г г ”б”б….
+SAFEBOX_UNAVILABLE_PASSWORD_05	б« нгядя ≈” ќѕ«г —гж“ ќ«’…. «б√Ќ—Ё «бг”гжЌ »е«: a-z° A-Z° 0-9
+SAFEBOX_WRONG_PASSWORD	нћ» √д  яжд ябг«  «б”— г Ў«»ё….
+SCREENSHOT_SAVE1	ЌхЁў  Ён
+SCREENSHOT_SAVE2	гбЁ ’ж— «ббЏ»…
+SCREENSHOT_SAVE_FAILURE	Ё‘цб ЌцЁў ’ж— «ббЏ»…	
+SECOND	Ћ«дн…
+SECOND_CONFIRM_PET_FEED_QUESTION_1	нЌ жн «б»дѕ Џбм %d √ж √яЋ— гд «бЏб«ж« .
+SECOND_CONFIRM_PET_FEED_QUESTION_2	еб √д  г √яѕ »√дя  жѕ ≈ЎЏ«г «б—Ёнё е–« «б»дѕњ
+SECOND_CONFIRM_SELL_ITEM_QUESTION_1	нЌ жн «б»дѕ Џбм %d √ж √яЋ— гд «бЏб«ж« .
+SECOND_CONFIRM_SELL_ITEM_QUESTION_2	еб √д  г √яѕ »√дя  жѕ »нЏ е–« «б»дѕњ
+SELECT_ATTR_NOTICE	б« нгядя Ё Ќ г ћ— ќ«’ √Ћд«Ѕ «” Џг«бя бжўнЁ… ”Ќ— «б‘нЅ+.
+SELECT_ATTR_NOT_OPEN	б« нгядя «” Џг«б жўнЁ… ”Ќ— «б‘нЅ+ ≈–« яд  ёѕ Ё Ќ  г ћ—р« ќ«’шр« »я гх”»ёр«.
+SELECT_ATTR_NOT_SELECT	ё—ш— ≈–« яхд   —џ» Ён «б«Ќ Ё«ў »«бЏб«ж«  √ж «” »ѕ«бе«.
+SELECT_CAN_NOT_DELETE	б« нхгядя Ќ–Ё е–е «б‘ќ’н….
+SELECT_CAN_NOT_DELETE_ATTR67	б« нгядя Ќ–Ё «б‘ќ’н…°\n √Ћд«Ѕ ≈÷«Ё… Џб«ж….
+SELECT_CAN_NOT_DELETE_GUILD_MEMBER	б« нгядя Ќ–Ё «б‘ќ’н… Ў«бг« √д  Џ÷ж Ён —«»Ў….
+SELECT_CAN_NOT_DELETE_HAVE_SEALED_ITEM	б« нгядя Ќ–Ё «б‘ќ’н… Ў«бг« нжћѕ бѕня »джѕ г—»жЎ… »«б—жЌ.
+SELECT_CAN_NOT_DELETE_LAST_CHAR_SAFEBOX	б« нгядя Ќ–Ё «б‘ќ’н… Ў«бг« бѕня »джѕ Ён «бг” жѕЏ.
+SELECT_CAN_NOT_DELETE_LIMITE_LEVEL	нгядя Ќ–Ё «б‘ќ’н… Ќ м «бг” жм 69.
+SELECT_CAN_NOT_DELETE_MARRIAGE	б« нгядя Ќ–Ё ‘ќ’н… г “жћ….
+SELECT_CAN_NOT_DELETE_PRIVATE_CODE_ERROR	—г“ «бЌ–Ё џн— ’ЌнЌ.
+SELECT_CAN_NOT_DELETE_REMAIN_TIME	б« нгядя Ќ–Ё «б‘ќ’н… г»«‘—… »Џѕ «д‘«∆е«. жё  «б«д ў«—: %s
+SELECT_CHANGED_NAME	бёѕ ёхг  » џнн— «”г е–е «б‘ќ’н….
+SELECT_CHANGE_FAILURE_ALREADY_EXIST_NAME	≈д «”г «б‘ќ’н… «бгќ «— гх” Џгб.
+SELECT_CHANGE_FAILURE_STRANGE_INDEX	Ќ«жб гћѕѕ«р.
+SELECT_CHANGE_FAILURE_STRANGE_NAME	«”г «б‘ќ’н… џн— ’ЌнЌ.
+SELECT_CHANGE_NAME_TITLE	 џнн— «”г «б‘ќ’н…
+SELECT_DELEING	»ѕ√  Џгбн… «бЌ–Ё ...
+SELECT_DELETED	 г «бЌ–Ё »дћ«Ќ.
+SELECT_DO_YOU_DELETE_REALLY	еб  —џ» Ён «бг «»Џ…њ
+SELECT_EMPTY_SLOT	≈д е–е «бќ«д… Ё«—џ….
+SELECT_GM_NAME	”нѕ «ббЏ»…
+SELECT_INPUT_CHANGING_NAME	«б—ћ«Ѕ ≈ѕќ«б «”г ћѕнѕ бб‘ќ’н….
+SELECT_NOT_JOIN_GUILD	»ѕжд —«»Ў…
+SERVER_NOTIFY_CLOSED	ќ«ѕг гџбё: нгяд ЁёЎ ббЌ”«»«  –«  «г н«“«  VIP √ж «бЌ”«»«  «б н  г «д‘«∆е« ё»б ≈џб«ё «бќ«ѕг «бѕќжб «бне.
+SERVER_STATUS_CLOSE	гџбё
+SERVER_STATUS_NEW	ћѕнѕ
+SERVER_STATUS_SPECIAL	ќ«’
+SET_ITEM_CLEAR_CONFIRM_QUESTION	еб  —нѕ ≈“«б…  √Ћн— «бЎёгњ
+SET_ITEM_CLEAR_CONFIRM_QUESTION_1	нЌ жн е–« «б»дѕ Џбм %d Џб«ж…/Ќћ— ‘»Ќн
+SET_ITEM_CLEAR_CONFIRM_QUESTION_2	еб √д  г √яѕњ
+SET_ITEM_DO_NOT_EQUIP_ITEM	б« нгядя гдЌ  √Ћн— «бЎёг ббЏ «ѕ «бгће“.
+SET_ITEM_DO_NOT_SEAL_ITEM	б« нгядя «бён«г »е–« «б√г— гЏ »дѕ г—»жЎ »«б—жЌ.
+SHOP_BUY_INFO	«ќ — Ён д«Ё–… «бг ћ— «б‘нЅ «б–н  —џ» Ён ‘—«∆е.
+SHOP_CANNOT_SELL_EQUIPMENT	б« нгядя »нЏ «б√‘н«Ѕ «бгѕ—Џ….
+SHOP_CANNOT_SELL_ITEM	е–« «б‘нЅ џн— гЏ—ж÷ бб»нЏ.
+SHOP_ERROR_UNKNOWN	ЏЎ» гћежб Ён «бг ћ—: %s
+SHOP_EXCEED_LIMIT_TODAY	бёѕ  ќЎн  «бЌѕ «бнжгн б«” ќѕ«г «бдё«Ў.
+SHOP_INVALID_POS	≈д е–« «б‘нЅ џн— гд«”».
+SHOP_INVENTORY_FULL	бг нЏхѕ ед«я гя«д Ё«—џ Ён ё«∆г… «бћ—ѕ.
+SHOP_LIMITED_DATA_LOADING	н г «б¬д  Ќгнб «б»н«д« . «б—ћ«Ѕ ≈Џ«ѕ… «бгЌ«жб… б«Ќё«.
+SHOP_LIMITED_ITEM_REMAIN_COUNT	«б»джѕ «бг »ён…: %d
+SHOP_LIMITED_PURCHASE_OVER	 г »нЏе
+SHOP_LIMIT_TODAY	«бЌѕ «бнжгн: %d / %d
+SHOP_MY_BATTLE_POINT	дё«Ў «бгЏ—я…: %d
+SHOP_MY_MEDAL_OF_HONOR	гнѕ«бн… «б‘—Ё: %d
+SHOP_NOT_ENOUGH_10TH_COIN	бн” бѕня г« няЁн гд Џгб«  «бЏнѕ «б”джн!
+SHOP_NOT_ENOUGH_BATTLE_POINT	бн” бѕня г« няЁн гд дё«Ў «бгЏ—я…!
+SHOP_NOT_ENOUGH_BNW	бн” бѕня г«няЁн гд Џгб… «бЏ—«Ё.
+SHOP_NOT_ENOUGH_GUILD_LEVEL	г” жм «б—«»Ў… гдќЁ÷ ћѕш«р.
+SHOP_NOT_ENOUGH_MEDAL_OF_HONOR	б«  г бя г« няЁн гд гнѕ«бн… «б‘—Ё.
+SHOP_NOT_ENOUGH_MONEY	б«  гбя г« няЁн гд «бжжд √ж «бн«дџ
+SHOP_NOT_ENOUGH_MONEY_EX	≈дя б«  гбя г« няЁн гд «бн«дџ.
+SHOP_SELL_INFO	«ќ — Ён ћѕжб ё«∆г… «бћ—ѕ «б‘нЅ «б–н  —џ» Ён »нЏе.
+SHOP_SOLDOUT	 г »нЏе
+SHOT_ERROR_UNKNOWN	ќЎ√ гћежб √Ћд«Ѕ «бећжг Џд »Џѕ: %s
+SKILL_BLEEDING	д“ъЁ
+SKILL_BOHO	«дЏя«”
+SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_BOOK	” Ќ «ћ ≈бм дё«Ў «б√”бж» б Џбг е–е «бге«—….
+SKILL_CANNOT_LEVEL_UP_ANYMORE_BY_STAT	≈дя »Ќ«ћ… ≈бм я «» б Џбг е–е «бге«—….
+SKILL_CHEONGEUN	ћ”ѕ ёжн
+SKILL_CRITICAL	≈’«»… Ќ—ћ…
+SKILL_ENCHANT_POISON	«” Џгб «б”г
+SKILL_EUNHYEONG	џн— г—∆н
+SKILL_FAINT	≈џг«Ѕ
+SKILL_FIND_TRAP	«»ЌЋ Џд «бЁќ
+SKILL_FIRE	≈Ќ—«ё
+SKILL_FISHMIND	 г  ЁЏнб я—… «б”гя
+SKILL_GAMJI	≈ѕ—«я
+SKILL_GEOMGYEONG	е«б… «б”нЁ
+SKILL_GICHEON	г”«Џѕ… «б днд
+SKILL_GIGONG	ѕж—«д ‘н
+SKILL_GONGPO	ќжЁ
+SKILL_GRADE_NAME_GRAND_MASTER	%s «бќ»н— «бгЌ —Ё
+SKILL_GRADE_NAME_MASTER	%s ”нѕ
+SKILL_GRADE_NAME_PERFECT_MASTER	%s ”нѕ г я«гб
+SKILL_GROUP_ASSASSIN_1	‘Ё—…
+SKILL_GROUP_ASSASSIN_2	ёж”
+SKILL_GROUP_HORSE	Ёд «бЁ—ж”н…
+SKILL_GROUP_SHAMAN_1	 днд
+SKILL_GROUP_SHAMAN_2	‘Ё«Ѕ
+SKILL_GROUP_SURA_1	”б«Ќ
+SKILL_GROUP_SURA_2	”Ќ—
+SKILL_GROUP_WARRIOR_1	ћ”ѕ
+SKILL_GROUP_WARRIOR_2	–едн
+SKILL_GWIGEOM	‘Ё—… г”Ќж—…
+SKILL_GYEONGGONG	г‘н «б—н‘
+SKILL_HEUKSIN	«бЌг«н… «бўб«гн…
+SKILL_HOSIN	»—я…
+SKILL_INC_ATKSPD	«— Ё«Џ ”—Џ… «бећжг
+SKILL_INC_MOVSPD	«— Ё«Џ ”—Џ… «б Ќ—я
+SKILL_JEOJU	бЏд…
+SKILL_JEONGEOP	‘Ё«Ѕ
+SKILL_JEONGWI	д‘ж… «бё «б
+SKILL_JEONSINBANGEO	ѕЁ«Џ я«гб
+SKILL_JEONSINGONGGYEOK	ећжг я«гб
+SKILL_JEUNGRYEOK	ећжг +
+SKILL_JEUNGSOK	”—Џ… +
+SKILL_JUMAGAP	ѕ—Џ г”Ќж—
+SKILL_KWAESOK	”—Џ…
+SKILL_MUYEONG	‘»Ќ «ббе»
+SKILL_NEED_EMPTY_BOTTLE	б« √гбя ё«—ж—… Ё«—џ….
+SKILL_NEED_POISON_BOTTLE	б« √гбя ё«—ж—… ”г.
+SKILL_ONLY_FOR_GUILD_WAR	б« нгядя «” Џг«б е–е «бге«—… ≈б«ш Ён Ќ—ж» «б—ж«»Ў.
+SKILL_PABEOP	≈“«б… «б”Ќ—
+SKILL_POWERFUL_STRIKE	ећжг гхќѕшц—
+SKILL_SEOMGWANG	ёд»б… «б»—ё
+SKILL_SLEEP	джг
+SKILL_SLOW	»ЎнЅ
+SKILL_STUN	 ќѕн—
+SKILL_SUHO	Ќ«—”
+SKILL_SUMMON_DESCRIPTION	Ё—’… бб‘Џж–…: %d%%
+SKILL_TOOLTIP_INT	–я«Ѕ
+SKILL_TOOLTIP_LEVEL	г” жм
+SKILL_TOXICDIE	 ”гг
+SKILL_TOXICPOWER	 г  Ќ”нд ёнг… «бећжг «б”«г
+SKILL_TUSOK	÷—»… ‘»Ќ	
+SOUL_ITEM_TOOLTIP_APPLY	«б √Ћн— гхЁЏшб.
+SOUL_ITEM_TOOLTIP_BLUE1	жё  «ббЏ»: %d/%d ѕёнё…/ѕё«∆ё.  
+SOUL_ITEM_TOOLTIP_BLUE2	Џдѕ «бж’жб ≈бм жё  «ббЏ» «бгЌѕѕ° ” “ѕ«ѕ √÷—«— «бге«—… »гёѕ«— x%.1f
+SOUL_ITEM_TOOLTIP_COMMON	бн” б: г»«—“«  PvP° «б Ќжб
+SOUL_ITEM_TOOLTIP_RED1	жё  «ббЏ»: %d/%d ѕёнё…/ѕё«∆ё.  
+SOUL_ITEM_TOOLTIP_RED2	Џдѕ «бж’жб ≈бм жё  «ббЏ» «бгЌѕѕ° ” “ѕ«ѕ √÷—«— «бећжг »гёѕ«— x%.1f
+SOUL_ITEM_TOOLTIP_REMAIN_COUNT	«бећг«  «бг »ён…: %d
+SOUL_ITEM_TOOLTIP_REMOVE_TIME	” д ен «б—жЌ Ён:
+SOUL_ITEM_TOOLTIP_UNAPPLIED	«б √Ћн— џн— гхЁЏшб.
+SOUL_REFINE_FAILURE	Ё‘б «б Ўжн—.
+SOUL_REFINE_SUCCESS	 г «б Ўжн— »дћ«Ќ!
+STAT_MINUS_CON	 Џѕнб Ў«ё… «бЌн«… («бжё  «бг »ён: %d)
+STAT_MINUS_DEX	 Џѕнб «бгд«ж—… («бЁ—’ «бг »ён…: %d)
+STAT_MINUS_INT	 Џѕнб «б–я«Ѕ («бЁ—’ «бг »ён…: %d)
+STAT_MINUS_STR	 Џѕнб «бёж… («бЁ—’ «бг »ён…: %d)
+STAT_TOOLTIP_CON	н—ЁЏ дё«Ў «бЌн«… ж «бѕЁ«Џ
+STAT_TOOLTIP_DEX	«— Ё«Џ «бећжг ж«бгд«ж—…
+STAT_TOOLTIP_INT	н—ЁЏ гд дё«Ў «б√”бж»° жёж… «бећжг «б”Ќ—н ж«бѕЁ«Џ «б”Ќ—н.
+STAT_TOOLTIP_STR	н—ЁЏ гд ёнг… «бећжг ж«б÷——
+SYMBOLLIST_TITLE	 ”ћнб Џбг «б—«»Ў…
+TARGET_BUTTON_ACCEPT_FIGHT	ж«Ёуё
+TARGET_BUTTON_AVENGE	Ћ√—
+TARGET_BUTTON_BLOCK	Ќў—
+TARGET_BUTTON_BLOCK_REMOVE	Ёя «бЌў—
+TARGET_BUTTON_BUILDING_DESTROY	 ѕгн—
+TARGET_BUTTON_DISMOUNT	 у—ућшубу
+TARGET_BUTTON_EMOTION_ALLOW	г‘«Џ—
+TARGET_BUTTON_EXCHANGE	г «ћ—…
+TARGET_BUTTON_EXCLUDE	«” »Џ«ѕ
+TARGET_BUTTON_EXIT_OBSERVER	≈де«Ѕ «бг‘«еѕ…
+TARGET_BUTTON_FIGHT	гх»у«—у“…
+TARGET_BUTTON_FRIEND	’ѕнё
+TARGET_BUTTON_INVITE_GUILD	ѕЏж… «б—«»Ў….
+TARGET_BUTTON_INVITE_PARTY	ѕЏж… ћ.
+TARGET_BUTTON_LEAVE_PARTY	џ«ѕ— «бгћгжЏ…
+TARGET_BUTTON_REQUEST_ENTER_PARTY	«б«д÷г«г ≈бм «бгћгжЏ…
+TARGET_BUTTON_REVIVE	«” —ћ«Џ «бЌн«…
+TARGET_BUTTON_VIEW_EQUIPMENT	ѕ—жЏ
+TARGET_BUTTON_WHISPER	ег”
+TARGET_LEVEL_BOSS	“уЏцнг
+TARGET_LEVEL_KING	г— »… 5
+TARGET_LEVEL_KNIGHT	г— »… 3
+TARGET_LEVEL_PAWN	г— »… 1
+TARGET_LEVEL_S_KNIGHT	г— »… 4
+TARGET_LEVEL_S_PAWN	г” жм 2
+TARGET_TOOLTIP_ATTACK_COUNT	гћгжЏ «бдё«Ў: %d
+TASKBAR_ATTACK	е«ћг
+TASKBAR_AUTO	ећжг  бё«∆н
+TASKBAR_CAMERA	я«гн—«
+TASKBAR_EXP	ќ»—…
+TASKBAR_HP	дё«Ў «бЌн«…
+TASKBAR_MOVE	 Ќ—я
+TASKBAR_SKILL	ге«—…
+TASKBAR_SP	дё«Ў «б√”бж»
+TASKBAR_ST	дё«Ў «б Ќгб
+TENTH_COIN	Џгб… «бЏнѕ «б”джн
+TENTH_EVENT_ASK_EXCHANGE	√д  »Ќ«ћ… ≈бм %d √Џб«г «бЏнѕ «б”джн. еб  —џ» Ён «б«” г—«—њ
+THING_COUNT	«бћгнЏ
+TOOLTIP_AFFECT_ATT_GRADE_DOWN	 ёбнб «б÷——	SNA
+TOOLTIP_AFFECT_CONFUSION	бёѕ  Џ—÷  бб≈џг«Ѕ.
+TOOLTIP_AFFECT_CRITICAL_GRADE_DOWN	 ёбнб Ё—’ «б≈’«»… «бЌ—ћ….	SNA
+TOOLTIP_AFFECT_CZ_UNLIMIT_ENTER	—г“ «бЌ—«”	SNA
+TOOLTIP_AFFECT_DEFENSEWAVE_LASER	б« нгяд ≈нё«Ё «б‘Џ«Џ «бг«∆н.
+TOOLTIP_AFFECT_DEF_GRADE_DOWN	 ёбнб «бѕЁ«Џ	SNA
+TOOLTIP_AFFECT_ELECTRIC_SHOCK	»—ё
+TOOLTIP_AFFECT_FISHING_GOLD_TUNA	Џб«ж… «б жд« «б–е»н…	SNA
+TOOLTIP_AFFECT_FISHING_MOVE_SPEED_DOWN	Ћн«» г»бб…\n”—Џ… «б Ќ—я -50	SNA
+TOOLTIP_AFFECT_LATE_SUMMER_EVENT_BUFF	√—ж«Ќ (%d/20)	SA
+TOOLTIP_AFFECT_LATE_SUMMER_EVENT_PRIMIUM_BUFF	√—ж«Ќ дЁн”… (%d/150)	SA
+TOOLTIP_AFFECT_MI_BUFF	Џб«ж… «б≈Ќ б«б: %s
+TOOLTIP_AFFECT_MOUNT_FALL	 ”ёЎ гд Џбм ўе— «бѕ«»…	SNA
+TOOLTIP_AFFECT_POLYMORPH	 Ќжнб	SNA
+TOOLTIP_AFFECT_RCAST_SPEED	 ёбб гд жё  «б«” —«Ќ… «б≈ћ»«—н…	SNA
+TOOLTIP_AFFECT_RED_DRAGONLAIR_BUFF	гё«жг… ÷ѕ √÷—«— «бге«—… +15% | гё«жг… √÷—«— «бећжг +15%
+TOOLTIP_AFFECT_RESEARCHER_ELIXIR	≈я”н— «бЏ«бг	SNA
+TOOLTIP_AFFECT_RHP_REGEN	б« нгяд «б Џ«Ён	SNA
+TOOLTIP_AFFECT_SAFEBOX_BUFF_01	Џб«ж… гќ“д\n +3 % ќ»—… EXP	SNA
+TOOLTIP_AFFECT_SAFEBOX_BUFF_02	Џб«ж… гќ“д\n+20 ѕЁ«Џ	SNA
+TOOLTIP_AFFECT_SAFEBOX_BUFF_03	Џб«ж… гќ“д\n+1% дёЎ… «бЌн«…	SNA
+TOOLTIP_AFFECT_SAFEBOX_BUFF_04	Џб«ж… гќ“д\n+3% ёж… ÷ѕ «бжЌж‘	SNA
+TOOLTIP_AFFECT_SET_ITEM_1	Џб«ж… Ўёг гёѕ”…	SNA
+TOOLTIP_AFFECT_SET_ITEM_2	Џб«ж… Ўёг ген»…	SNA
+TOOLTIP_AFFECT_SET_ITEM_3	Џб«ж… Ўёг Ё«—”н…	SNA
+TOOLTIP_AFFECT_SET_ITEM_4	Џб«ж… Ўёг гбян…	SNA
+TOOLTIP_AFFECT_SET_ITEM_5	Ўёг «бЏб«ж… Џўнг…	SNA
+TOOLTIP_ALIGNMENT_DAMAGE_BONUS	 г “н«ѕ… «б÷—— «бг”»» Џдѕ жћжѕ дё«Ў  ’днЁ гдќЁ÷….	SNA
+TOOLTIP_ANTI_CRITICAL_PCT	гё«жг… ÷ѕ «б÷—»«  «бЌ—ћ… +%d%%	SA
+TOOLTIP_ANTI_PENETRATE_PCT	гё«жг… ÷ѕ «б÷—»«  «бќ«—ё… +%d%%	SA
+TOOLTIP_ANTI_SELL	б« нгядя »нЏе Ён «бг ћ—.
+TOOLTIP_APPLY_ACCEDRAIN_RATE	ёнг… «б«” нЏ«»: %d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ANIMAL	ёжн ÷ѕ «бЌнж«д«  +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ASSASSIN	ёжн ÷ѕ «бдндћ« +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_BELL	я”— «бѕЁ«Џ «бћ—”н +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_BOW	я”— гё«жг… «б”ег +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_CLAW	я”— «бѕЁ«Џ «бгќб»н +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_CZ	ёжн ÷ѕ жЌж‘ “жѕн«я +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DAGGER	я”— «бѕЁ«Џ «бќдћ—н +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DESERT	ёжн ÷ѕ жЌж‘ «б’Ќ—«Ѕ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_DEVIL	ёжн ÷ѕ «б‘нЎ«д +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_FAN	я”— «бѕЁ«Џ «бг—жЌн +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_HUMAN	ёжн ÷ѕ д’Ё »‘— +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_INSECT	ёжн ÷ѕ «бЌ‘—«  +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MILGYO	ёжн ÷ѕ «бЎ«∆Ё… «б”—н… +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_MONSTER	ёжн ÷ѕ «бжЌж‘ +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_ORC	ёжн ÷ѕ «бџнб«д +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SHAMAN	ёжн ÷ѕ ‘«г«д +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SURA	ёжн ÷ѕ ”ж—« +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_SWORD	я”— «бѕЁ«Џ «б”нЁн +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_TWOHAND	я”— ѕЁ«Џ ”нЁ «бнѕнд +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_UNDEAD	ёжн ÷ѕ «б“жг»н +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WARRIOR	ёжн ÷ѕ «бгЌ«—» +%d%%	SA
+TOOLTIP_APPLY_ATTBONUS_WOLFMAN	ёжн ÷ѕ «ббшня«д— + %d%%	SA
+TOOLTIP_APPLY_BLEEDING_PCT	ећжг гхд“Ё + %d%%	SA
+TOOLTIP_APPLY_BLEEDING_REDUCE	гё«жг… ÷ѕ «бећжг «бгхд“Ё + %d%%	SA
+TOOLTIP_APPLY_BLOCK	Ё—’… ’уѕ «бећжг Џд ё—» %d%%	SA
+TOOLTIP_APPLY_COMBAT_SP_RECOVER	«” Џ«ѕ… дё«Ў «б«”бж» Ён «бё «б яб 5 Ћж«дн %d	SA
+TOOLTIP_APPLY_CRITICAL_PCT	Ё—’ «б≈’«»… »÷—»… Ќ—ћ… +%d%% 	SA
+TOOLTIP_APPLY_DAMAGE_SP_RECOVER	%d%% Ё—’ «” Џ«ѕ… дё«Ў «б√”бж» Џдѕ «б≈’«»…	SA
+TOOLTIP_APPLY_DODGE	%d%% Ё—’  Ё«ѕн «бећжг »«б”е«г	SA
+TOOLTIP_APPLY_ENCHANT_DARK	ёж… «бўб«г +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_DARK2	ёж… «бўб«г +%d%% ~ +%d%%
+TOOLTIP_APPLY_ENCHANT_EARTH	ёж… «б√—÷ +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_EARTH2	ёж… «б√—÷ +%d%% ~ +%d%%
+TOOLTIP_APPLY_ENCHANT_ELECT	ёж… «б»—ё +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_ELECT2	ёж… «б»—ё +%d%% ~ +%d%%
+TOOLTIP_APPLY_ENCHANT_FIRE	ёж… «бд«— +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_FIRE2	ёж… «бд«— +%d%% ~ +%d%%
+TOOLTIP_APPLY_ENCHANT_ICE	ёж… «бћбнѕ +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_ICE2	ёж… «бћбнѕ +%d%% ~ +%d%%
+TOOLTIP_APPLY_ENCHANT_WIND	ёж… «б—н«Ќ +%d%%	SA
+TOOLTIP_APPLY_ENCHANT_WIND2	ёж… «б—н«Ќ +%d%% ~ +%d%%
+TOOLTIP_APPLY_EXP_DOUBLE_BONUS	%d%% Ё—’ «бЌ’жб Џбм дё«Ў ќ»—… ≈÷«Ён… 	SA
+TOOLTIP_APPLY_GOLD_DOUBLE_BONUS	%d%% Ё—’ ≈”ё«Ў ÷ЏЁ ягн… «бн«дџ.	SA
+TOOLTIP_APPLY_IMMUNE_FALL	гхЌ’д ÷ѕ «бжёжЏ	SNA
+TOOLTIP_APPLY_IMMUNE_SLOW	«бѕЁ«Џ ÷ѕ «б »«Ўƒ	SNA
+TOOLTIP_APPLY_IMMUNE_STUN	ѕЁ«Џ ÷ѕ «б≈џг«Ѕ 	SNA
+TOOLTIP_APPLY_ITEM_DROP_BONUS	%d%% Ё—’ ≈”ё«Ў ÷ЏЁ ягн… «б√‘н«Ѕ.	SA
+TOOLTIP_APPLY_KILL_HP_RECOVER	%d%% Ё—’ «” Џ«ѕ… дё«Ў «бЌн«…	SA
+TOOLTIP_APPLY_KILL_SP_RECOVER	%d%% Ё—’ «” Џ«ѕ… дё«Ў «б√”бж»	SA
+TOOLTIP_APPLY_MANA_BURN_PCT	Ё—’ де» дё«Ў «б√”бж» %d%%	SA
+TOOLTIP_APPLY_MAX_HP_PCT	дё«Ў «бЌн«… «бё’жм HP +%d%% 	SA
+TOOLTIP_APPLY_MAX_SP_PCT	√ё’м MP дё«Ў «б√”бж» +%d%%	SA
+TOOLTIP_APPLY_NOAFFECT	»ѕжд  √Ћн—
+TOOLTIP_APPLY_NO_DEATH_PENALTY	»Џѕ ≈Џ«ѕ… ≈Ќн«Ѕ «бб«Џ» Ён гя«д «бгж ° бд н г ќ’г √н дё«Ў ббќ»—….	SNA
+TOOLTIP_APPLY_NO_DEATH_PENALTY_PLUS	н√ќ–я «б днд «б√”Ўж—н  Ќ  √ћдЌ е «бЌ«гн…. бд  ќ”— √н дё«Ў ќ»—… ≈–« √Џнѕ «Ќн«ƒя Џбм г д «б”Ёнд….	SNA
+TOOLTIP_APPLY_PENETRATE_PCT	%d%% Ё—’  Ќ’нб ÷—»… ќ«—ё…	SA
+TOOLTIP_APPLY_POISON_PCT	Ё—’… «б ”гг: %d%%	SA
+TOOLTIP_APPLY_POISON_REDUCE	гё«жг… «б”гжг %d%%	SA
+TOOLTIP_APPLY_POTION_BONUS	“н«ѕ… Ён  √Ћн— «бћ—Џ… »д”»… %d%%	SA
+TOOLTIP_APPLY_REFLECT_CURSE	%d%% Ё—’ Џя” «ббЏд…	SA
+TOOLTIP_APPLY_REFLECT_MELEE	%d%% Ё—’х Џя” ÷—»«  «бећг«  Џд ё—».	SA
+TOOLTIP_APPLY_RESIST_ASSASSIN	Ё—’ «бѕЁ«Џ ÷ѕ ећжг «бдндћ« %d%%	SA
+TOOLTIP_APPLY_RESIST_BELL	ѕЁ«Џ ћ—”н %d%%	SA
+TOOLTIP_APPLY_RESIST_CLAW	ѕЁ«Џ гќб»н +%d%%	SA
+TOOLTIP_APPLY_RESIST_DAGGER	ѕЁ«Џ ќдћ—н %d%%	SA
+TOOLTIP_APPLY_RESIST_FAN	ѕЁ«Џ г—жЌн %d%%	SA
+TOOLTIP_APPLY_RESIST_HUMAN	гё«жг… д’Ё «б»‘— %d%%	SA
+TOOLTIP_APPLY_RESIST_MOUNT_FALL	гё«жг… «б”ёжЎ +%d%%	SA
+TOOLTIP_APPLY_RESIST_SHAMAN	Ё—’ «бѕЁ«Џ ÷ѕ ећжг «б‘«г«д %d%%	SA
+TOOLTIP_APPLY_RESIST_SURA	Ё—’ «бѕЁ«Џ ÷ѕ ећжг «б”ж—« %d%%	SA
+TOOLTIP_APPLY_RESIST_SWORD	ѕЁ«Џ ”нЁн %d%%	SA
+TOOLTIP_APPLY_RESIST_TWOHAND	ѕЁ«Џ ”нЁ «бнѕнд %d%%	SA
+TOOLTIP_APPLY_RESIST_WARRIOR	Ё—’ «бѕЁ«Џ ÷ѕ ећжг «бгЌ«—»нд %d%%	SA
+TOOLTIP_APPLY_RESIST_WIND	гё«жг… «б—н«Ќ %d%%	SA
+TOOLTIP_APPLY_RESIST_WOLFMAN	Ё—’ «бѕЁ«Џ ÷ѕ ећжг «ббшня«д— %d%%	SA
+TOOLTIP_APPLY_SKILL_BOOK_BONUS	Ё—’… «б«” Ё«ѕ… гд «бя »  — ЁЏ »Џ«гб 2,5	SNA
+TOOLTIP_APPLY_SKILL_BOOK_NO_DELAY	” Ќ’б ≈–« Ё‘б «б шЏбг «бЌ’жб Џбм Ё—’… ≈÷«Ён… б≈Џ«ѕ… «бгЌ«жб….	SNA
+TOOLTIP_APPLY_SLOW_PCT	Ё—’ «б »ЎнЅ: %d%%	SA
+TOOLTIP_APPLY_STEAL_HP	 ” жЏ» дё«Ў «бЌн«… %d%% гд «б÷——.	SA
+TOOLTIP_APPLY_STEAL_SP	 ” жЏ» дё«Ў «б√”бж» %d%% гд «б÷——.	SA
+TOOLTIP_APPLY_STUN_PCT	Ё—’ «б≈џг«Ѕ %d%%	SA
+TOOLTIP_ARMOR	ѕ—жЏ
+TOOLTIP_ARROW	”ег
+TOOLTIP_ASSASSIN	дндћ«
+TOOLTIP_ATTBONUS_PER_ANIMAL	ёжн ÷ѕ «бЌнж«д«  (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_PER_CZ	ёжн ÷ѕ жЌж‘ “жѕн«я (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_PER_DESERT	ёжн ÷ѕ жЌж‘ «б’Ќ—«Ѕ (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_PER_DEVIL	ёжн ÷ѕ «б‘нЎ«д (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_PER_HUMAN	ёжн ÷ѕ д’Ё »‘— (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_PER_INSECT	ёжн ÷ѕ «бЌ‘—«  (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_PER_MILGYO	ёжн ÷ѕ «бЎ«∆Ё… «б”—н… (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_PER_MONSTER	ёжн ÷ѕ «бжЌж‘ (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_PER_ORC	ёжн ÷ѕ «бџнб«д (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_PER_STONE	ёжн ÷ѕ √Ќћ«— «бг« нд (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_PER_UNDEAD	ёжн ÷ѕ «б“жг»н (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ATTBONUS_STONE	+%d%% ёжн ÷ѕ √Ќћ«— «бг« нд	SA
+TOOLTIP_ATT_GRADE	ёнг… «бећжг +%d	SA
+TOOLTIP_ATT_SPEED	”—Џ… «бећжг +%d%%	SA
+TOOLTIP_ATT_SPEED_SLOW	ќЁ÷ ”—Џ… «бећжг	SNA
+TOOLTIP_AUTO_POTION_HP	≈я”н— «б‘г”
+TOOLTIP_AUTO_POTION_REST	«бягн… «бг »ён…: %.2f%%
+TOOLTIP_AUTO_POTION_SP	≈я”н— «бёг—
+TOOLTIP_AUTO_POTION_USING	гхЁЏшб
+TOOLTIP_AUTO_SYSTEM_PRIMIUM	’нѕ  бё«∆н	SNA
+TOOLTIP_BATTLE_POTION	ћ—Џ… ё «б гдЎё… «бгЏ—я…	SNA
+TOOLTIP_BOW_DISTANCE	гѕм «б—г«н… +%dm	SA
+TOOLTIP_BUYPRICE	«б”Џ—: %s
+TOOLTIP_CAST_SPEED	”—Џ… «б”Ќ—: +%d%%	SA
+TOOLTIP_CON	ёж… «бЌн«… +%d	SA
+TOOLTIP_COSTUME_ATTR_BONUS	Џб«ж… «б“н %d%%	SA
+TOOLTIP_CURSE_OF_ELEMENTAL	бЏд… «бЏд«’— (%dгяѕ”…) ” дќЁ÷ дё«Ў Ќн« я »«” г—«—. нгяд  яѕн”е« Ќ м 10 г—« .	SA
+TOOLTIP_DAMAGE_HP_RECOVERY	н” жЏ» «б÷—— »д”»… %d%% гд дё«Ў «бЌн«…	SA
+TOOLTIP_DAMAGE_SP_RECOVERY	н” жЏ» «б÷—— »д”»… %d%% гд дё«Ў «б√”бж»	SA
+TOOLTIP_DEF_GRADE	ѕЁ«Џ +%d	SA
+TOOLTIP_DEX	«бгд«ж—… +%d	SA
+TOOLTIP_DRAGON_SOUL_DECK1	”г«Ѕ	SNA
+TOOLTIP_DRAGON_SOUL_DECK2	√—÷	SNA
+TOOLTIP_DS_SET	 √Ћн— Ўёг Ќћ— «б днд	SNA
+TOOLTIP_EAR	Ќбё
+TOOLTIP_ENCHANT_PER_DARK	ёж… «бўб«г (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ENCHANT_PER_EARTH	ёж… «б√—÷ (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ENCHANT_PER_ELECT	ёж… «б»—ё (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ENCHANT_PER_FIRE	ёж… «бд«— (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ENCHANT_PER_ICE	ёж… «бћбнѕ (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ENCHANT_PER_WIND	ёж… «б—н«Ќ (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_ENERGY	Ў«ё… %d 	SA
+TOOLTIP_ETC	≈бќ.
+TOOLTIP_EXP_BONUS_EVENT	ќ»—… EXP +%d%%	SA
+TOOLTIP_FIFTH_ATTRIBUTE_BONUS	5. ≈÷«Ё… Џб«ж… +%d%%	SA
+TOOLTIP_FIRST_ATTRIBUTE_BONUS	1. ≈÷«Ё… Џб«ж… +%d%%	SA
+TOOLTIP_FISHINGROD_EXP	дё«Ў: %d / %d
+TOOLTIP_FISHINGROD_LEVEL	г” жм: %d
+TOOLTIP_FISHINGROD_UPGRADE1	«гдЌе бб’н«ѕ
+TOOLTIP_FISHINGROD_UPGRADE2	бян  Ќ’б Џбм
+TOOLTIP_FISHINGROD_UPGRADE3	’д«—… ’нѕ √Ё÷б »яЋн—.
+TOOLTIP_FISH_LEN	«бЎжб: %.2fcm
+TOOLTIP_FOURTH_ATTRIBUTE_BONUS	4. ≈÷«Ё… Џб«ж… +%d%%	SA
+TOOLTIP_GUILD_SKILL_ACCEL	 ”—нЏ +%d	SA
+TOOLTIP_GUILD_SKILL_BLESS	»—я… «б днд «б√”Ўж—н +%d	SA
+TOOLTIP_GUILD_SKILL_BLOOD	ѕг «б днд «б√”Ўж—н +%d	SA
+TOOLTIP_GUILD_SKILL_BUNNO	џ÷» «б днд «б√”Ўж—н +%d%%	SA
+TOOLTIP_GUILD_SKILL_JUMUN	г”«Џѕ… «б”Ќ— +%d%%	SA
+TOOLTIP_GUILD_SKILL_SEONGHWI	ѕ—жЏ гёѕ”… +%d	SA
+TOOLTIP_HALLOWEEN_EVENT_BUFF	+20% EXP ќ»—… | +5% ≈”ё«Ў «б»джѕ | +10% ёж… ÷ѕ «бжЌж‘	SNA
+TOOLTIP_HELMET	ќж–…
+TOOLTIP_HIT_BUFF_ENCHANT_DARK	√Ќ’б Џбм ёж… «бўб«г бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_ENCHANT_EARTH	√Ќ’б Џбм ёж… «б√—÷ бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_ENCHANT_ELEC	√Ќ’б Џбм ёж… «б»—ё бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_ENCHANT_FIRE	√Ќ’б Џбм ёж… «бд«— бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_ENCHANT_ICE	√Ќ’б Џбм ёж… «бЋбћ бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_ENCHANT_WIND	√Ќ’б Џбм ёж… «б—н«Ќ бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_RESIST_DARK	√Ќ’б Џбм гё«жг… «бўб«г бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_RESIST_EARTH	√Ќ’б Џбм гё«жг… «б√—÷ бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_RESIST_ELEC	√Ќ’б Џбм гё«жг… «б»—ё бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_RESIST_FIRE	√Ќ’б Џбм гё«жг… «бд«— бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_RESIST_ICE	√Ќ’б Џбм гё«жг… «бЋбћ бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HIT_BUFF_RESIST_WIND	√Ќ’б Џбм гё«жг… «б—н«Ќ бгѕ… %d Ћ«дн… Ён «бгЏ—я…	SA
+TOOLTIP_HP_REGEN	 ћѕнѕ дё«Ў «бЌн«… +%d%%	SA
+TOOLTIP_INT	–я«Ѕ +%d	SA
+TOOLTIP_ITEM_ATT_GRADE	ёнг… «бећжг %d
+TOOLTIP_ITEM_ATT_POWER	ёнг… «бећжг %d - %d
+TOOLTIP_ITEM_ATT_POWER_ONE_ARG	ёнг… «бећжг %d
+TOOLTIP_ITEM_ATT_POWER_REFINE	ёнг… «бећжг %d - %d (+%d)
+TOOLTIP_ITEM_ATT_SPEED	”—Џ… «бећжг %s
+TOOLTIP_ITEM_DEF_GRADE	ѕЁ«Џ %d
+TOOLTIP_ITEM_FAST	”—нЏ
+TOOLTIP_ITEM_LIMIT_CON	«бЌѕ «б√ё’м гд ёж… «бЌн«…: %d
+TOOLTIP_ITEM_LIMIT_DEX	«бЌѕ «б√ё’м ббгд«ж—…: %d
+TOOLTIP_ITEM_LIMIT_INT	«бЌѕ «б√ё’м бб–я«Ѕ: %d
+TOOLTIP_ITEM_LIMIT_LEVEL	«» ѕ«Ѕ гд «бг” жм: %d
+TOOLTIP_ITEM_LIMIT_STR	«бЌѕ «б√ё’м ббёж…: %d
+TOOLTIP_ITEM_MAGIC_ATT_POWER	ёнг… «бећжг «б”Ќ—н %d - %d
+TOOLTIP_ITEM_MAGIC_ATT_POWER_ONE_ARG	ёнг… «бећжг «б”Ќ—н %d
+TOOLTIP_ITEM_MAGIC_DEF_POWER	«бѕЁ«Џ «б”Ќ—н %d
+TOOLTIP_ITEM_NORMAL	Ў»нЏн
+TOOLTIP_ITEM_SLOW	»ЎнЅ
+TOOLTIP_ITEM_VERY_FAST	”—нЏ ћѕ«р
+TOOLTIP_ITEM_VERY_SLOW	»ЎнЅ ћѕ«р
+TOOLTIP_ITEM_WEARABLE_JOB	[ё«»б бб ћен“]
+TOOLTIP_LOTTERY_STEP_NUMBER	%d
+TOOLTIP_LOTTO_NUMBER	—ёг «бЌў: %d
+TOOLTIP_MAGIC_ATTBONUS_PER	ећжг ”Ќ—н +%d%%	SA
+TOOLTIP_MAGIC_ATT_GRADE	ёнг… «бећжг «б”Ќ—н +%d	SA
+TOOLTIP_MAGIC_DEF_GRADE	ѕЁ«Џ ”Ќ—н +%d	SA
+TOOLTIP_MALL_ATTBONUS	ёнг… «бећжг +%d%%	SA
+TOOLTIP_MALL_ATTBONUS_STATIC	ёнг… «бећжг	SNA
+TOOLTIP_MALL_AUTOLOOT	”н г  бё«∆н«р  ”ћнб «бн«дџ.	SNA
+TOOLTIP_MALL_DEFBONUS	«бѕЁ«Џ +%d%%	SA
+TOOLTIP_MALL_DEFBONUS_STATIC	ѕЁ«Џ 	SNA
+TOOLTIP_MALL_EXPBONUS	дё«Ў «бќ»—… +%d%%	SA
+TOOLTIP_MALL_EXPBONUS_P_STATIC	дё«Ў «бќ»—… бгёем «б≈д —д  «б≈÷«Ён… +%d%%	SA
+TOOLTIP_MALL_EXPBONUS_STATIC	50% дё«Ў ќ»—… ≈÷«Ён…	SNA
+TOOLTIP_MALL_FISH_MIND	«— Ё«Џ дћ«Ќ Ё—’ ’нѕ «б”гя.	SNA
+TOOLTIP_MALL_GOLDBONUS	≈— ЁЏ  Ё—’ ≈”ё«Ў «бн«дџ »гёѕ«— %d%%	SA
+TOOLTIP_MALL_GOLDBONUS_STATIC	Ё—’ г÷«ЏЁ… Ён ≈”ё«Ў «бн«дџ	SNA
+TOOLTIP_MALL_ITEMBONUS	≈— ЁЏ  Ё—’ ≈”ё«Ў «б√‘н«Ѕ »гёѕ«— %d%%	SA
+TOOLTIP_MALL_ITEMBONUS_P_STATIC	гёем ≈д —д  Ё—’ џдг »джѕ “«∆ѕ %.1f%%	SA
+TOOLTIP_MALL_ITEMBONUS_STATIC	≈— ЁЏ  Ё—’ ≈”ё«Ў «б√‘н«Ѕ »д”»… 200%.	SNA
+TOOLTIP_MALL_MARRIAGE_FAST	“н«ѕ… дё«Ў «бЌ» »”—Џ… √я»—.	SNA
+TOOLTIP_MALL_SAFEBOX	 жЁн— г”«Ќ… √я»— бб ќ“нд.	SNA
+TOOLTIP_MAX_HP	дё«Ў «бЌн«… «бё’жм +%d	SA
+TOOLTIP_MAX_HP_PCT	дё«Ў «бЌн«… «бё’жм +%d%%	SA
+TOOLTIP_MAX_SP	дё«Ў «б√”бж» «бё’жм +%d	SA
+TOOLTIP_MAX_SP_PCT	дё«Ў «б√”бж» «бё’жм +%d%%	SA
+TOOLTIP_MAX_STAMINA	гѕ… «б Ќгб «бё’жм +%d	SA
+TOOLTIP_MELEE_MAGIC_ATTBONUS_PER	ећжг ”Ќ—н/ё «б Џд ё—» +%d%%	SA
+TOOLTIP_MEMORIZED_POSITION	%s(%d° %d)
+TOOLTIP_MEMORIZED_POSITION_ERROR	ќЎ√ GPS(%d, %d)
+TOOLTIP_MORE_THEN_HP90_DAMAGE_REDUCE	≈–« я«д бѕня √яЋ— гд 90%% дё«Ў Ќн«…° ”н г ќЁ÷ «б÷—— ÷ѕя »ёнг… %d%%.	SA
+TOOLTIP_MOV_SPEED	”—Џ… «б Ќ—я %d%%	SA
+TOOLTIP_NECK	ёб«ѕ…
+TOOLTIP_NEED_ALL_SP	дё«Ў «б√”бж» «бгЎбж»…: «бЌѕ «б√ё’м
+TOOLTIP_NEED_GSP	‘»Ќ «б днд «бгЎбж»: %d
+TOOLTIP_NEED_HP	дё«Ў «бЌн«… «бгЎбж»…: %d
+TOOLTIP_NEED_HP_PER_SEC	дё«Ў «бЌн«… / Ён «бЋ«дн…: %d
+TOOLTIP_NEED_SKILL_POINT	дё«Ў «бге«—… «бгЎбж»…:
+TOOLTIP_NEED_SP	дё«Ў «б√”бж» «бгЎбж»…: %d
+TOOLTIP_NEED_SP_PER_SEC	дё«Ў «б√”бж» / «бЋ«дн…: %d
+TOOLTIP_NEXT_SKILL_LEVEL_1	«бг” жм «б «бн: %d («бЌѕ «б√ё’м %d)
+TOOLTIP_NEXT_SKILL_LEVEL_2	«бг” жм «б «бн: %d («бЌѕ «б√ё’м %d-%d)
+TOOLTIP_NORMAL_DAMAGE_GUARD	’ѕ ÷—— «бећжг »Ё—’… %d%%	SA
+TOOLTIP_NORMAL_HIT_DAMAGE_BONUS	гЏѕб «б÷—— %d%%	SA
+TOOLTIP_NORMAL_HIT_DAMAGE_BONUS_BOSS_OR_MORE	÷—— «бећжг ÷ѕ «б“Џнг +%d%%	SA
+TOOLTIP_NORMAL_HIT_DEFEND_BONUS	гЏѕб гё«жг… «б√÷—«— %d%%	SA
+TOOLTIP_NORMAL_HIT_DEFEND_BONUS_BOSS_OR_MORE	÷—— «бећжг гд «б“Џг«Ѕ +%d%%	SA
+TOOLTIP_PARTY_INFO_GRADE_UP1	√Џ÷«Ѕ «бгћгжЏ… √яЋ— гд %d
+TOOLTIP_PARTY_INFO_GRADE_UP2	г” жм «бећжг +%d
+TOOLTIP_PARTY_INFO_GRADE_UP3	г” жм «бѕЁ«Џ +%d
+TOOLTIP_PARTY_INFO_HEAL_18_LEVEL	«” Џ«ѕ… дё«Ў «бЌн«…/дё«Ў «б√”бж» бћгнЏ √Џ÷«Ѕ «бгћгжЏ… г—… яб 60 ѕёнё….
+TOOLTIP_PARTY_INFO_HEAL_40_LEVEL	«” Џ«ѕ… дё«Ў «бЌн«…/дё«Ў «б√”бж» бћгнЏ √Џ÷«Ѕ «бгћгжЏ… г—… яб 30 ѕёнё….
+TOOLTIP_PARTY_INFO_RECALL_12_LEVEL	Џбня «д ў«— 3 ѕё«∆ё »Џѕ гж  √Ќѕ √Џ÷«Ѕ «бгћгжЏ….
+TOOLTIP_PARTY_INFO_RECALL_20_LEVEL	 ” ЎнЏ Ён √н жё  «” ѕЏ«Ѕ √Џ÷«Ѕ «бгћгжЏ… Џбм дЁ” «бќ«ѕг.
+TOOLTIP_PARTY_INFO_SET_ATTACKER	г” жм «бећжг +(√Џ÷«Ѕ «бгћгжЏ…\2) нгяд «ќ н«— «бге«ћгнд %d.
+TOOLTIP_PARTY_INFO_SET_TANKER	г—Ќб… «бѕЁ«Џ+(Џѕѕ √Џ÷«Ѕ «бгћгжЏ…) нгяд «ќ н«— 1 гё« б Џд ё—».
+TOOLTIP_PARTY_SKILL_LEVEL	«бг” жм «бЌ«бн: %d
+TOOLTIP_PARTY_TITLE_GRADE_UP	[ Ќ”нд ећжг/ѕЁ«Џ]
+TOOLTIP_PARTY_TITLE_HEAL	[«” Џ«ѕ…]
+TOOLTIP_PARTY_TITLE_INFO_BONUS_EXP	√яЋ— гд %d гд √Џ÷«Ѕ «бгћгжЏ… √ќ–ж« дё«Ў ќ»—… ≈÷«Ён… %d%%.
+TOOLTIP_PARTY_TITLE_MEMBER_BONUS_EXP	[дё«Ў ќ»—… ≈÷«Ён…]
+TOOLTIP_PARTY_TITLE_RECALL	[«” ѕЏ«Ѕ]
+TOOLTIP_PARTY_TITLE_SET_ATTACKER	[ Ќѕнѕ «бге«ћгнд]
+TOOLTIP_PARTY_TITLE_SET_TANKER	[ Џннд гЌ«—» ббё «б Џд ё—»]
+TOOLTIP_PEPSI_EVENT	5% Џб«ж… ќ»—… EXP ж 5% Ё—’… √Џбм б”б» «б√‘н«Ѕ.	SNA
+TOOLTIP_PICK_EXP	дё«Ў: %d / %d
+TOOLTIP_PICK_LEVEL	«бг” жм: %d
+TOOLTIP_PICK_UPGRADE1	ёѕшге« ббЌЎ«»
+TOOLTIP_PICK_UPGRADE2	бян  Ќ’б
+TOOLTIP_PICK_UPGRADE3	Џбм гдя«‘ √Ё÷б где.
+TOOLTIP_POTION_CURE	≈Џ«ѕ… «б √Ћн—«  «б”б»н….
+TOOLTIP_POTION_MIN	ѕёнё…
+TOOLTIP_POTION_OF_ELEMENTAL	ћ—Џ… «бжё«н… гд «бЏд«’— +5% ећжг ”Ќ—н/ћ”ѕн | +10% гё«жг… «бЏд«’—	SNA
+TOOLTIP_POTION_PLUS_ATTACK_SPEED	”—Џ… «бећжг +%d
+TOOLTIP_POTION_PLUS_ATTBONUS_MONSTER	Џб«ж… ећжг ÷ѕ «бжЌ‘ : +%d%%
+TOOLTIP_POTION_PLUS_ATT_POINT	ећжг: +%d
+TOOLTIP_POTION_PLUS_ATT_POINT_PER	ећжг: +%d%%
+TOOLTIP_POTION_PLUS_DEF_POINT	ѕЁ«Џ: %d
+TOOLTIP_POTION_PLUS_DEX_POINT	гд«ж—…: +%d
+TOOLTIP_POTION_PLUS_EXP_BONUS	ќ»—… EXP +%d%%
+TOOLTIP_POTION_PLUS_HIT_DEFEND_POINT	гё«жг… «б÷——: +%d%%
+TOOLTIP_POTION_PLUS_HP_PERCENT	дё«Ў «бЌн«… +%d%%
+TOOLTIP_POTION_PLUS_HP_POINT	дё«Ў «бЌн«… +%d
+TOOLTIP_POTION_PLUS_MOVING_SPEED	”—Џ… «б Ќ—я +%d
+TOOLTIP_POTION_PLUS_RESIST_DARK	гё«жг… «бўб«г: +%d%%
+TOOLTIP_POTION_PLUS_RESIST_EARTH	гё«жг… «б√—÷: +%d%%
+TOOLTIP_POTION_PLUS_RESIST_ICE	гё«жг… «бЋбћ: +%d%%
+TOOLTIP_POTION_PLUS_RESIST_MAGIC	гё«жг… «б”Ќ—: +%d%%
+TOOLTIP_POTION_PLUS_SP_PERCENT	дё«Ў «б√”бж» +%d%%
+TOOLTIP_POTION_PLUS_SP_POINT	дё«Ў «б√”бж» +%d
+TOOLTIP_POTION_PLUS_STR_POINT	ёж…: +%d
+TOOLTIP_POTION_SEC	Ћ«дн…
+TOOLTIP_POTION_TIME	гѕ…:
+TOOLTIP_PROTECTION_OF_ELEMENTAL	гхЌ’д ÷ѕ бЏд… «бЏд«’—	SNA
+TOOLTIP_PVP_TOURNAMENT_ENTER	«бг‘«—я… Ён »Ўжб… «бг»«—“… PvP
+TOOLTIP_PVP_TOURNAMENT_EXPBONUS	ќ»—… EXP «бќ«’… »»Ўжб… «бг»«—“… PvP +%d%%	SA
+TOOLTIP_REQUIREMENT_21_LEVEL	нћ» √д  яжд ёѕ »бџ  «бг” жм 21.
+TOOLTIP_REQUIREMENT_41_LEVEL	нћ» √д  яжд ёѕ »бџ  «бг” жм 41
+TOOLTIP_REQUIREMENT_LEVEL	нћ» √д  яжд ёѕ »бџ  «бг” жм %d
+TOOLTIP_REQUIREMENT_SKILL_LEVEL	%s г” жм %d гЎбж»
+TOOLTIP_REQUIREMENT_STAT_LEVEL	%s %d гЎбж»…
+TOOLTIP_RESIST_BOW	гё«жг… «б”ег %d%%	SA
+TOOLTIP_RESIST_DARK	гё«жг… ÷ѕ «бўб«г +%d%%	SA
+TOOLTIP_RESIST_EARTH	гё«жг… «б√—÷ +%d%%	SA
+TOOLTIP_RESIST_ELEC	гё«жг… «б»—ё %d%%	SA
+TOOLTIP_RESIST_FIRE	гё«жг… «бд«— %d%%	SA
+TOOLTIP_RESIST_ICE	гё«жг… «бЋбћ +%d%%	SA
+TOOLTIP_RESIST_MAGIC	гё«жг… «б”Ќ— %d%%	SA
+TOOLTIP_RESIST_MAGIC_REDUCTION	я”— «б”Ќ— %d%%	SA
+TOOLTIP_RESIST_PER_DARK	гё«жг… ÷ѕ «бўб«г (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_RESIST_PER_EARTH	гё«жг… «б√—÷ (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_RESIST_PER_ELEC	гё«жг… «б»—ё (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_RESIST_PER_FIRE	гё«жг… «бд«— (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_RESIST_PER_HUMAN	гё«жг… д’Ё «б»‘— (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_RESIST_PER_ICE	гё«жг… «бћбнѕ (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_RESIST_PER_MAGIC	гё«жг… «б”Ќ— (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_RESIST_PER_WIND	гё«жг… «б—н«Ќ (+%d%% «бёнг… «б≈ћг«бн…)	SA
+TOOLTIP_REST_USABLE_COUNT	г »ён: %d
+TOOLTIP_SEALED	—х»Ў »«б—жЌ
+TOOLTIP_SEASON_PVE_BUFF	“н«ѕ… «б÷—— ÷ѕ «б»н∆… «бгЌнЎ… »80% бгѕ… 10 ѕё«∆ё.	SNA
+TOOLTIP_SEASON_RANKING_BUFF	“н«ѕ… дё«Ў «б — н» »д”»… 20% бгѕ… 10 ѕё«∆ё.	SNA
+TOOLTIP_SECOND_ATTRIBUTE_BONUS	2. ≈÷«Ё… Џб«ж… +%d%%	SA
+TOOLTIP_SELLPRICE	”Џ—: %s
+TOOLTIP_SET_ITEM	Ўёг «бЏб«ж…	SNA
+TOOLTIP_SET_ITEM_1	гёѕ” 
+TOOLTIP_SET_ITEM_2	ген» 
+TOOLTIP_SET_ITEM_3	Ё«—”н 
+TOOLTIP_SET_ITEM_4	гбян 
+TOOLTIP_SET_ITEM_5	Џўнг 
+TOOLTIP_SHAMAN	‘«г«д
+TOOLTIP_SHIELD	ѕ—Џ
+TOOLTIP_SHOES	Ќ–«Ѕ
+TOOLTIP_SKILL	ге«—…	SNA
+TOOLTIP_SKILLBOOK_NAME	я «» «бге«—« 
+TOOLTIP_SKILL_AFFECT_ATT_GRADE	ёнг… «бећжг: +
+TOOLTIP_SKILL_AFFECT_ATT_POWER	ёнг… «бећжг:
+TOOLTIP_SKILL_AFFECT_ATT_SPEED	”—Џ… «бећжг: +
+TOOLTIP_SKILL_AFFECT_DEF_GRADE	ѕЁ«Џ:
+TOOLTIP_SKILL_AFFECT_DODGE	ёнг… ећжг «бЏѕж: -
+TOOLTIP_SKILL_AFFECT_HEAL	«” Џ«ѕ… дё«Ў «бЌн«…:
+TOOLTIP_SKILL_AFFECT_MOV_SPEED	”—Џ… «б Ќ—я: +
+TOOLTIP_SKILL_AFFECT_REFLECT_MELEE	Ё—’… Џя” ећжг Џд ё—»:
+TOOLTIP_SKILL_AFFECT_RESIST_NORMAL	гё«жг… ÷ѕ «б√÷—«— «бћ”ѕн…:
+TOOLTIP_SKILL_COOL_TIME	гѕ… «б‘Ќд: 
+TOOLTIP_SKILL_DAMAGE_AMSEOP	 ёбн’ ÷—— «бягнд +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_BIPABU	 ёбн’ ÷——  Џжн–… Ў«∆—… +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_BONUS	√÷—«— «бге«—… %d%%	SA
+TOOLTIP_SKILL_DAMAGE_BONUS_BOSS_OR_MORE	÷—— «бге«—… ÷ѕ «б“Џнг +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_BYEURAK	÷—— «” ѕЏ«Ѕ «б»—ё +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_CHAIN	÷—— гќб» «б»—ё +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_CHARYUN	÷—— ѕж«г… «бќдћ— +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_CHAYEOL	÷——  г“нё +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_GEOMPUNG	÷—— ÷—»… «б”нЁ +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_GIGONGCHAM	÷—— ÷—»… ќ«—ё… +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_GIGUNG	÷—— ”ег ”«г +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_GONGDAB	÷—— ёЁ“… «б–∆» +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_GUNGSIN	÷—— ећжг »—ён +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_GYOKSAN	÷—— ÷—» г»—Ќ +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_HWAJO	÷—— ”ег д«—н+%d%%	SA
+TOOLTIP_SKILL_DAMAGE_HWAYEOMPOK	÷—— ÷—»… д«—н… +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_KWANKYEOK	÷—— ж«»б гд «б”е«г +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_MAHWAN	÷—— Ќћ— «б‘— +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_MARYUNG	÷—— ÷—»… ‘—н—… +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_NOEJEON	÷—— —гн… «б»—ё +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_PABEOB	÷—— ≈»Ў«б «б”Ќ— +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_PAERYONG	÷—— “∆н—  днд +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_PALBANG	÷—— ѕжш«г… «б”нЁ +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_PASWAE	÷—— гќб» «б–∆» +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_SALPOONG	÷—— дЁ” «б–ш∆» +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_SAMYEON	÷—— ћ—Ќ Ћб«Ћн «б√ ћ«е«  +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_SANGONG	÷—— џнг… ”«г… +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_SWAERYUNG	÷—— ÷—»… «б√’»Џ +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_TANHWAN	÷—— «бЎднд +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_YEONSA	÷—— «бЎбё… «бг я——… +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_YONGBI	÷—— —г«н… «б днд +%d%%	SA
+TOOLTIP_SKILL_DAMAGE_YONGKWON	÷—— ѕж«г… «б днд +%d%%	SA
+TOOLTIP_SKILL_DEFEND_BONUS	гё«жг… ÷ѕ √÷—«— «бге«—… %d%%	SA
+TOOLTIP_SKILL_DEFEND_BONUS_BOSS_OR_MORE	÷—— «бге«—… гд «б“Џг«Ѕ -%d%%	SA
+TOOLTIP_SKILL_DURATION	«бгѕ…: %d Ћ«дн…
+TOOLTIP_SKILL_DURATION_INCREASE_EUNHYUNG	гѕ…  гжне +%d Ћ«дн….	SA
+TOOLTIP_SKILL_DURATION_INCREASE_GEOMKYUNG	гѕ… е«б… «б”нЁ +%d Ћ«дн….	SA
+TOOLTIP_SKILL_DURATION_INCREASE_GYEONGGONG	гѕ… «бг‘н »ќЁ… +%d Ћ«дн….	SA
+TOOLTIP_SKILL_DURATION_INCREASE_JEOKRANG	гѕ… —жЌ «б–∆» «бя—“н »ќЁ… +%d Ћ«дн….	SA
+TOOLTIP_SKILL_FORGET_BOOK_NAME	я «» «бд”н«д
+TOOLTIP_SKILL_LEVEL	«бг” жм «бЌ«бн: %d
+TOOLTIP_SKILL_LEVEL_MASTER	«бг” жм «бЌ«бн: %d («бќ»н—)
+TOOLTIP_SKILL_LEVEL_WITH_MAX	«бг” жм «бЌ«бн: %d («бЌѕ «б√ё’м %d)
+TOOLTIP_SOCKET_EMPTY	Ё«—џ
+TOOLTIP_SOCKET_REFINABLE_ITEM	[‘нЅ гЏ гё»”]
+TOOLTIP_SP_REGEN	 ћѕнѕ дё«Ў «б√”бж» +%d%%	SA
+TOOLTIP_STR	ёж… +%d	SA
+TOOLTIP_SURA	”ж—«
+TOOLTIP_THIRD_ATTRIBUTE_BONUS	3. ≈÷«Ё… Џб«ж… +%d%%	SA
+TOOLTIP_TIME_CHARGER_FIX	гѕ… «б‘Ќд %d Ћ«дн….	SA
+TOOLTIP_TIME_CHARGER_PER	гѕ… «б‘Ќд %d%%	SA
+TOOLTIP_UNIQUE	Ё—нѕ гд джЏе
+TOOLTIP_UNSEAL_LEFT_TIME	Ёя «б—»Ў »«б—шжЌ Ён: %dH %dM
+TOOLTIP_USE_SKILL_AMSEOP_HP_ABSORB	” ” жЏ» %d%% гд дё«Ў «бЌн«… Џдѕ «” ќѕ«г «бягнд	SA
+TOOLTIP_USE_SKILL_BIPABU_NEXT_COOLTIME_DECREASE_10PER	«” —«Ќ… ≈ћ»«—н…  Џжн–… Ў«∆—…: -%d Ћ«дн… »Ё—’… 10%%	SA
+TOOLTIP_USE_SKILL_BIPABU_NEXT_COOLTIME_DECREASE_20PER	«” —«Ќ… ≈ћ»«—н…  Џжн–… Ў«∆—…: -%d Ћ«дн… »Ё—’… 20%%	SA
+TOOLTIP_USE_SKILL_BYEURAK_HP_ABSORB	” ” жЏ» Ќ м %d%% гд дё«Ў «бЌн«… Џдѕ «” ќѕ«г «” ѕЏ«Ѕ «б»—ё.	SA
+TOOLTIP_USE_SKILL_CHAIN_HP_ABSORB	” ” жЏ» %d%% гд дё«Ў «бЌн«… Џдѕ «” ќѕ«г гќб» «б»—ё	SA
+TOOLTIP_USE_SKILL_CHARYUN_STUN	ѕж«г… «бќдћ— ” ƒѕн б≈џг«Ѕ «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_CHAYEOL_CRITICAL_PCT	“н«ѕ… Ё—’ ећжг Ќу—ћ бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г  г“нё	SA
+TOOLTIP_USE_SKILL_CHAYEOL_HP_ABSORB	” ” жЏ» %d%% гд дё«Ў «бЌн«… Џдѕ «” ќѕ«г  г“нё	SA
+TOOLTIP_USE_SKILL_CHEONGRANG_CASTING_SPEED	“н«ѕ… ”—Џ… «б”Ќ— бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г —жЌ «б–∆» «бдшнбн	SA
+TOOLTIP_USE_SKILL_CHEONGRANG_MOV_SPEED	“н«ѕ… ”—Џ… «б Ќ—я бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г —жЌ «б–∆» «бдшнбн	SA
+TOOLTIP_USE_SKILL_CHUNKEON_CASTING_SPEED	“н«ѕ… ”—Џ… «б”Ќ— бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г ћ”г ёжн	SA
+TOOLTIP_USE_SKILL_GEOMPUNG_NEXT_COOLTIME_DECREASE_10PER	«” —«Ќ… ≈ћ»«—н… ÷—»… ”нЁ: -%d Ћ«дн… »Ё—’… 10%%	SA
+TOOLTIP_USE_SKILL_GEOMPUNG_NEXT_COOLTIME_DECREASE_20PER	«” —«Ќ… ≈ћ»«—н… ÷—»… ”нЁ: -%d Ћ«дн… »Ё—’… 20%%	SA
+TOOLTIP_USE_SKILL_GICHEON_ATT_GRADE_BONUS	«Ќ’б Џбм Џб«ж… Ён «бећжг бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г г”«Џѕ… «б днд	SA
+TOOLTIP_USE_SKILL_GIGONGCHAM_STUN	÷—»… ќ«—ё… ” ƒѕн б≈џг«Ѕ «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_GIGUNG_ATT_GRADE_BONUS	«Ќ’б Џбм Џб«ж… Ён «бећжг бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г ”ег ”«г	SA
+TOOLTIP_USE_SKILL_GIHYEOL_ATT_GRADE_BONUS	«Ќ’б Џбм Џб«ж… Ён «бећжг бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г «бЏ“нг…	SA
+TOOLTIP_USE_SKILL_GONGDAB_KNOCKBACK	ёЁ“… «б–∆» ” ƒѕн «бм —гн «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_GONGDAB_STUN	ёЁ“… «б–∆» ” ƒѕн б≈џг«Ѕ «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_GUNGSIN_NEXT_COOLTIME_DECREASE_10PER	«” —«Ќ… ≈ћ»«—н… ећжг »—ён: -%d Ћ«дн… »Ё—’… 10%%	SA
+TOOLTIP_USE_SKILL_GUNGSIN_NEXT_COOLTIME_DECREASE_20PER	«” —«Ќ… ≈ћ»«—н… ећжг »—ён: -%d Ћ«дн… »Ё—’… 20%%	SA
+TOOLTIP_USE_SKILL_GWIGEOM_DEF_BONUS	«Ќ’б Џбм Џб«ж… Ён ѕЁ«Џ бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г ‘Ё—… г”Ќж—…	SA
+TOOLTIP_USE_SKILL_GYOKSAN_KNOCKBACK	÷—» г»—Ќ ” ƒѕн «бм —гн «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_HOSIN_DEF_BONUS	«Ќ’б Џбм Џб«ж… Ён ѕЁ«Џ бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г »—я…	SA
+TOOLTIP_USE_SKILL_HWAYEOMPOK_KNOCKBACK	÷—»… д«—н… ” ƒѕн «бм —гн «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_JEOKRANG_DEF_BONUS	«Ќ’б Џбм Џб«ж… Ён ѕЁ«Џ бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г —жЌ «б–∆» «бя—“н	SA
+TOOLTIP_USE_SKILL_JEONGEOP_ATT_GRADE_BONUS	«Ќ’б Џбм Џб«ж… Ён «бећжг бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г Џб«ћ	SA
+TOOLTIP_USE_SKILL_JEUNGRYEOK_DEF_BONUS	«Ќ’б Џбм Џб«ж… Ён ѕЁ«Џ бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г ећжг+	SA
+TOOLTIP_USE_SKILL_KWANKYEOK_KNOCKBACK	ж«»б гд «б”е«г ” ƒѕн «бм —гн «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_KWANKYEOK_NEXT_COOLTIME_DECREASE_10PER	«” —«Ќ… ≈ћ»«—н… ж«»б гд «б”е«г: -%d Ћ«дн… »Ё—’… 10%%	SA
+TOOLTIP_USE_SKILL_KWANKYEOK_NEXT_COOLTIME_DECREASE_20PER	«” —«Ќ… ≈ћ»«—н… ж«»б гд «б”е«г: -%d Ћ«дн… »Ё—’… 20%%	SA
+TOOLTIP_USE_SKILL_MAHWAN_STUN	Ќћ— «б‘— ” ƒѕн б≈џг«Ѕ «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_MANASHILED_CASTING_SPEED	“н«ѕ… ”—Џ… «б”Ќ— бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г Ќг«н… ўб«гн…	SA
+TOOLTIP_USE_SKILL_MARYUNG_NEXT_COOLTIME_DECREASE_10PER	«” —«Ќ… ≈ћ»«—н… ÷—»… ‘—н—…: -%d Ћ«дн… »Ё—’… 10%%	SA
+TOOLTIP_USE_SKILL_MARYUNG_NEXT_COOLTIME_DECREASE_20PER	«” —«Ќ… ≈ћ»«—н… ÷—»… ‘—н—…: -%d Ћ«дн… »Ё—’… 20%%	SA
+TOOLTIP_USE_SKILL_MUYEONG_ATT_GRADE_BONUS	«Ќ’б Џбм Џб«ж… Ён «бећжг бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г ‘»Ќ «бд«—	SA
+TOOLTIP_USE_SKILL_NOEGEOM_ATT_GRADE_BONUS	«Ќ’б Џбм Џб«ж… Ён «бећжг бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г ”нЁ ѕ«∆—н	SA
+TOOLTIP_USE_SKILL_NOEJEON_NEXT_COOLTIME_DECREASE_10PER	«” —«Ќ… ≈ћ»«—н… —гн… «б»—ё: -%d Ћ«дн… »Ё—’… 10%%	SA
+TOOLTIP_USE_SKILL_NOEJEON_NEXT_COOLTIME_DECREASE_20PER	«” —«Ќ… ≈ћ»«—н… —гн… «б»—ё: -%d Ћ«дн… »Ё—’… 20%%	SA
+TOOLTIP_USE_SKILL_PABEOB_STUN	≈»Ў«б «б”Ќ— ” ƒѕн б≈џг«Ѕ «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_PAERYONG_HP_ABSORB	” ” жЏ» %d%% гд дё«Ў «бЌн«… Џдѕ «” ќѕ«г “∆н—  днд	SA
+TOOLTIP_USE_SKILL_PALBANG_HP_ABSORB	” ” жЏ» %d%% гд дё«Ў «бЌн«… Џдѕ «” ќѕ«г ѕжш«г… «б”нЁ	SA
+TOOLTIP_USE_SKILL_PASWAE_NEXT_COOLTIME_DECREASE_10PER	«” —«Ќ… ≈ћ»«—н… гќб» –∆»: -%d Ћ«дн… »Ё—’… 10%%	SA
+TOOLTIP_USE_SKILL_PASWAE_NEXT_COOLTIME_DECREASE_20PER	«” —«Ќ… ≈ћ»«—н… гќб» –∆»: -%d Ћ«дн… »Ё—’… 20%%	SA
+TOOLTIP_USE_SKILL_PASWAE_SP_ABSORB	” ” жЏ» %d%% гд дё«Ў «б√”бж» Џдѕ «” ќѕ«г гќб» «б–∆»	SA
+TOOLTIP_USE_SKILL_SALPOONG_NEXT_COOLTIME_DECREASE_10PER	«” —«Ќ… ≈ћ»«—н… дЁ” «б–∆»: -%d Ћ«дн… »Ё—’… 10%%	SA
+TOOLTIP_USE_SKILL_SALPOONG_NEXT_COOLTIME_DECREASE_20PER	«” —«Ќ… ≈ћ»«—н… дЁ” «б–∆»: -%d Ћ«дн… »Ё—’… 20%%	SA
+TOOLTIP_USE_SKILL_SAMYEON_NEXT_COOLTIME_DECREASE_10PER	«” —«Ќ… ≈ћ»«—н… ћ—Ќ Ћб«Ћн «б« ћ«е« : -%d Ћ«дн… »Ё—’… 10%%	SA
+TOOLTIP_USE_SKILL_SAMYEON_NEXT_COOLTIME_DECREASE_20PER	«” —«Ќ… ≈ћ»«—н… ћ—Ќ Ћб«Ћн «б« ћ«е« : -%d Ћ«дн… »Ё—’… 20%%	SA
+TOOLTIP_USE_SKILL_SAMYEON_STUN	ћ—Ќ Ћб«Ћн «б« ћ«е«  ” ƒѕн б≈џг«Ѕ «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_SANGONG_ATT_GRADE_BONUS	«Ќ’б Џбм Џб«ж… Ён «бећжг бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г џнг… ”«г…	SA
+TOOLTIP_USE_SKILL_SEOMJEON_KNOCKBACK	”хг “«ЌЁ ” ƒѕн «бм —гн «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_SWAERYUNG_KNOCKBACK	÷—»… «б√’»Џ ” ƒѕн «бм —гн «бќ’г »Ё—’… %d%%	SA
+TOOLTIP_USE_SKILL_TERROR_ATT_GRADE_BONUS	«Ќ’б Џбм Џб«ж… Ён «бећжг бгѕ… %d Ћ«дн… Џдѕ «” ќѕ«г ќжЁ	SA
+TOOLTIP_USE_SKILL_TUSOK_HP_ABSORB	” ” жЏ» %d%% гд дё«Ў «бЌн«… Џдѕ «” ќѕ«г ÷—»… «б‘»Ќ	SA
+TOOLTIP_USE_SKILL_YEONSA_HP_ABSORB	” ” жЏ» %d%% гд дё«Ў «бЌн«… Џдѕ «” ќѕ«г Ўбё… г я——…	SA
+TOOLTIP_USE_SKILL_YONGBI_HP_ABSORB	” ” жЏ» %d%% гд дё«Ў «бЌн«… Џдѕ «” ќѕ«г —г«н… «б днд	SA
+TOOLTIP_USE_SKILL_YONGKWON_NEXT_COOLTIME_DECREASE_10PER	«” —«Ќ… ≈ћ»«—н… ѕж«г… «б днд: -%d Ћ«дн… »Ё—’… 10%%	SA
+TOOLTIP_USE_SKILL_YONGKWON_NEXT_COOLTIME_DECREASE_20PER	«” —«Ќ… ≈ћ»«—н… ѕж«г… «б днд: -%d Ћ«дн… »Ё—’… 20%%	SA
+TOOLTIP_WARRIOR	гЌ«—»
+TOOLTIP_WEAPON	”б«Ќ
+TOOLTIP_WOLFMAN	бня«д—
+TOOLTIP_WRISTLET	”ж«—
+UI_ACCEPT	гж«Ёё
+UI_BOLD_FONT	Tahoma:12b
+UI_CANCEL	≈бџ«Ѕ
+UI_CLOSE	≈џб«ё
+UI_DEF_FONT	Tahoma:14
+UI_DEF_FONT_LARGE	Tahoma:16
+UI_DEF_FONT_SMALL	Tahoma:14
+UI_DENY	—Ё÷
+UI_ITEM	‘нЅ
+UI_LEFT_TIME	«бжё  «бг »ён: %d Ћ«дн…
+UI_NEXT	«б «бн
+UI_NEXTPAGE	 «»Џ
+UI_NOCONTENTS	»ѕжд гхЌ жм
+UI_NONAME	б« нжћѕ «”г
+UI_OK	гж«Ёё
+UI_POS_UNKNOWN	гя«д џн— гЏ—жЁ
+UI_PREVPAGE	«бќбЁ
+UI_UNKNOWN	џн— гЏ—жЁ
+UNLIMIT_ENTER_CZ_QUESTION	нгядя ѕќжб гЏ»ѕ “жѕн«я бгѕ… %d ѕёнё…/ѕё«∆ё. еб  —нѕ ≈” ќѕ«гењ
+UPDATE_TIME	» «—нќ
+UPLOAD_MARK_CHECK_NEED_RECONNECT	Џбня ≈Џ«ѕ… «б Ќгнб гд ћѕнѕ.
+UPLOAD_MARK_UPLOAD_NEED_RECONNECT	Џбня ≈Џ«ѕ… «б Ќгнб гд ћѕнѕ.
+USE_ITEM_BUTTON_01	≈бџ«Ѕ
+USE_ITEM_BUTTON_02	«бѕќжб
+USE_ITEM_FAILURE_PRIVATE_SHOP	б« нгядя «” Џг«б √н ‘нЅ° Ў«бг« √дя  гбя г ћ—«р ‘ќ’н«р.
+USE_ITEM_POPUP_01	бёѕ «д е  гЏ—я… «б√÷—Ќ… «бќг”…. \n «бгЏ—я… «б «бн…:
+USE_ITEM_QUESTION_01	еб  —џ» Ён «бг‘«—я… Ён гЏ—я… «б√÷—Ќ… «бќг”…њ
+USE_ITEM_QUESTION_02	еб  —џ» Ён «бЏжѕ… ≈бм «бгя«д «б–н ё б  Ёнењ\n”нябшцЁя е–« %s н«дџ.
+USE_ITEM_QUESTION_03	бёѕ  г дёбя ≈бм гжёЏ Џ‘ж«∆н. еб  жѕ «бѕќжбњ
+USE_ITEM_QUESTION_04	»гћ—ѕ «бѕќжб ≈бм гЏ—я… «б√÷—Ќ… «бќг”…° ”н г  ЏЎнб яб Џб«ж« я «б≈÷«Ён….\n”н г дёбя ≈бм гжёЏ Џ‘ж«∆н.\nеб  жѕ «бѕќжбњ
+USE_ITEM_QUESTION_05	»гћ—ѕ «бѕќжб ≈бм гЏ—я… «б√÷—Ќ… «бќг”…° ”н г  ЏЎнб яб Џб«ж« я «б≈÷«Ён….\nеб  —нѕ «бЏжѕ… ≈бм «бгя«д «б–н г  Ёнењ\n«б ябЁ…: %s н«дџњ
+USE_SKILL_ERROR_UNKNOWN	ќЎ√ гћежб Ён «бге«—…: %s

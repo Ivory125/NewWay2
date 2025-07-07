@@ -1,0 +1,15 @@
+Group Info
+{
+
+	on_off	1
+}
+
+Group Banner
+{
+	
+	Group Link_Metin2_Account_With_Steam
+	{
+		text		"Þimdi Metin2 hesabýný Steam ile baðla!"
+		url			"https://tr.metin2.gameforge.com/steam/moveingame"
+	}
+}

@@ -1,0 +1,15 @@
+Group Info
+{
+
+	on_off	1
+}
+
+Group Banner
+{
+	
+	Group Link_Metin2_Account_With_Steam
+	{
+		text		"Leagã Steam la contul tãu Metin2 acum!"
+		url			"https://ro.metin2.gameforge.com/steam/moveingame"
+	}
+}

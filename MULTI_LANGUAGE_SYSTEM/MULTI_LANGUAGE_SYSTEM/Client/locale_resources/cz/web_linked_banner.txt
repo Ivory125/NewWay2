@@ -1,0 +1,15 @@
+Group Info
+{
+
+	on_off	1
+}
+
+Group Banner
+{
+	
+	Group Link_Metin2_Account_With_Steam
+	{
+		text		"Propojte si Steam s úètem Metin2!"
+		url			"https://cz.metin2.gameforge.com/steam/moveingame"
+	}
+}

@@ -1,0 +1,3 @@
+LEFT_TIME	Time Remaining	
+RESTART_CLIENT_DO_YOU_ACCEPT_1	The client must be restarted for the changes to take effect.
+RESTART_CLIENT_DO_YOU_ACCEPT_2	Do you want to restart the client now?

@@ -1,0 +1,15 @@
+Group Info
+{
+
+	on_off	1
+}
+
+Group Banner
+{
+	
+	Group Link_Metin2_Account_With_Steam
+	{
+		text		"Kösd össze Metin2 fiókod a Steam-mel most!"
+		url			"https://hu.metin2.gameforge.com/steam/moveingame"
+	}
+}

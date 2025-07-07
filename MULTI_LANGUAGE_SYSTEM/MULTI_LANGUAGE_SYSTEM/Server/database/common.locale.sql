@@ -1,0 +1,1 @@
+UPDATE locale SET mValue = "europe" WHERE mKey = "LOCALE";

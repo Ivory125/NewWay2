@@ -248,8 +248,23 @@ namespace ikashop
 			PythonSafeDict itemDict;
 			itemDict.set("id", info.id);
 			itemDict.set("owner", info.owner);
-			itemDict.set("vnum", info.vnum);
-			itemDict.set("count", info.count);
+#ifdef ELEMENT_SPELL_WORLDARD
+                        itemDict.set("vnum", info.vnum);
+                        itemDict.set("count", info.count);
+                        itemDict.set("grade_element", info.grade_element);
+                        PythonSafeList attackList;
+                        for (int j = 0; j < MAX_ELEMENTS_SPELL; ++j)
+                                attackList.append(info.attack_element[j]);
+                        itemDict.set("attack_element", attackList.weakRef());
+                        itemDict.set("element_type_bonus", info.element_type_bonus);
+                        PythonSafeList valueList;
+                        for (int j = 0; j < MAX_ELEMENTS_SPELL; ++j)
+                                valueList.append(info.elements_value_bonus[j]);
+                        itemDict.set("elements_value_bonus", valueList.weakRef());
+#else
+                        itemDict.set("vnum", info.vnum);
+                        itemDict.set("count", info.count);
+#endif
 #ifdef ENABLE_CHANGELOOK_SYSTEM
 			itemDict.set("look", info.id);
 #endif

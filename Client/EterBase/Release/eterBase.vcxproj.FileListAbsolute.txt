@@ -1,0 +1,2 @@
+D:\Github\Greenway-3\Source-Client\Client\EterBase\Release\eterBase.lib
+D:\ASLAN SYSTEME GEKAUFT\GREENWAYTESTORDNER\Source-Client\Client\EterBase\Release\eterBase.lib

@@ -1,0 +1,23 @@
+1	Widerstand (Krieger)	01_resistance	PASSIVE	Widerstand gegen Krieger-Angriffe (passiv)	0
+2	Widerstand (Sura)	01_resistance	PASSIVE	Widerstand gegen Sura-Angriffe (passiv)	0
+3	Widerstand (Ninja)	01_resistance	PASSIVE	Widerstand gegen Ninja-Angriffe (passiv)	0
+4	Widerstand (Schamane)	01_resistance	PASSIVE	Widerstand gegen Schamanen-Angriffe (passiv)	0
+5	Widerstand (Lykaner)	01_resistance	PASSIVE	Widerstand gegen Lykaner-Angriffe (passiv)	0
+6	Berserker	06_beserk	PASSIVE	Angriffswert erhöht sich (passiv)	0
+7	Magiebruch	07_anti_magic	PASSIVE	Magie des Gegners wird gebrochen (passiv)	0
+8	Beschleunigung	08_haste	PASSIVE	Aufladezeit der Fähigkeiten vermindert sich (passiv)	0
+9	Drill	09_drill	PASSIVE	Chance auf durchbohrende Treffer erhöht sich (passiv)	0
+10	Erneuerung	10_restauration	AUTO	TP werden wieder hergestellt, sobald sie unter 20% fallen	300
+11	Vampir	11_stealhp	PASSIVE	Dem Gegner werden TP entzogen (passiv)	0
+12	Geister	12_stealmp	PASSIVE	Dem Gegner werden MP entzogen (passiv)	0
+13	Hindernis	13_block	PASSIVE	Physischer Schaden wird abgeblockt (passiv)	0
+14	Spiegeln	14_reflection	PASSIVE	Erlittener Schaden wird auf den Gegner reflektiert (passiv)	0
+15	Yang Drop	15_gold_drop	PASSIVE	Droprate von Yang wird erhöht (passiv)	0
+16	Reichweite	16_bow_distance	PASSIVE	Reichweite deines Bogens wird erhöht (passiv)	0
+17	Unbesiegbarkeit	17_immortal	AUTO	Chance auf vorübergehende Unbesiegbarkeit	600
+18	Heilung	18_panacea	AUTO	Chance auf Entfernung von Blutungs-, Gift- und Verlangsamungseffekten	150
+19	Braumeister	19_potionbonus	PASSIVE	Regeneration durch Tränke wird erhöht (passiv)	0
+20	Monsterjäger	20_mob_bonus	PASSIVE	Effekt von "Stark gegen Monster" wird erhöht (passiv)	0
+21	Scharfblick	21_exp_bonus	PASSIVE	Gesammelte EXP werden erhöht (passiv)	0
+22	Lebensentzug	22_hp_recover	PASSIVE	Absorbiert TP von getöteten Monstern (passiv)	0
+23	Federleicht	23_feather	AUTO	Aktiviert Federschreiten für kurze Zeit	150

@@ -1,0 +1,74 @@
+TextureSet
+
+TextureCount 7
+
+Start Texture001
+    "d:\ymir work\terrainmaps\newtex\1024x1024\stone\stone_r_8.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture001
+Start Texture002
+    "d:\ymir work\terrainmaps\newtex\2048x2048\stone\stone_r_1.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture002
+Start Texture003
+    "d:\ymir work\terrainmaps\newtex\2048x2048\grass\grass_r_2.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture003
+Start Texture004
+    "d:\ymir work\terrainmaps\newtex\2048x2048\safezone\safe_r_3.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture004
+Start Texture005
+    "d:\ymir work\terrainmaps\newtex\2048x2048\safezone\safe_r_1.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture005
+Start Texture006
+    "d:\ymir work\terrainmaps\newtex\1024x1024\grass\grass_r_2.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture006
+Start Texture007
+    "d:\ymir work\terrainmaps\a\beach\beach water.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture007

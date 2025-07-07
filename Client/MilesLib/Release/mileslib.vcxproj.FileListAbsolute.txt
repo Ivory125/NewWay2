@@ -1,0 +1,2 @@
+D:\Github\Greenway-3\Source-Client\Client\MilesLib\Release\mileslib.lib
+D:\ASLAN SYSTEME GEKAUFT\GREENWAYTESTORDNER\Source-Client\Client\MilesLib\Release\mileslib.lib

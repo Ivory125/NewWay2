@@ -1,0 +1,8 @@
+#ifndef _EL_SERVICEDEFS_H_
+#define _EL_SERVICEDEFS_H_
+
+#define _IMPROVED_PACKET_ENCRYPTION_
+//#define __PERFORMANCE_CHECK__
+
+#endif //_EL_SERVICEDEFS_H_
+//martysama0134's 4ee2cf2c13ce32ff35a20010fbba866e

@@ -1,0 +1,406 @@
+d:\aslan systeme gekauft\greenwaytestordner\client\metin2client.bsc
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\affectflagcontainer.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\cpythonrendertargetmodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebase.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebasebattle.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebaseeffect.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebaseevent.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebasemotion.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebasemovement.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebasetransform.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\cameraprocedure.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonacce.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonbackground.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonbackgroundmodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoncharactermanager.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoncharactermanagermodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoncharactermodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoneffectmodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoneventmanager.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoneventmanagermodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythongameeventmanagermodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonikarusshop.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonitem.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonitemmodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamikarusshop.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnonplayer.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnonplayermodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayer.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayereventhandler.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayerinput.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayerinputkeyboard.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayerinputmouse.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayermodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayerskill.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonquest.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonskill.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonchat.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonchatmodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonexchange.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonexchangemodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonflymodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonguild.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonmessenger.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonminimap.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonminimapmodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonsafebox.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonshop.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonskillpet.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythontexttail.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythontexttailmodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonpackmodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\processscanner.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplication.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationcamera.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationcursor.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationevent.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationlogo.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationmodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationprocedure.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationwebpage.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonime.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonimemodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonprofilermodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonsoundmanagermodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonsystem.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonsystemmodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\guildmarkdownloader.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\guildmarkuploader.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\markimage.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\markmanager.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\locale.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\accountconnector.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\insultchecker.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\networkactormanager.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\processcrc.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonexceptionsender.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkdatagram.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkdatagrammodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstream.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamcommand.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamevent.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreammodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphasegame.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphasegameactor.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphasegameitem.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphasehandshake.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphaseloading.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphaselogin.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphaseoffline.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphaseselect.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\serverstatechecker.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\serverstatecheckermodule.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\checklatestfiles.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\gametype.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\movieman.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\userinterface.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\userinterface.pch
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\metin2client.pdb
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\stdafx.sbr
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\stdafx.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\cpythonrendertargetmodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonacce.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonbackground.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythongameeventmanagermodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonitemmodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamikarusshop.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayerinput.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayerskill.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonchat.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonexchange.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonmessenger.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonsafebox.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonshop.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythontexttail.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\processscanner.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationcursor.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationprocedure.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonimemodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\markimage.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\locale.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphasehandshake.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphaseselect.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\serverstatecheckermodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\checklatestfiles.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\gametype.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebasebattle.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebasemotion.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\cameraprocedure.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonbackgroundmodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoncharactermodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoneffectmodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonitem.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnonplayermodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayer.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonquest.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonskill.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonflymodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonguild.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonskillpet.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplication.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationmodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonsystem.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\accountconnector.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamevent.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreammodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphasegameactor.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphaselogin.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphaseoffline.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\affectflagcontainer.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebaseeffect.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebaseevent.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebasetransform.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoncharactermanagermodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoneventmanager.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnonplayer.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayereventhandler.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayerinputkeyboard.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayerinputmouse.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonchatmodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonminimapmodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythontexttailmodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonpackmodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationevent.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationwebpage.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonsystemmodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\guildmarkdownloader.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\guildmarkuploader.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\insultchecker.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\networkactormanager.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamcommand.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphasegameitem.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphaseloading.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\movieman.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebase.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\instancebasemovement.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoncharactermanager.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythoneventmanagermodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonikarusshop.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonplayermodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonexchangemodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonminimap.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationcamera.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonapplicationlogo.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonime.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonprofilermodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonsoundmanagermodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\markmanager.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\processcrc.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonexceptionsender.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkdatagram.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkdatagrammodule.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstream.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\pythonnetworkstreamphasegame.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\serverstatechecker.obj
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\userinterface.obj
+d:\aslan systeme gekauft\greenwaytestordner\client\metin2client.exe
+d:\aslan systeme gekauft\greenwaytestordner\client\metin2client.map
+d:\aslan systeme gekauft\greenwaytestordner\client\metin2client.pdb
+d:\aslan systeme gekauft\greenwaytestordner\source-client\client\userinterface\release\userinterface.res
+e:\newway2-github\newway2\client\userinterface\release\accountconnector.obj
+e:\newway2-github\newway2\client\userinterface\release\affectflagcontainer.obj
+e:\newway2-github\newway2\client\userinterface\release\cameraprocedure.obj
+e:\newway2-github\newway2\client\userinterface\release\checklatestfiles.obj
+e:\newway2-github\newway2\client\userinterface\release\cpythonrendertargetmodule.obj
+e:\newway2-github\newway2\client\userinterface\release\gametype.obj
+e:\newway2-github\newway2\client\userinterface\release\guildmarkdownloader.obj
+e:\newway2-github\newway2\client\userinterface\release\guildmarkuploader.obj
+e:\newway2-github\newway2\client\userinterface\release\instancebase.obj
+e:\newway2-github\newway2\client\userinterface\release\instancebasebattle.obj
+e:\newway2-github\newway2\client\userinterface\release\instancebaseeffect.obj
+e:\newway2-github\newway2\client\userinterface\release\instancebaseevent.obj
+e:\newway2-github\newway2\client\userinterface\release\instancebasemotion.obj
+e:\newway2-github\newway2\client\userinterface\release\instancebasemovement.obj
+e:\newway2-github\newway2\client\userinterface\release\instancebasetransform.obj
+e:\newway2-github\newway2\client\userinterface\release\insultchecker.obj
+e:\newway2-github\newway2\client\userinterface\release\locale.obj
+e:\newway2-github\newway2\client\userinterface\release\markimage.obj
+e:\newway2-github\newway2\client\userinterface\release\markmanager.obj
+e:\newway2-github\newway2\client\userinterface\release\movieman.obj
+e:\newway2-github\newway2\client\userinterface\release\networkactormanager.obj
+e:\newway2-github\newway2\client\userinterface\release\processcrc.obj
+e:\newway2-github\newway2\client\userinterface\release\processscanner.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonacce.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonapplication.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationcamera.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationcursor.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationevent.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationlogo.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationmodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationprocedure.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationwebpage.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonbackground.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonbackgroundmodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythoncharactermanager.obj
+e:\newway2-github\newway2\client\userinterface\release\pythoncharactermanagermodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythoncharactermodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonchat.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonchatmodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythoneffectmodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythoneventmanager.obj
+e:\newway2-github\newway2\client\userinterface\release\pythoneventmanagermodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonexceptionsender.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonexchange.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonexchangemodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonflymodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythongameeventmanagermodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonguild.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonikarusshop.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonime.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonimemodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonitem.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonitemmodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonmessenger.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonminimap.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonminimapmodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkdatagram.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkdatagrammodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstream.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamcommand.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamevent.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamikarusshop.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreammodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphasegame.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphasegameactor.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphasegameitem.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphasehandshake.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphaseloading.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphaselogin.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphaseoffline.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphaseselect.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnonplayer.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonnonplayermodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonpackmodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonplayer.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonplayereventhandler.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonplayerinput.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonplayerinputkeyboard.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonplayerinputmouse.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonplayermodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonplayerskill.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonprofilermodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonquest.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonsafebox.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonshop.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonskill.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonskillpet.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonsoundmanagermodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonsystem.obj
+e:\newway2-github\newway2\client\userinterface\release\pythonsystemmodule.obj
+e:\newway2-github\newway2\client\userinterface\release\pythontexttail.obj
+e:\newway2-github\newway2\client\userinterface\release\pythontexttailmodule.obj
+e:\newway2-github\newway2\client\userinterface\release\serverstatechecker.obj
+e:\newway2-github\newway2\client\userinterface\release\serverstatecheckermodule.obj
+e:\newway2-github\newway2\client\userinterface\release\stdafx.obj
+e:\newway2-github\newway2\client\userinterface\release\userinterface.obj
+e:\newway2-github\newway2\client\userinterface\release\userinterface.res
+e:\newway2-github\newway2\client\userinterface\release\userinterface.pch
+e:\newway2-github\newway2\client\userinterface\release\metin2client.pdb
+e:\newway2-github\newway2\client\userinterface\release\accountconnector.sbr
+e:\newway2-github\newway2\client\userinterface\release\affectflagcontainer.sbr
+e:\newway2-github\newway2\client\userinterface\release\cameraprocedure.sbr
+e:\newway2-github\newway2\client\userinterface\release\checklatestfiles.sbr
+e:\newway2-github\newway2\client\userinterface\release\cpythonrendertargetmodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\gametype.sbr
+e:\newway2-github\newway2\client\userinterface\release\guildmarkdownloader.sbr
+e:\newway2-github\newway2\client\userinterface\release\guildmarkuploader.sbr
+e:\newway2-github\newway2\client\userinterface\release\instancebase.sbr
+e:\newway2-github\newway2\client\userinterface\release\instancebasebattle.sbr
+e:\newway2-github\newway2\client\userinterface\release\instancebaseeffect.sbr
+e:\newway2-github\newway2\client\userinterface\release\instancebaseevent.sbr
+e:\newway2-github\newway2\client\userinterface\release\instancebasemotion.sbr
+e:\newway2-github\newway2\client\userinterface\release\instancebasemovement.sbr
+e:\newway2-github\newway2\client\userinterface\release\instancebasetransform.sbr
+e:\newway2-github\newway2\client\userinterface\release\insultchecker.sbr
+e:\newway2-github\newway2\client\userinterface\release\locale.sbr
+e:\newway2-github\newway2\client\userinterface\release\markimage.sbr
+e:\newway2-github\newway2\client\userinterface\release\markmanager.sbr
+e:\newway2-github\newway2\client\userinterface\release\movieman.sbr
+e:\newway2-github\newway2\client\userinterface\release\networkactormanager.sbr
+e:\newway2-github\newway2\client\userinterface\release\processcrc.sbr
+e:\newway2-github\newway2\client\userinterface\release\processscanner.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonacce.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonapplication.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationcamera.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationcursor.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationevent.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationlogo.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationmodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationprocedure.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonapplicationwebpage.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonbackground.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonbackgroundmodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythoncharactermanager.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythoncharactermanagermodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythoncharactermodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonchat.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonchatmodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythoneffectmodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythoneventmanager.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythoneventmanagermodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonexceptionsender.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonexchange.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonexchangemodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonflymodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythongameeventmanagermodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonguild.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonikarusshop.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonime.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonimemodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonitem.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonitemmodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonmessenger.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonminimap.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonminimapmodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkdatagram.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkdatagrammodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstream.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamcommand.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamevent.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamikarusshop.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreammodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphasegame.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphasegameactor.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphasegameitem.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphasehandshake.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphaseloading.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphaselogin.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphaseoffline.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnetworkstreamphaseselect.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnonplayer.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonnonplayermodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonpackmodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonplayer.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonplayereventhandler.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonplayerinput.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonplayerinputkeyboard.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonplayerinputmouse.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonplayermodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonplayerskill.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonprofilermodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonquest.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonsafebox.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonshop.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonskill.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonskillpet.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonsoundmanagermodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonsystem.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythonsystemmodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythontexttail.sbr
+e:\newway2-github\newway2\client\userinterface\release\pythontexttailmodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\serverstatechecker.sbr
+e:\newway2-github\newway2\client\userinterface\release\serverstatecheckermodule.sbr
+e:\newway2-github\newway2\client\userinterface\release\stdafx.sbr
+e:\newway2-github\newway2\client\userinterface\release\userinterface.sbr
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\bscmake.command.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\bscmake.read.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\bscmake.write.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\cl.command.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\cl.read.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\cl.write.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\link.command.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\link.read.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\link.write.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\rc.command.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\rc.read.1.tlog
+e:\newway2-github\newway2\client\userinterface\release\userinterface.tlog\rc.write.1.tlog

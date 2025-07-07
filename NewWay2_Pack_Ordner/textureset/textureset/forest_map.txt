@@ -1,0 +1,134 @@
+TextureSet
+
+TextureCount 13
+
+Start Texture001
+    "d:\ymir work\terrainmaps\magic\dirt024.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture001
+Start Texture002
+    "d:\ymir work\terrainmaps\magic\dirt030.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture002
+Start Texture003
+    "d:\ymir work\terrainmaps\magic\grass010.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture003
+Start Texture004
+    "d:\ymir work\terrainmaps\magic\grass031.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture004
+Start Texture005
+    "d:\ymir work\terrainmaps\magic\stone08211.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture005
+Start Texture006
+    "d:\ymir work\terrainmaps\magic\stone008.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture006
+Start Texture007
+    "d:\ymir work\terrainmaps\magic\brick055.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture007
+Start Texture008
+    "d:\ymir work\terrainmaps\magic\brick059.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture008
+Start Texture009
+    "d:\ymir work\terrainmaps\magic\dirt008.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture009
+Start Texture010
+    "d:\ymir work\terrainmaps\field\b_grass_01.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture010
+Start Texture011
+    "d:\ymir work\terrainmaps\trusiakwork\setaou_map\field 01.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture011
+Start Texture012
+    "d:\ymir work\terrainmaps\trusiakwork\nowe_v2\grass 01.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture012
+Start Texture013
+    "d:\ymir work\terrainmaps\trusiak\field 01.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture013

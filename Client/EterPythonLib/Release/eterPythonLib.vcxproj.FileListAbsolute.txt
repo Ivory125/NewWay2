@@ -1,0 +1,2 @@
+D:\Github\Greenway-3\Source-Client\Client\eterPythonLib\Release\eterPythonLib.lib
+D:\ASLAN SYSTEME GEKAUFT\GREENWAYTESTORDNER\Source-Client\Client\eterPythonLib\Release\eterPythonLib.lib

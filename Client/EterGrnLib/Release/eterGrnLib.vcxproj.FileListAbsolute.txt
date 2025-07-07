@@ -1,0 +1,2 @@
+D:\Github\Greenway-3\Source-Client\Client\eterGrnLib\Release\eterGrnLib.lib
+D:\ASLAN SYSTEME GEKAUFT\GREENWAYTESTORDNER\Source-Client\Client\eterGrnLib\Release\eterGrnLib.lib

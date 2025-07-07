@@ -1,0 +1,94 @@
+TextureSet
+
+TextureCount 9
+
+Start Texture001
+    "d:\ymir work\terrain\terrainmaps\cryprime\unterweg.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture001
+Start Texture002
+    "d:\ymir work\terrain\terrainmaps\a\grass\01.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture002
+Start Texture003
+    "d:\ymir work\terrain\terrainmaps\a\grass\02.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture003
+Start Texture004
+    "d:\ymir work\terrain\terrainmaps\a\grass\04.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture004
+Start Texture005
+    "d:\ymir work\terrain\terrainmaps\plechi_env_map\grass\grass84.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture005
+Start Texture006
+    "d:\ymir work\terrain\terrainmaps\a\stein\stone01.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture006
+Start Texture007
+    "d:\ymir work\terrain\terrainmaps\oracle_textures\lagoon_road_002.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture007
+Start Texture008
+    "d:\ymir work\terrain\terrainmaps\plechi_env_map\tile\tile14.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture008
+Start Texture009
+    "d:\ymir work\terrain\terrainmaps\plechi_env_map\tile\tile19.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    1
+    0
+    0
+End Texture009

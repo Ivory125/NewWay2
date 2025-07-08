@@ -4,7 +4,11 @@ BIN = ./libpoly.a
 GCC_VERSION = $(shell $(CC) --version 2>&1 | grep "(GCC)" | cut -d' ' -f3  | cut -d'.' -f1)
 
 INCLUDE =
-INCLUDE += -I../../Extern/include
+# Include directory for external libraries. This path was previously
+# relative to "server/Srcs", which resulted in a missing header error
+# for <msl/random.h>.  Adjust the path so it points to the repository
+# level "Extern" directory when building from this subdirectory.
+INCLUDE += -I../../../../Extern/include
 LIBS =
 
 CFLAGS  = -m32 -Wall -O2 -pipe -fno-exceptions -fno-rtti $(INCLUDE)

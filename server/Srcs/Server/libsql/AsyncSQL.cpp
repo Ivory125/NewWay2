@@ -135,7 +135,11 @@ bool CAsyncSQL::Connect()
 		return false;
 	}
 
-	my_bool reconnect = true;
+
+       // MySQL 8.x removed the deprecated `my_bool` type. Using `bool` ensures
+       // compatibility with recent client libraries while still working with
+       // older versions.
+       bool reconnect = true;
 
 	if (0 != mysql_options(&m_hDB, MYSQL_OPT_RECONNECT, &reconnect))
 		fprintf(stderr, "mysql_option: %s\n", mysql_error(&m_hDB));

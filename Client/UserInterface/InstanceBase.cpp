@@ -2159,6 +2159,17 @@ void CInstanceBase::SetStateFlags(DWORD dwStateFlags)
 	else
 		SetPartyMemberFlag(FALSE);
 }
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+void CInstanceBase::SetLanguage(BYTE bLang)
+{
+        m_bLanguage = bLang;
+}
+
+BYTE CInstanceBase::GetLanguage() const
+{
+        return m_bLanguage;
+}
+#endif
 
 void CInstanceBase::SetComboType(UINT uComboType)
 {
@@ -3494,6 +3505,9 @@ void CInstanceBase::__Initialize()
 
 	m_sAlignment = 0;
 	m_byPKMode = 0;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+        m_bLanguage = 0;
+#endif
 	m_isKiller = false;
 	m_isPartyMember = false;
 

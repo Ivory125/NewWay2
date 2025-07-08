@@ -42,6 +42,9 @@ class CInstanceBase
 #endif
 			short	m_sAlignment;
 			BYTE	m_byPKMode;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+			BYTE	m_bLanguage;
+#endif
 			CAffectFlagContainer	m_kAffectFlags;
 
 			std::string m_stName;
@@ -567,6 +570,10 @@ class CInstanceBase
 		void					SetKiller(bool bFlag);
 		void					SetPartyMemberFlag(bool bFlag);
 		void					SetStateFlags(DWORD dwStateFlags);
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		void					SetLanguage(BYTE bLang);
+		BYTE					GetLanguage() const;
+#endif
 
 		void					SetArmor(DWORD dwArmor);
 		void					SetShape(DWORD eShape, float fSpecular=0.0f);
@@ -996,7 +1003,9 @@ class CInstanceBase
 		DWORD					m_dwEmpireID;
 		DWORD					m_dwGuildID;
 
-	protected:
+	#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+				BYTE	m_bLanguage;
+#endif
 		CAffectFlagContainer	m_kAffectFlagContainer;
 		DWORD					m_adwCRCAffectEffect[AFFECT_NUM];
 

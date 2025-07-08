@@ -622,7 +622,7 @@ void CPythonTextTail::RegisterItemTextTail(DWORD VirtualID, const char * c_szTex
 {
 #ifdef __DEBUG
 	char szName[256];
-	spritnf(szName, "%s[%d]", c_szText, VirtualID);
+        sprintf(szName, "%s[%d]", c_szText, VirtualID);
 
 	TTextTail * pTextTail = RegisterTextTail(VirtualID, c_szText, pOwner, c_TextTail_Name_Position, c_TextTail_Item_Color);
 	m_ItemTextTailMap.insert(TTextTailMap::value_type(VirtualID, pTextTail));

@@ -48,6 +48,9 @@ struct SNetworkActorData
 
 	DWORD	m_dwGuildID;
 	DWORD	m_dwLevel;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	BYTE m_bLanguage;
+#endif
 
 	SNetworkActorData();
 
@@ -108,6 +111,9 @@ struct SNetworkUpdateActorData
 	short m_sAlignment;
 	BYTE m_byPKMode;
 	DWORD m_dwMountVnum;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	BYTE m_bLanguage;
+#endif
 	DWORD m_dwStateFlags;
 	CAffectFlagContainer m_kAffectFlags;
 
@@ -132,6 +138,9 @@ struct SNetworkUpdateActorData
 		m_sAlignment=0;
 		m_byPKMode=0;
 		m_dwMountVnum=0;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		m_bLanguage = 0;
+#endif
 		m_dwStateFlags=0;
 		m_kAffectFlags.Clear();
 	}

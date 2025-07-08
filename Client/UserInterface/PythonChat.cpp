@@ -33,6 +33,9 @@ CPythonChat::SChatLine* CPythonChat::SChatLine::New()
 void CPythonChat::SChatLine::Delete(CPythonChat::SChatLine* pkChatLine)
 {
 	pkChatLine->Instance.Destroy();
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	pkChatLine->pLanguage.Destroy();
+#endif
 	ms_kPool.Free(pkChatLine);
 }
 
@@ -78,6 +81,9 @@ CPythonChat::SChatLine::SChatLine()
 CPythonChat::SChatLine::~SChatLine()
 {
 	Instance.Destroy();
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	pLanguage.Destroy();
+#endif
 }
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
@@ -133,7 +139,18 @@ void CPythonChat::UpdateViewMode(DWORD dwID)
 		iHeight += pChatSet->m_iStep;
 		--iLineIndex;
 
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		int iWidth = pChatSet->m_ix;
+		if (pChatLine->pLanguage.GetWidth() > 0)
+		{
+			pChatLine->pLanguage.SetPosition(iWidth, pChatSet->m_iy + iHeight + 2);
+			iWidth += pChatLine->pLanguage.GetWidth() + 3;
+		}
+
+		pChatLine->Instance.SetPosition(iWidth, pChatSet->m_iy + iHeight);
+#else
 		pChatLine->Instance.SetPosition(pChatSet->m_ix, pChatSet->m_iy + iHeight);
+#endif
 		pChatLine->Instance.SetColor(rColor);
 		pChatLine->Instance.Update();
 	}
@@ -174,7 +191,17 @@ void CPythonChat::UpdateEditMode(DWORD dwID)
 		}
 
 		iHeight += pChatSet->m_iStep;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		int iWidth = pChatSet->m_ix;
+		if (pChatLine->pLanguage.GetWidth() > 0)
+		{
+			pChatLine->pLanguage.SetPosition(iWidth, pChatSet->m_iy + iHeight + 2);
+			iWidth += pChatLine->pLanguage.GetWidth() + 3;
+		}
+		pChatLine->Instance.SetPosition(iWidth, pChatSet->m_iy + iHeight);
+#else
 		pChatLine->Instance.SetPosition(pChatSet->m_ix, pChatSet->m_iy + iHeight);
+#endif
 		pChatLine->Instance.SetColor(rColor);
 		pChatLine->Instance.Update();
 	}
@@ -215,7 +242,15 @@ void CPythonChat::Update(DWORD dwID)
 			UpdateEditMode(dwID);
 			break;
 		case BOARD_STATE_LOG:
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		{
 			UpdateLogMode(dwID);
+			UpdateViewMode(dwID);
+			UpdateEditMode(dwID);
+		}
+#else
+			UpdateLogMode(dwID);
+#endif
 			break;
 	}
 
@@ -247,6 +282,10 @@ void CPythonChat::Render(DWORD dwID)
 	{
 		CGraphicTextInstance & rInstance = (*itor)->Instance;
 		rInstance.Render();
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		CGraphicImageInstance& lInstance = (*itor)->pLanguage;
+		lInstance.Render();
+#endif
 	}
 }
 
@@ -449,7 +488,11 @@ void CPythonChat::AppendChat(int iType, const char * c_szChat)
 	IAbstractApplication& rApp=IAbstractApplication::GetSingleton();
 	SChatLine * pChatLine = SChatLine::New();
 	pChatLine->iType = iType;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	pChatLine->Instance.SetValue(chatStr.c_str());
+#else
 	pChatLine->Instance.SetValue(c_szChat);
+#endif
 
 	// DEFAULT_FONT
 	pChatLine->Instance.SetTextPointer(pkDefaultFont);

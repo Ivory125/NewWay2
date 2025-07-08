@@ -861,20 +861,24 @@ bool LoadLocaleData(const char* localePath)
 #ifdef ENABLE_ASLAN_GROWTH_PET_SYSTEM
 	char szSkillPetFileName[256];
 #endif
-#ifdef ENABLE_LOAD_ITEM_LIST_FROM_ROOT
-	snprintf(szItemList,	sizeof(szItemList) ,	"item_list.txt");
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	snprintf(szItemList, sizeof(szItemList), "locale/common/item_list.txt");
+	snprintf(szSkillTableFileName, sizeof(szSkillTableFileName), "locale/common/SkillTable.txt");
 #else
-	snprintf(szItemList,	sizeof(szItemList) ,	"%s/item_list.txt",	localePath);
+	#ifdef ENABLE_LOAD_ITEM_LIST_FROM_ROOT
+		snprintf(szItemList, sizeof(szItemList), "item_list.txt");
+	#else
+		snprintf(szItemList, sizeof(szItemList), "%s/item_list.txt", localePath);
+	#endif
+
+	snprintf(szSkillTableFileName, sizeof(szSkillTableFileName), "%s/SkillTable.txt", localePath);
 #endif
-	snprintf(szItemProto,	sizeof(szItemProto),	"%s/item_proto",	localePath);
-	snprintf(szItemDesc,	sizeof(szItemDesc),	"%s/itemdesc.txt",	localePath);
-	snprintf(szMobProto,	sizeof(szMobProto),	"%s/mob_proto",		localePath);
-	snprintf(szSkillDescFileName, sizeof(szSkillDescFileName),	"%s/SkillDesc.txt", localePath);
-#ifdef ENABLE_LOAD_SKILL_TABLE_FROM_ROOT
-	snprintf(szSkillTableFileName, sizeof(szSkillTableFileName),	"SkillTable.txt");
-#else
-	snprintf(szSkillTableFileName, sizeof(szSkillTableFileName),	"%s/SkillTable.txt", localePath);
-#endif
+
+snprintf(szItemProto, sizeof(szItemProto), "%s/item_proto", localePath);
+snprintf(szItemDesc, sizeof(szItemDesc), "%s/itemdesc.txt", localePath);
+snprintf(szMobProto, sizeof(szMobProto), "%s/mob_proto", localePath);
+snprintf(szSkillDescFileName, sizeof(szSkillDescFileName), "%s/SkillDesc.txt", localePath);
+
 
 	snprintf(szInsultList,	sizeof(szInsultList),	"%s/insult.txt", localePath);
 

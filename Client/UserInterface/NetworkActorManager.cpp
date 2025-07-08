@@ -91,6 +91,9 @@ void SNetworkActorData::__copy__(const SNetworkActorData& src)
 
 	m_sAlignment = src.m_sAlignment;
 	m_byPKMode = src.m_byPKMode;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	m_bLanguage = src.m_bLanguage;
+#endif
 	m_dwMountVnum = src.m_dwMountVnum;
 
 	m_dwGuildID = src.m_dwGuildID;
@@ -136,6 +139,9 @@ SNetworkActorData::SNetworkActorData()
 
 	m_stName="";
 
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	m_bLanguage = 0;
+#endif
 	m_kAffectFlags.Clear();
 }
 
@@ -384,6 +390,9 @@ CInstanceBase* CNetworkActorManager::__AppendCharacterManagerActor(SNetworkActor
 #ifdef ELEMENT_SPELL_WORLDARD
 	kCreateData.m_dwElementsEffect = rkNetActorData.m_dwElementsEffect;
 #endif
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	kCreateData.m_bLanguage = rkNetActorData.m_bLanguage;
+#endif
 
 	CInstanceBase* pOldInstance = rkChrMgr.GetInstancePtr(dwVID);
 	if (pOldInstance)
@@ -514,6 +523,9 @@ void CNetworkActorManager::UpdateActor(const SNetworkUpdateActorData& c_rkNetUpd
 		pkInstFind->SetAlignment(c_rkNetUpdateActorData.m_sAlignment);
 		pkInstFind->SetPKMode(c_rkNetUpdateActorData.m_byPKMode);
 		pkInstFind->SetStateFlags(c_rkNetUpdateActorData.m_dwStateFlags);
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		pkInstFind->SetLanguage(c_rkNetUpdateActorData.m_bLanguage);
+#endif
 #ifdef ENABLE_ASLAN_GROWTH_PET_SYSTEM
 		pkInstFind->SetPetScale(c_rkNetUpdateActorData.m_dwLevel);
 #endif
@@ -537,6 +549,9 @@ void CNetworkActorManager::UpdateActor(const SNetworkUpdateActorData& c_rkNetUpd
 #endif
 	rkNetActorData.m_sAlignment=c_rkNetUpdateActorData.m_sAlignment;
 	rkNetActorData.m_byPKMode=c_rkNetUpdateActorData.m_byPKMode;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	rkNetActorData.m_bLanguage = c_rkNetUpdateActorData.m_bLanguage;
+#endif
 }
 
 void CNetworkActorManager::MoveActor(const SNetworkMoveActorData& c_rkNetMoveActorData)

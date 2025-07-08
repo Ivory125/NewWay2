@@ -809,6 +809,9 @@ bool CInstanceBase::Create(const SCreateData& c_rkCreateData)
 		SetInstanceType(CActorInstance::TYPE_PC);
 		SetRace(7);
 		SetHair(c_rkCreateData.m_dwHair);
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		SetLanguage(c_rkCreateData.m_bLanguage);
+#endif
 #ifdef ELEMENT_SPELL_WORLDARD
 		SetElementEffect(c_rkCreateData.m_dwElementsEffect);
 #endif

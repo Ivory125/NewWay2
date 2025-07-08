@@ -346,6 +346,24 @@ class CPythonNetworkStream : public CNetworkStream, public CSingleton<CPythonNet
 		bool SendFishingPacket(int iRotation);
 		bool SendGiveItemPacket(DWORD dwTargetVID, TItemPos ItemPos, int iItemCount);
 
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		// Multi Language
+		bool SendChangeLanguagePacket(BYTE bLanguage);
+		bool SendChangeLanguage(const char* lang);
+
+		void SetLanguage(BYTE bLanguage) { m_bLanguage = bLanguage; }
+		int GetLanguage() const { return m_bLanguage; }
+
+	protected:
+		BYTE m_bLanguage;
+
+	public:
+#endif
+
+#ifdef ENABLE_EXTENDED_WHISPER_DETAILS
+		bool SendWhisperDetails(const char* name);
+#endif
+
 		// Private Shop
 		bool SendBuildPrivateShopPacket(const char * c_szName, const std::vector<TShopItemTable> & c_rSellingItemStock);
 
@@ -643,6 +661,16 @@ class CPythonNetworkStream : public CNetworkStream, public CSingleton<CPythonNet
 
 		// Fishing
 		bool RecvFishing();
+
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	// Multi Language
+	bool RecvRequestChangeLanguage();
+#endif
+
+#ifdef ENABLE_EXTENDED_WHISPER_DETAILS
+	// Whisper Details
+	bool RecvWhisperDetails();
+#endif
 
 		// Dungeon
 		bool RecvDungeon();

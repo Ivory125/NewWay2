@@ -195,6 +195,13 @@ class CMainPacketHeaderMap : public CNetworkPacketHeaderMap
 			Set(HEADER_GC_HYBRIDCRYPT_SDB,	CNetworkPacketHeaderMap::TPacketType(sizeof(TPacketGCHybridSDB), DYNAMIC_SIZE_PACKET));
 			Set(HEADER_GC_SPECIFIC_EFFECT,	CNetworkPacketHeaderMap::TPacketType(sizeof(TPacketGCSpecificEffect), STATIC_SIZE_PACKET));
 			Set(HEADER_GC_DRAGON_SOUL_REFINE,		CNetworkPacketHeaderMap::TPacketType(sizeof(TPacketGCDragonSoulRefine), STATIC_SIZE_PACKET));
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+			Set(HEADER_GC_REQUEST_CHANGE_LANGUAGE, CNetworkPacketHeaderMap::TPacketType(sizeof(TPacketChangeLanguage), STATIC_SIZE_PACKET));
+#endif
+
+#ifdef ENABLE_EXTENDED_WHISPER_DETAILS
+			Set(HEADER_GC_WHISPER_DETAILS, CNetworkPacketHeaderMap::TPacketType(sizeof(TPacketGCWhisperDetails), STATIC_SIZE_PACKET));
+#endif
 #ifdef ELEMENT_SPELL_WORLDARD
 			Set(HEADER_GC_ELEMENTS_SPELL,	CNetworkPacketHeaderMap::TPacketType(sizeof(TPacketGCElementsSpell), STATIC_SIZE_PACKET));
 #endif

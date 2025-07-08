@@ -7,6 +7,9 @@ class CPythonTextTail : public CSingleton<CPythonTextTail>
 	public:
 		typedef struct STextTail
 		{
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+			CGraphicImageInstance* pLanguageInstance;
+#endif
 			CGraphicTextInstance*			pTextInstance;
 			CGraphicTextInstance*			pOwnerTextInstance;
 

@@ -19,6 +19,10 @@ const char*	LocaleService_GetSecurityKey();
 BOOL		LocaleService_IsLeadByte( const char chByte );
 int			LocaleService_StringCompareCI( LPCSTR szStringLeft, LPCSTR szStringRight, size_t sizeLength );
 
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+const char* LocaleService_GetLoca();
+bool LocaleService_SaveLoca(int iCodePage, const char* szLocale);
+#endif
 void		LocaleService_ForceSetLocale(const char* name, const char* localePath);
 void		LocaleService_LoadConfig(const char* fileName);
 bool		LocaleService_LoadGlobal(HINSTANCE hInstance);

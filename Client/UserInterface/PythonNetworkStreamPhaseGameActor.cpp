@@ -6,6 +6,9 @@
 #include "PythonApplication.h"
 #include "AbstractPlayer.h"
 #include "../gamelib/ActorInstance.h"
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+#include "InstanceBase.h"
+#endif
 
 void CPythonNetworkStream::__GlobalPositionToLocalPosition(LONG& rGlobalX, LONG& rGlobalY)
 {
@@ -115,6 +118,9 @@ bool CPythonNetworkStream::RecvCharacterAppendPacket()
 
 	kNetActorData.m_sAlignment=0;/*chrAddPacket.sAlignment*/;
 	kNetActorData.m_byPKMode=0;/*chrAddPacket.bPKMode*/;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	kNetActorData.m_bLanguage = 0;
+#endif
 	kNetActorData.m_dwGuildID=0;/*chrAddPacket.dwGuild*/;
 	kNetActorData.m_dwEmpireID=0;/*chrAddPacket.bEmpire*/;
 	kNetActorData.m_dwArmor=0;/*chrAddPacket.awPart[CHR_EQUIPPART_ARMOR]*/;
@@ -162,16 +168,62 @@ bool CPythonNetworkStream::RecvCharacterAdditionalInfo()
 	if (IsInvisibleRace(kNetActorData.m_dwRace))
 		return true;
 
-	if(kNetActorData.m_dwVID == chrInfoPacket.dwVID)
+	if (kNetActorData.m_dwVID == chrInfoPacket.dwVID)
 	{
-		const char* c_szNpcClientName;
+		const char* c_szNpcClientName = nullptr;
 
-		//#ifdef ENABLE_ASLAN_BUFF_NPC_SYSTEM
-		if (20101 <= kNetActorData.m_dwRace && 20232 >= kNetActorData.m_dwRace || 34001 <= kNetActorData.m_dwRace && 40305 >= kNetActorData.m_dwRace || 30000 == kNetActorData.m_dwRace || 10 == kNetActorData.m_dwRace || 11 == kNetActorData.m_dwRace)
+		// ASLAN Buff NPC System + Mehrsprachigkeit
+		if (
+			(20101 <= kNetActorData.m_dwRace && 20232 >= kNetActorData.m_dwRace) ||
+			(34001 <= kNetActorData.m_dwRace && 40305 >= kNetActorData.m_dwRace) ||
+			(30000 == kNetActorData.m_dwRace) ||
+			(10 == kNetActorData.m_dwRace) ||
+			(11 == kNetActorData.m_dwRace)
+		)
+		{
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+			if (kNetActorData.m_bType == CActorInstance::TYPE_NPC
+				&& kNetActorData.m_dwRace != 30000
+			)
+			{
+				if (
+					(kNetActorData.m_dwRace > 34000 && kNetActorData.m_dwRace < 35000) ||
+					(kNetActorData.m_dwRace > 20100 && kNetActorData.m_dwRace < 20110)
+				)
+				{
+					char szPetName[CHARACTER_NAME_MAX_LEN];
+					if (CPythonNonPlayer::Instance().GetName(kNetActorData.m_dwRace, &c_szNpcClientName))
+						sprintf(szPetName, "%s - %s", chrInfoPacket.name, c_szNpcClientName);
+					else
+						sprintf(szPetName, "%s", chrInfoPacket.name);
+
+					kNetActorData.m_stName = szPetName;
+				}
+				else
+				{
+					if (CPythonNonPlayer::Instance().GetName(kNetActorData.m_dwRace, &c_szNpcClientName))
+						kNetActorData.m_stName = c_szNpcClientName;
+					else
+						kNetActorData.m_stName = chrInfoPacket.name;
+				}
+			}
+			else
+			{
+				kNetActorData.m_stName = chrInfoPacket.name;
+			}
+#else
 			kNetActorData.m_stName = chrInfoPacket.name;
+#endif
+		}
 		else
-			kNetActorData.m_stName = (kNetActorData.m_bType == CActorInstance::TYPE_NPC && CPythonNonPlayer::Instance().GetName(kNetActorData.m_dwRace, &c_szNpcClientName)) ? c_szNpcClientName : chrInfoPacket.name;
-		kNetActorData.m_stName		= chrInfoPacket.name;
+		{
+			// Ursprüngliche NPC-Namenszuweisung außerhalb des ASLAN-Blocks
+			if (kNetActorData.m_bType == CActorInstance::TYPE_NPC && CPythonNonPlayer::Instance().GetName(kNetActorData.m_dwRace, &c_szNpcClientName))
+				kNetActorData.m_stName = c_szNpcClientName;
+			else
+				kNetActorData.m_stName = chrInfoPacket.name;
+		}
+
 		kNetActorData.m_dwGuildID	= chrInfoPacket.dwGuildID;
 		kNetActorData.m_dwLevel		= chrInfoPacket.dwLevel;
 		kNetActorData.m_sAlignment	= chrInfoPacket.sAlignment;
@@ -192,11 +244,14 @@ bool CPythonNetworkStream::RecvCharacterAdditionalInfo()
 #endif
 		kNetActorData.m_dwMountVnum	= chrInfoPacket.dwMountVnum;
 
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		kNetActorData.m_bLanguage = chrInfoPacket.bLanguage;
+#endif
 		__RecvCharacterAppendPacket(&kNetActorData);
 	}
 	else
 	{
-		TraceError("TPacketGCCharacterAdditionalInfo name=%s vid=%d race=%d Error",chrInfoPacket.name,chrInfoPacket.dwVID,kNetActorData.m_dwRace);
+		TraceError("TPacketGCCharacterAdditionalInfo name=%s vid=%d race=%d Error", chrInfoPacket.name, chrInfoPacket.dwVID, kNetActorData.m_dwRace);
 	}
 	return true;
 }
@@ -281,6 +336,9 @@ bool CPythonNetworkStream::RecvCharacterUpdatePacket()
 	kNetUpdateActorData.m_byPKMode		= chrUpdatePacket.bPKMode;
 	kNetUpdateActorData.m_dwStateFlags	= chrUpdatePacket.bStateFlag;
 	kNetUpdateActorData.m_dwMountVnum	= chrUpdatePacket.dwMountVnum;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	kNetUpdateActorData.m_bLanguage = chrUpdatePacket.bLanguage;
+#endif
 
 	__RecvCharacterUpdatePacket(&kNetUpdateActorData);
 

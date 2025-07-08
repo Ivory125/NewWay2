@@ -32,6 +32,15 @@ int		MULTI_LOCALE_REPORT_PORT	= 10000;
 
 void LocaleService_LoadConfig(const char* fileName)
 {
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	bool bMultiLocale = false;
+	const char* szMultiLocale = "loca.cfg";
+	if (_access(szMultiLocale, 0) == 0)
+	{
+		bMultiLocale = true;
+		fileName = szMultiLocale;
+	}
+#endif
 	FILE* fp = fopen(fileName, "rt");
 
 	if (fp)
@@ -43,9 +52,19 @@ void LocaleService_LoadConfig(const char* fileName)
 		if (fgets(line, sizeof(line)-1, fp))
 		{
 			line[sizeof(line)-1] = '\0';
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+			if (bMultiLocale)
+			{
+				sscanf(line, "%d %s", &code, name);
+			}
+			else
+			{
+				sscanf(line, "%d %d %s", &id, &code, name);
+			}
+#else
 			sscanf(line, "%d %d %s", &id, &code, name);
-
 			MULTI_LOCALE_REPORT_PORT		= id;
+#endif
 			MULTI_LOCALE_CODE				= code;
 			strcpy(MULTI_LOCALE_NAME, name);
 			sprintf(MULTI_LOCALE_PATH, "locale/%s", MULTI_LOCALE_NAME);
@@ -235,6 +254,27 @@ const char* LocaleService_GetName()				{ return _LSS_SERVICE_NAME;}
 unsigned int LocaleService_GetCodePage()		{ return _LSS_SERVICE_CODEPAGE; }
 const char*	LocaleService_GetLocaleName()		{ return _LSS_SERVICE_LOCALE_NAME; }
 const char*	LocaleService_GetLocalePath()		{ return _LSS_SERVICE_LOCALE_PATH; }
+#endif
+
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+const char* LocaleService_GetLoca() { return MULTI_LOCALE_NAME;}
+bool LocaleService_SaveLoca(int iCodePage, const char* szLocale)
+{
+	MULTI_LOCALE_CODE = iCodePage;
+	strcpy(MULTI_LOCALE_NAME, szLocale);
+	sprintf(MULTI_LOCALE_PATH, "locale/%s", MULTI_LOCALE_NAME);
+
+	SetDefaultCodePage(iCodePage);
+
+	FILE* File;
+
+	if (NULL == (File = fopen("loca.cfg", "wt")))
+		return false;
+
+	fprintf(File, "%d %s", iCodePage, szLocale);
+	fclose(File);
+	return true;
+}
 #endif
 
 void LocaleService_ForceSetLocale(const char* name, const char* localePath)

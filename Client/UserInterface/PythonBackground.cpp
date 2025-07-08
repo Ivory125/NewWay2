@@ -234,14 +234,17 @@ CPythonBackground::~CPythonBackground()
 	Tracen("CPythonBackground Clear");
 }
 
-#define ENABLE_ATLASINFO_FROM_ROOT
 void CPythonBackground::Initialize()
 {
-#ifdef ENABLE_ATLASINFO_FROM_ROOT
-	std::string stAtlasInfoFileName("AtlasInfo.txt");
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	const std::string stAtlasInfoFileName = "locale/common/AtlasInfo.txt";
 #else
-	std::string stAtlasInfoFileName (LocaleService_GetLocalePath());
-	stAtlasInfoFileName += "/AtlasInfo.txt";
+	#ifdef ENABLE_ATLASINFO_FROM_ROOT
+		std::string stAtlasInfoFileName("AtlasInfo.txt");
+	#else
+		std::string stAtlasInfoFileName(LocaleService_GetLocalePath());
+		stAtlasInfoFileName += "/AtlasInfo.txt";
+	#endif
 #endif
 	SetAtlasInfoFileName(stAtlasInfoFileName.c_str());
 	CMapManager::Initialize();

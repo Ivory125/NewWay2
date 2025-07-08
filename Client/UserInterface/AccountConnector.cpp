@@ -191,6 +191,10 @@ bool CAccountConnector::__AuthState_RecvPhase()
 		for (DWORD i = 0; i < 4; ++i)
 			LoginPacket.adwClientKey[i] = g_adwEncryptKey[i];
 
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		LoginPacket.bLanguage = rkNetStream.GetLanguage();
+#endif
+
 		if (!Send(sizeof(LoginPacket), &LoginPacket))
 		{
 			Tracen(" CAccountConnector::__AuthState_RecvPhase - SendLogin3 Error");

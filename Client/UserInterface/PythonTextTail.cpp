@@ -225,6 +225,9 @@ void CPythonTextTail::ArrangeTextTail()
 
 		int iNameWidth, iNameHeight;
 		pTextTail->pTextInstance->GetTextSize(&iNameWidth, &iNameHeight);
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		CGraphicImageInstance* pLanguageInstance = pTextTail->pLanguageInstance;
+#endif
 
 		CGraphicTextInstance * pTitle = pTextTail->pTitleTextInstance;
 		if (pTitle)
@@ -274,6 +277,14 @@ void CPythonTextTail::ArrangeTextTail()
 				}
 
 				pLevel->Update();
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+				if (pLanguageInstance)
+				{
+					int iLevelWidth, iLevelHeight;
+					pLevel->GetTextSize(&iLevelWidth, &iLevelHeight);
+					pLanguageInstance->SetPosition(pTextTail->x - (iNameWidth / 2) - iTitleWidth - iLevelWidth - pLanguageInstance->GetWidth() - 12.0f, pTextTail->y - 10.0f);
+				}
+#endif
 			}
 		}
 		else
@@ -303,6 +314,12 @@ void CPythonTextTail::ArrangeTextTail()
 				}
 
 				pLevel->Update();
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+				if (pLanguageInstance)
+				{
+					pLanguageInstance->SetPosition(pTextTail->x - (iNameWidth / 2) - iLevelWidth - pLanguageInstance->GetWidth() - 8.0f, pTextTail->y - 10.0f);
+				}
+#endif
 			}
 		}
 
@@ -346,6 +363,10 @@ void CPythonTextTail::Render()
 		if (pTextTail->pTitleTextInstance)
 		{
 			pTextTail->pTitleTextInstance->Render();
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+		if (pTextTail->pLanguageInstance)
+			pTextTail->pLanguageInstance->Render();
+#endif
 		}
 		if (pTextTail->pLevelTextInstance)
 		{
@@ -543,6 +564,56 @@ void CPythonTextTail::RegisterCharacterTextTail(DWORD dwGuildID, DWORD dwVirtual
 		prGuildNameInstance->Update();
 
 	}
+
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	CGraphicImageInstance *& prLanguage = pTextTail->pLanguageInstance;
+
+	if (!prLanguage)
+	{
+		BYTE bLanguage = pCharacterInstance->GetLanguage();
+		if(pCharacterInstance->IsPC() && bLanguage)
+		{
+			std::string langName = "en";
+			if (bLanguage == 1)
+				langName = "en";
+			else if (bLanguage == 2)
+				langName = "pt";
+			else if (bLanguage == 3)
+				langName = "es";
+			else if (bLanguage == 4)
+				langName = "fr";
+			else if (bLanguage == 5)
+				langName = "de";
+			else if (bLanguage == 6)
+				langName = "ro";
+			else if (bLanguage == 7)
+				langName = "pl";
+			else if (bLanguage == 8)
+				langName = "it";
+			else if (bLanguage == 9)
+				langName = "cz";
+			else if (bLanguage == 10)
+				langName = "hu";
+			else if (bLanguage == 11)
+				langName = "tr";
+			else
+				langName = "eu"; // en
+
+			char szFileName[256];
+			sprintf(szFileName, "d:/ymir work/ui/game/flag/%s.tga", langName.c_str());
+
+			if (CResourceManager::Instance().IsFileExist(szFileName))
+			{
+				CGraphicImage * pLanguageImage = (CGraphicImage *)CResourceManager::Instance().GetResourcePointer(szFileName);
+				if (pLanguageImage)
+				{
+					prLanguage = CGraphicImageInstance::New();
+					prLanguage->SetImagePointer(pLanguageImage);
+				}
+			}
+		}
+	}
+#endif
 
 	m_CharacterTextTailMap.insert(TTextTailMap::value_type(dwVirtualID, pTextTail));
 }
@@ -802,6 +873,9 @@ CPythonTextTail::TTextTail * CPythonTextTail::RegisterTextTail(DWORD dwVirtualID
 	pTextTail->pGuildNameTextInstance = NULL;
 	pTextTail->pTitleTextInstance = NULL;
 	pTextTail->pLevelTextInstance = NULL;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	pTextTail->pLanguageInstance = NULL;
+#endif
 	return pTextTail;
 }
 

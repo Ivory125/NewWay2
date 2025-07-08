@@ -134,12 +134,18 @@ enum
 	HEADER_CG_GUILD_SYMBOL_CRC					= 113,
 	HEADER_CG_SCRIPT_SELECT_ITEM				= 114,
 	HEADER_CG_LOGIN4							= 115,
+#ifdef ENABLE_EXTENDED_WHISPER_DETAILS
+	HEADER_CG_WHISPER_DETAILS = 120,
+#endif
 #ifdef ENABLE_IKASHOP_RENEWAL
 	HEADER_CG_NEW_OFFLINESHOP					= 119,
 #endif
 
 	HEADER_CG_DRAGON_SOUL_REFINE				= 205,
 	HEADER_CG_STATE_CHECKER						= 206,
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	HEADER_CG_CHANGE_LANGUAGE = 230,
+#endif
 #if defined(BL_PRIVATESHOP_SEARCH_SYSTEM)
 	HEADER_CG_PRIVATE_SHOP_SEARCH = 216,
 	HEADER_CG_PRIVATE_SHOP_SEARCH_CLOSE = 217,
@@ -314,6 +320,9 @@ enum
 	HEADER_GC_HYBRIDCRYPT_KEYS					= 152,
 	HEADER_GC_HYBRIDCRYPT_SDB					= 153, // SDB means Supplmentary Data Blocks
 	//HYBRID CRYPT
+#ifdef ENABLE_EXTENDED_WHISPER_DETAILS
+	HEADER_GC_WHISPER_DETAILS = 170,
+#endif
 #ifdef ENABLE_ASLAN_GROWTH_PET_SYSTEM
 	HEADER_GC_GROWTH_PET_INFO					= 160,
 #endif
@@ -324,6 +333,9 @@ enum
 	HEADER_GC_SPECIFIC_EFFECT					= 208,
 	HEADER_GC_DRAGON_SOUL_REFINE				= 209,
 	HEADER_GC_RESPOND_CHANNELSTATUS				= 210,
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	HEADER_GC_REQUEST_CHANGE_LANGUAGE = 250,
+#endif
 #if defined(BL_PRIVATESHOP_SEARCH_SYSTEM)
 	HEADER_GC_PRIVATE_SHOP_SEARCH = 216,
 	HEADER_GC_PRIVATE_SHOP_SEARCH_OPEN = 217,
@@ -517,6 +529,9 @@ typedef struct command_login3
     char	name[ID_MAX_NUM + 1];
     char	pwd[PASS_MAX_NUM + 1];
     DWORD	adwClientKey[4];
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	DWORD bLanguage;
+#endif
 } TPacketCGLogin3;
 
 typedef struct command_direct_enter
@@ -1326,6 +1341,9 @@ typedef struct packet_char_additional_info
 #ifdef ENABLE_QUIVER_SYSTEM
 	DWORD	dwArrow;
 #endif
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	BYTE bLanguage;
+#endif
 } TPacketGCCharacterAdditionalInfo;
 
 typedef struct packet_add_char
@@ -1405,6 +1423,9 @@ typedef struct packet_update_char
 	DWORD		dwMountVnum;
 #ifdef ENABLE_QUIVER_SYSTEM
 	DWORD		dwArrow;
+#endif
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	BYTE bLanguage;
 #endif
 } TPacketGCCharacterUpdate;
 
@@ -3489,4 +3510,28 @@ typedef struct SPacketCGRenewPetName
 #endif
 
 #pragma pack(pop)
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+typedef struct SPacketChangeLanguage
+{
+	BYTE bHeader;
+	BYTE bLanguage;
+} TPacketChangeLanguage;
+#endif
+
+#ifdef ENABLE_EXTENDED_WHISPER_DETAILS
+typedef struct SPacketCGWhisperDetails
+{
+	BYTE header;
+	char name[CHARACTER_NAME_MAX_LEN + 1];
+} TPacketCGWhisperDetails;
+
+typedef struct SPacketGCWhisperDetails
+{
+	BYTE header;
+	char name[CHARACTER_NAME_MAX_LEN + 1];
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+	BYTE bLanguage;
+#endif
+} TPacketGCWhisperDetails;
+#endif
 //martysama0134's 4ee2cf2c13ce32ff35a20010fbba866e

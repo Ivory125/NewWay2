@@ -2,6 +2,9 @@
 
 #include "Packet.h"
 #include "AbstractChat.h"
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+#include "PythonSystem.h"
+#endif
 
 class CWhisper
 {
@@ -9,6 +12,9 @@ class CWhisper
 		typedef struct SChatLine
 		{
 			CGraphicTextInstance Instance;
+#ifdef ENABLE_MULTI_LANGUAGE_SYSTEM
+			CGraphicImageInstance pLanguage;
+#endif
 
 			SChatLine()
 			{

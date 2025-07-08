@@ -128,11 +128,32 @@ def IsPressingSHIFT():
 	return app.IsPressed(app.DIK_LSHIFT) or app.IsPressed(app.DIK_RSHIFT)
 
 def GetInventoryItemHash(win, pos):
-	vnum = player.GetItemIndex(win, pos)
-	count = player.GetItemCount(win, pos)
-	sockets = tuple(player.GetItemMetinSocket(win, pos, i) for i in xrange(player.METIN_SOCKET_MAX_NUM))
-	attrs = tuple(player.GetItemAttribute(win, pos, i) for i in xrange(player.ATTRIBUTE_SLOT_MAX_NUM))
-	return ikashop.GetItemHash(vnum, count, sockets, attrs)
+        vnum = player.GetItemIndex(win, pos)
+        count = player.GetItemCount(win, pos)
+        sockets = tuple(player.GetItemMetinSocket(win, pos, i) for i in xrange(player.METIN_SOCKET_MAX_NUM))
+        attrs = tuple(player.GetItemAttribute(win, pos, i) for i in xrange(player.ATTRIBUTE_SLOT_MAX_NUM))
+        return ikashop.GetItemHash(vnum, count, sockets, attrs)
+
+def SetTooltipItemData(tooltip, data):
+        tooltip.ClearToolTip()
+        if app.ELEMENT_SPELL_WORLDARD:
+                grade = data.get('grade_element', 0)
+                attack = 0
+                value = 0
+                if grade > 0:
+                        attack_list = data.get('attack_element', [])
+                        value_list = data.get('elements_value_bonus', [])
+                        if grade - 1 < len(attack_list):
+                                attack = attack_list[grade - 1]
+                        if grade - 1 < len(value_list):
+                                value = value_list[grade - 1]
+                tooltip.ElementSpellItemDateDirect(
+                        grade,
+                        attack,
+                        data.get('element_type_bonus', 0),
+                        value,
+                )
+        tooltip.AddItemData(data['vnum'], data['sockets'], data['attrs'])
 
 def GetAttributeSettings():
 	def NoFormat(str):
@@ -567,8 +588,7 @@ class IkarusShopSafeboxBoard(IkashopBoardWithTitleBar):
 		if slot in self.items:
 			data = self.items[slot]
 			tooltip = self.GetToolTip()
-			tooltip.ClearToolTip()
-			tooltip.AddItemData(data['vnum'], data['sockets'], data['attrs'])
+			SetTooltipItemData(tooltip, data)
 			tooltip.AppendTextLine(locale.IKASHOP_SAFEBOX_CLAIM_ITEM_TOOLTIP)
 			tooltip.ShowToolTip()
 
@@ -895,8 +915,7 @@ class IkarusShopAuctionOwnerBoard(IkashopBoardWithTitleBar):
 	def _OverInItem(self, slot):
 		data = self.auctionInfo
 		tooltip = self.GetToolTip()
-		tooltip.ClearToolTip()
-		tooltip.AddItemData(data['vnum'], data['sockets'], data['attrs'])
+		SetTooltipItemData(tooltip, data)
 		tooltip.ShowToolTip()
 
 	def _OverOutItem(self, slot = 0):
@@ -1103,10 +1122,9 @@ class IkarusShopOfferView(IkarusShopWindow):
 		self.slot.SetOverOutItemEvent(self._OverOutItem)
 
 	def _OverInItem(self, slot):
-		tooltip = self.GetToolTip()
-		tooltip.ClearToolTip()
-		tooltip.AddItemData(self.itemData['vnum'], self.itemData['sockets'], self.itemData['attrs'])
-		tooltip.ShowToolTip()
+                tooltip = self.GetToolTip()
+                SetTooltipItemData(tooltip, self.itemData)
+                tooltip.ShowToolTip()
 
 	def _OverOutItem(self):
 		tooltip = self.GetToolTip()
@@ -1444,8 +1462,7 @@ class IkarusShopBusinessBoard(IkashopBoardWithTitleBar):
 		if slot in self.shopInfo['items']:
 			data = self.shopInfo['items'][slot]
 			tooltip = self.GetToolTip()
-			tooltip.ClearToolTip()
-			tooltip.AddItemData(data['vnum'], data['sockets'], data['attrs'])
+			SetTooltipItemData(tooltip, data)
 			if 'price' in data and data['price'] != 0:
 				tooltip.AppendPrice(data['price'])
 			if 'cheque' in data and data['cheque'] != 0:
@@ -1718,12 +1735,11 @@ class IkarusShopGuestBoard(IkashopBoardWithTitleBar):
 	def _ShowToolTipOnItemSlot(self, slot):
 		if slot in self.shopInfo['items']:
 			data = self.shopInfo['items'][slot]
-			tooltip = self.GetToolTip()
-			tooltip.ClearToolTip()
-			tooltip.AddItemData(data['vnum'], data['sockets'], data['attrs'])
-			if 'price' in data and data['price'] != 0:
-				tooltip.AppendPrice(data['price'])
-			if 'cheque' in data and data['cheque'] != 0:
+                        tooltip = self.GetToolTip()
+                        SetTooltipItemData(tooltip, data)
+                        if 'price' in data and data['price'] != 0:
+                                tooltip.AppendPrice(data['price'])
+                        if 'cheque' in data and data['cheque'] != 0:
 				tooltip.AppendCheque(data['cheque'])
 			tooltip.AppendTextLine(locale.IKASHOP_SHOP_GUEST_BUY_ITEM_TOOLTIP)
 			tooltip.AppendTextLine(locale.IKASHOP_SHOP_GUEST_OFFER_ITEM_TOOLTIP)
@@ -1897,10 +1913,9 @@ class IkarusAuctionGuestBoard(IkashopBoardWithTitleBar):
 
 	def _OverInItem(self, slot):
 		data = self.auctionInfo
-		tooltip = self.GetToolTip()
-		tooltip.ClearToolTip()
-		tooltip.AddItemData(data['vnum'], data['sockets'], data['attrs'])
-		tooltip.ShowToolTip()
+                tooltip = self.GetToolTip()
+                SetTooltipItemData(tooltip, data)
+                tooltip.ShowToolTip()
 
 	def _OverOutItem(self, slot = 0):
 		tooltip = self.GetToolTip()
@@ -2443,10 +2458,9 @@ class IkarusSearchShopItem(IkarusShopWindow):
 		if self.data['is_auction']:
 			ikashop.SendAuctionOpenAuction(self.data['owner'])
 	def _OverInItem(self, slot):
-		tooltip = self.GetToolTip()
-		tooltip.ClearToolTip()
-		tooltip.AddItemData(self.data['vnum'], self.data['sockets'], self.data['attrs'])
-		tooltip.ShowToolTip()
+                tooltip = self.GetToolTip()
+                SetTooltipItemData(tooltip, self.data)
+                tooltip.ShowToolTip()
 
 	def _OverOutItem(self):
 		tooltip = self.GetToolTip()
